@@ -1,0 +1,41 @@
+{
+  "settings": {
+    "migrated": 2,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "IbPhoneSignal",
+      "FabSignal",
+      "SiReact",
+      "SiBookstack",
+      "SiTextpattern"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "СSharp": "SiCsharp",
+  "AdditionalTasks": "SiTask",
+  "ApiAndProtocols": "FabNetworkWired",
+  "Architecture": "FabBook",
+  "AspNetCore": "FabServer",
+  "AspNetCoreMVС": "IbTreeMapDown1",
+  "Authentication": "FabUsers",
+  "Blazor": "SiBlazor",
+  "DataBase": "FabDatabase",
+  "Docker": "SiDocker",
+  "EntityFramework": "FabMap",
+  "Git": "SiGit",
+  "Linux": "FabLinux",
+  "Patterns": "SiBookstack",
+  "React": "SiReact",
+  "SignalR": "IbPhoneSignal"
+}

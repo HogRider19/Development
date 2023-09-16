@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ea60f850ee412a8b",
+        "id": "03847fb597b2f1c5",
         "type": "tabs",
         "children": [
           {
-            "id": "8520349da930f7b3",
+            "id": "5d5c875a63d663d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ApiAndProtocols/JsonRpc.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -38,7 +34,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ApiAndProtocols/JsonRpc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ApiAndProtocols/JsonRpc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ApiAndProtocols/JsonRpc.md"
+                "file": "Docker/Untitled.md"
               }
             }
           }
@@ -146,34 +140,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8520349da930f7b3",
+  "active": "0293b9eb6abbb099",
   "lastOpenFiles": [
+    "Docker/Images.md",
+    "AdditionalTasks/Css.md",
+    "AspNetCore/Основы.md",
+    "Docker/Untitled.md",
     "Architecture/Domain Driven Design.md",
-    "SignalR/Authorisation.md",
+    "Docker/Volumes.md",
+    "ApiAndProtocols/RestfullApi.md",
+    "ApiAndProtocols/Ajax.md",
+    "Linux/Bash.md",
+    "Linux/Cron.md",
+    "Linux/BaseCommands.md",
+    "Patterns/Behavioral.md",
+    "СSharp/Управление памятью.md",
+    "СSharp/ООП.md",
+    "СSharp/Модификаторы доступа.md",
+    "СSharp/Интерфейсы.md",
+    "AspNetCoreMVС/Models.md",
+    "AspNetCoreMVС/Filters.md",
     "ApiAndProtocols/JsonRpc.md",
+    "SignalR/Authorisation.md",
     "AdditionalTasks/DataStructures.md",
     "СSharp/Linq.md",
     "AdditionalTasks/Metriks.md",
     "Linux/Base.md",
     "React/StateManagment.md",
     "React/Components.md",
-    "React/Base.md",
-    "Patterns/Behavioral.md",
-    "Patterns/Structural.md",
-    "Patterns/Generative.md",
-    "Linux/Generative.md",
-    "Linux/Users.md",
-    "Linux/Bash.md",
-    "Linux/Cron.md",
-    "Linux/FolderWorks.md",
-    "Linux/RemoteServer.md",
-    "Linux/SpecialSymbols.md",
-    "Linux/BaseCommands.md",
-    "Git/RemoteRepos.md",
-    "Git/BaseCommands.md",
-    "Git/Marge.md",
-    "Git/Commit.md",
-    "Git/Branch.md",
     "Untitled",
     "React",
     "Patterns",
