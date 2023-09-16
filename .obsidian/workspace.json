@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "03847fb597b2f1c5",
+        "id": "0c70e6af46930530",
         "type": "tabs",
         "children": [
           {
-            "id": "5d5c875a63d663d3",
+            "id": "79341df0cd918026",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SignalR/Filters.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SignalR/Filters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SignalR/Filters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Untitled.md"
+                "file": "SignalR/Filters.md"
               }
             }
           }
@@ -140,34 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0293b9eb6abbb099",
+  "active": "79341df0cd918026",
   "lastOpenFiles": [
-    "Docker/Images.md",
-    "AdditionalTasks/Css.md",
-    "AspNetCore/Основы.md",
-    "Docker/Untitled.md",
-    "Architecture/Domain Driven Design.md",
-    "Docker/Volumes.md",
-    "ApiAndProtocols/RestfullApi.md",
-    "ApiAndProtocols/Ajax.md",
-    "Linux/Bash.md",
-    "Linux/Cron.md",
-    "Linux/BaseCommands.md",
-    "Patterns/Behavioral.md",
-    "СSharp/Управление памятью.md",
-    "СSharp/ООП.md",
-    "СSharp/Модификаторы доступа.md",
-    "СSharp/Интерфейсы.md",
-    "AspNetCoreMVС/Models.md",
-    "AspNetCoreMVС/Filters.md",
-    "ApiAndProtocols/JsonRpc.md",
+    "SignalR/Groups.md",
     "SignalR/Authorisation.md",
-    "AdditionalTasks/DataStructures.md",
-    "СSharp/Linq.md",
-    "AdditionalTasks/Metriks.md",
-    "Linux/Base.md",
+    "SignalR/Hub.md",
+    "SignalR/Основы.md",
     "React/StateManagment.md",
     "React/Components.md",
+    "React/Base.md",
+    "Patterns/Behavioral.md",
+    "Patterns/Structural.md",
+    "Patterns/Generative.md",
+    "Linux/Generative.md",
+    "Linux/Users.md",
+    "Linux/Bash.md",
+    "Linux/Cron.md",
+    "Linux/FolderWorks.md",
+    "Linux/RemoteServer.md",
+    "Linux/SpecialSymbols.md",
+    "Linux/BaseCommands.md",
+    "Linux/Base.md",
+    "Git/RemoteRepos.md",
+    "Git/BaseCommands.md",
+    "Git/Marge.md",
+    "Git/Commit.md",
+    "Git/Branch.md",
+    "Git/TrackingStatuses.md",
+    "EntityFramework/Наследование.md",
     "Untitled",
     "React",
     "Patterns",

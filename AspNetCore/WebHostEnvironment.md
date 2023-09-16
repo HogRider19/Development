@@ -2,7 +2,10 @@
 
 **app.Environment** - получение объекта IWebHostEnvironment **context.HostingEnvironment** - получение объекта IWebHostEnvironment
 
-**Env.IsEnvironment(string envName)** - true, если совпадает EnvName **Env.IsDevelopment()** - возвращает true, если имя среды - Development **Env.IsStaging()** - возвращает true, если имя среды - Staging **Env.IsProduction()** - возвращает true, если имя среды - Production
+**Env.IsEnvironment(string envName)** - true, если совпадает EnvName
+**Env.IsDevelopment()** - возвращает true, если имя среды - Development 
+**Env.IsStaging()** - возвращает true, если имя среды - Staging 
+**Env.IsProduction()** - возвращает true, если имя среды - Production
 
 ## IWebHostEnvironment свойства:
 

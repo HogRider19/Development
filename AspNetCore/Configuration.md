@@ -1,6 +1,8 @@
 В приложении настройки конфигурации хранятся в свойстве Configuration объекта WebApplication. Соответственно через это свойство мы можем установить или получить настройки конфигурации
 
-**IConfiguration** - интерфейс определяющий конфигурацию приложения **IConfigurationRoot** - интерфейс для агрегатора конфигураций **ConfigurationSection** - интерфейс секции конфигурации
+**IConfiguration** - интерфейс определяющий конфигурацию приложения
+**IConfigurationRoot** - интерфейс для агрегатора конфигураций
+**ConfigurationSection** - интерфейс секции конфигурации
 
 ## Интерфейс IConfiguration:
 
@@ -11,6 +13,11 @@
 
 ---
 
-**JsonConfigurationProvider** - провайдер JSON конфигурации **XmlConfigurationProvide**r - провайдер XML конфигурации **IniConfigurationProvider** - провайдер ini конфигурации
+**JsonConfigurationProvider** - провайдер JSON конфигурации
+**XmlConfigurationProvide**r - провайдер XML конфигурации 
+**IniConfigurationProvider** - провайдер ini конфигурации
 
-**Config.AddJsonFile()** - метод расширения для загрузки json **Config.AddXmlFile()** - метод расширения для загрузки xml **Config.AddIniFile()** - метод расширения для загрузки ini **Config.AddInMemoryCollection()** - конфигурация из словаря
+**Config.AddJsonFile()** - метод расширения для загрузки json
+**Config.AddXmlFile()** - метод расширения для загрузки xml
+**Config.AddIniFile()** - метод расширения для загрузки ini
+**Config.AddInMemoryCollection()** - конфигурация из словаря

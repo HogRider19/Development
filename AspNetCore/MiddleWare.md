@@ -18,8 +18,6 @@
 
 ## Class Middleware:
 
----
-
 **app.UseMiddleware()** - добавление middleware
 
 ### Класс middleware должен иметь:

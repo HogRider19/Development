@@ -8,7 +8,8 @@
 
 ## Cookie
 
-**Request.Cookies** - коллекция IReqCookieCollection для получения куки **Response.Cookies** - коллекция IIResponseCookies для установки куки
+**Request.Cookies** - коллекция IReqCookieCollection для получения куки
+**Response.Cookies** - коллекция IIResponseCookies для установки куки
 
 Куки представляют самый простой способ сохранить данные пользователя. Куки хранятся на компьютере пользователя и могут устанавливаться как на сервере, так и на клиенте. Так как куки посылаются с каждым запросом на сервер, то их максимальный размер ограничен 4096 байтами.
 
@@ -28,7 +29,9 @@
 
 Все сессии работают поверх объекта IDistributedCache, и AspNetCore предоставляет встроенную реализацию IDistributedCache, которую мы можем использовать
 
-**Services.AddDistributedMemoryCache()** - добавление хранилища **Services.AddSession()** - добавление поддержки сессий **app.UseSession()** - добавление middleware для работы с сессиями
+**Services.AddDistributedMemoryCache()** - добавление хранилища
+**Services.AddSession()** - добавление поддержки сессий
+**app.UseSession()** - добавление middleware для работы с сессиями
 
 **HttpContext.Session** - объект ISession для работы с сессиями
 

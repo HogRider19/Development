@@ -2,7 +2,8 @@
 
 **Hub.Goups** - свойство IGroupManager для работы с группами в Hub
 
-**Goups.AddToGroupAsync(connectionId, groupName)** - добавляет клиента с идентификатором connectionId в группу groupName **Goups.RemoveFromGroupAsync(connectionId, groupName)** - удаляет клиента с идентификатором connectionId из группы groupName
+**Goups.AddToGroupAsync(connectionId, groupName)** - добавляет клиента с идентификатором connectionId в группу groupName
+**Goups.RemoveFromGroupAsync(connectionId, groupName)** - удаляет клиента с идентификатором connectionId из группы groupName
 
 ---
 

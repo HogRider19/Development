@@ -18,7 +18,12 @@
 
 Первый параметр - объект HubInvocationContext представляет контекст вызова Hub и хранит всю связанную информацию в виде свойств:
 
-**Context** - контекст хаба - объект HubCallerContext **Hub** - вызываемый хаб в виде объекта класса Hub **HubMethod** - вызываемый метод хаба - объект MethodName **HubMethodName** - название вызываемого метода Hub **HubMethodArguments** - аргументы вызываемого метода Hub **ServiceProvider** - провайдер сервисов - объект IServiceProvider
+**Context** - контекст хаба - объект HubCallerContext 
+**Hub** - вызываемый хаб в виде объекта класса Hub 
+**HubMethod** - вызываемый метод хаба - объект MethodName
+**HubMethodName** - название вызываемого метода Hub 
+**HubMethodArguments** - аргументы вызываемого метода Hub
+**ServiceProvider** - провайдер сервисов - объект IServiceProvider
 
 Второй параметр - next представляет следующий в конвейере фильтр Hub. Если в конвейере больше нет фильтров, то представляет вызов метода Hub. Метод возвращает результат работы метода Hub.
 
@@ -30,7 +35,9 @@
 
 Первый параметр - объект HubLifetimeContext представляет контекст вызова метода OnConnectedAsync и имеет следующие свойства:
 
-**Context** - контекст Hub объект HubCallerContext **Hub** - вызываемый Hub в виде объекта класса Hub **ServiceProvider** - провайдер сервисов - объект IServiceProvider
+**Context** - контекст Hub объект HubCallerContext 
+**Hub** - вызываемый Hub в виде объекта класса Hub
+**ServiceProvider** - провайдер сервисов - объект IServiceProvider
 
 Второй параметр - next представляет следующий в конвейере фильтр хаба. Если в конвейере больше нет фильтров, то представляет вызов метода хаба.
 

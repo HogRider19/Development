@@ -14,11 +14,15 @@
 
 ---
 
-**Services.AddServName() -** подключение стандартного сервиса **Services.AddTransient()()** - подключение сервиса **Services.AddScoped()()** - подключение сервиса **Services.AddSingleton()()** - подключение сервиса
+**Services.AddServName() -** подключение стандартного сервиса
+**Services.AddTransient()()** - подключение сервиса 
+**Services.AddScoped()()** - подключение сервиса
+**Services.AddSingleton()()** - подключение сервиса
 
 ---
 
-**Services.GetService()** - получение сервиса или null **Services.GetRequiredService()** - получение сервиса или exc
+**Services.GetService()** - получение сервиса или null
+**Services.GetRequiredService()** - получение сервиса или exc
 
 ---
 
