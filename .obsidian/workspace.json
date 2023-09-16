@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "682b0435af918a56",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea60f850ee412a8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8520349da930f7b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ApiAndProtocols/JsonRpc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c915d5b819119d54",
+    "type": "split",
+    "children": [
+      {
+        "id": "0524210937d0da63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0293b9eb6abbb099",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a2683a370ef5f0c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "605b68022850dbce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "38338d5ab50526df",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb1dca7557e75cff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56f158849f0f1e2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ApiAndProtocols/JsonRpc.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29f2ce4e5223aeba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ApiAndProtocols/JsonRpc.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8a65ca9ccfa87726",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eb3adc41b9beda58",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ApiAndProtocols/JsonRpc.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8520349da930f7b3",
+  "lastOpenFiles": [
+    "Architecture/Domain Driven Design.md",
+    "SignalR/Authorisation.md",
+    "ApiAndProtocols/JsonRpc.md",
+    "AdditionalTasks/DataStructures.md",
+    "СSharp/Linq.md",
+    "AdditionalTasks/Metriks.md",
+    "Linux/Base.md",
+    "React/StateManagment.md",
+    "React/Components.md",
+    "React/Base.md",
+    "Patterns/Behavioral.md",
+    "Patterns/Structural.md",
+    "Patterns/Generative.md",
+    "Linux/Generative.md",
+    "Linux/Users.md",
+    "Linux/Bash.md",
+    "Linux/Cron.md",
+    "Linux/FolderWorks.md",
+    "Linux/RemoteServer.md",
+    "Linux/SpecialSymbols.md",
+    "Linux/BaseCommands.md",
+    "Git/RemoteRepos.md",
+    "Git/BaseCommands.md",
+    "Git/Marge.md",
+    "Git/Commit.md",
+    "Git/Branch.md",
+    "Untitled",
+    "React",
+    "Patterns",
+    "Linux",
+    "Git",
+    "Authentication",
+    "ApiAndProtocols",
+    "DataBase",
+    "Docker",
+    "Architecture"
+  ]
+}
