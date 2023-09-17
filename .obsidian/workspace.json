@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "a402b626a1733002",
+        "id": "6c9cb633bd42ed13",
         "type": "tabs",
         "children": [
           {
-            "id": "286b2caedd715e9a",
+            "id": "e1484beb87bfb066",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -138,12 +138,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "286b2caedd715e9a",
+  "active": "0293b9eb6abbb099",
   "lastOpenFiles": [
-    "Patterns/Examples/🟡AbstractFactory.md",
-    "Patterns/Examples/🟡FactoryMethod.md",
-    "Patterns/🟡Generative.md",
     "Patterns/🟢Base.md",
+    "Patterns/🟡Generative.md",
+    "Patterns/Examples/🟡FactoryMethod.md",
+    "Patterns/Examples/🟢Singleton.md",
+    "Patterns/Examples/🟡AbstractFactory.md",
     "Patterns/🟡Structural.md",
     "Patterns/🟡Behavioral.md",
     "Git/🟢TrackingStatuses.md",
@@ -167,7 +168,6 @@
     "EntityFramework/🟡DataAnotations.md",
     "EntityFramework/🟡DataBaseContext.md",
     "EntityFramework/🟡Основы.md",
-    "DataBase/WindowFunc.md",
     "Untitled",
     "React",
     "Patterns",
