@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6c9cb633bd42ed13",
+        "id": "39d09fbc82de9f33",
         "type": "tabs",
         "children": [
           {
-            "id": "e1484beb87bfb066",
+            "id": "b501809e50c437da",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,13 +138,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0293b9eb6abbb099",
+  "active": "b501809e50c437da",
   "lastOpenFiles": [
-    "Patterns/🟢Base.md",
-    "Patterns/🟡Generative.md",
-    "Patterns/Examples/🟡FactoryMethod.md",
-    "Patterns/Examples/🟢Singleton.md",
+    "Patterns/Examples/Command.md",
+    "Patterns/Examples/🟡Observer.md",
     "Patterns/Examples/🟡AbstractFactory.md",
+    "Patterns/Examples/🟢Strategy.md",
+    "Patterns/Examples/🟢Prototype.md",
+    "Patterns/Examples/🟡Builder.md",
+    "Patterns/Examples/🟢Singleton.md",
+    "Untitled.canvas",
+    "Patterns/🟡Generative.md",
+    "Linux/Cron.md",
+    "DataBase/🟡Transactions.md",
+    "DataBase/🟡Organization.md",
+    "Patterns/🟢Base.md",
+    "Patterns/Examples/🟡FactoryMethod.md",
     "Patterns/🟡Structural.md",
     "Patterns/🟡Behavioral.md",
     "Git/🟢TrackingStatuses.md",
@@ -160,14 +169,6 @@
     "AdditionalTasks/🟢DataStructures.md",
     "SignalR/🟡Filters.md",
     "SignalR/🟡Groups.md",
-    "SignalR/🟡Authorisation.md",
-    "SignalR/🟡Hub.md",
-    "Git/🟡Marge.md",
-    "EntityFramework/🟡Наследование.md",
-    "EntityFramework/🟡FluentApi.md",
-    "EntityFramework/🟡DataAnotations.md",
-    "EntityFramework/🟡DataBaseContext.md",
-    "EntityFramework/🟡Основы.md",
     "Untitled",
     "React",
     "Patterns",
