@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a1f2efd24e553f64",
+        "id": "3f119b96e63132cd",
         "type": "tabs",
         "children": [
           {
-            "id": "44be6f2b575b2e19",
+            "id": "3fce6f7ff4546434",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Patterns/Examples/🟡State.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Patterns/Examples/🟡State.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Patterns/Examples/🟡State.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Patterns/Examples/🟡State.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,12 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44be6f2b575b2e19",
+  "active": "3fce6f7ff4546434",
   "lastOpenFiles": [
+    "Patterns/Examples/🟡Visitor.md",
+    "Patterns/Examples/🟡Memento.md",
+    "Patterns/Examples/🟡Mediator.md",
+    "Patterns/Examples/🟡Interpreter.md",
+    "Patterns/Examples/🟡ChainOfResponsibility.md",
+    "Patterns/Examples/🟡State.md",
     "Patterns/🟡Generative.md",
     "Patterns/Examples/🟡TemplateMethod.md",
     "Patterns/Examples/🟢Iterator.md",
-    "Patterns/Examples/🟡State.md",
     "Linux/Cron.md",
     "Patterns/🟡Behavioral.md",
     "Patterns/Examples/🟢Prototype.md",
@@ -170,13 +167,8 @@
     "Patterns/Examples/🟢Singleton.md",
     "DataBase/🟡Transactions.md",
     "DataBase/🟡Organization.md",
-    "Patterns/Examples/🟡FactoryMethod.md",
-    "Git/🟢TrackingStatuses.md",
-    "AspNetCoreMVС/🟡Views.md",
-    "DataBase/🟢TableManagment.md",
     "Patterns/Examples/Untitled.canvas",
     "Patterns/Examples",
-    "СSharp/🟡Файловая система.md",
     "Untitled",
     "React",
     "Patterns",
