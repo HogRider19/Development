@@ -11,8 +11,12 @@
             "id": "3fce6f7ff4546434",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DataBase/🟡Organization.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DataBase/🟡Organization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DataBase/🟡Organization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DataBase/🟡Organization.md"
+              }
             }
           }
         ]
@@ -140,6 +148,15 @@
   },
   "active": "3fce6f7ff4546434",
   "lastOpenFiles": [
+    "DataBase/🟡Triggers.md",
+    "DataBase/🟡Design.md",
+    "DataBase/🟡Organization.md",
+    "Blazor/🟡Компоненты.md",
+    "Blazor/🟡Razor.md",
+    "Patterns/Examples/🟡Composite.md",
+    "Patterns/Examples/🟡Adapter.md",
+    "Patterns/Examples/🟡Facade.md",
+    "Patterns/Examples/🟡Decorator.md",
     "Patterns/Examples/🟡Visitor.md",
     "Patterns/Examples/🟡Memento.md",
     "Patterns/Examples/🟡Mediator.md",
@@ -157,16 +174,7 @@
     "SignalR/🟡Основы.md",
     "ApiAndProtocols/🟡RestfullApi.md",
     "ApiAndProtocols/🟡SMTP.md",
-    "Patterns/🟢Base.md",
-    "Patterns/Examples/🟡Command.md",
     "Untitled.canvas",
-    "Patterns/Examples/🟡Observer.md",
-    "Patterns/Examples/🟡AbstractFactory.md",
-    "Patterns/Examples/🟢Strategy.md",
-    "Patterns/Examples/🟡Builder.md",
-    "Patterns/Examples/🟢Singleton.md",
-    "DataBase/🟡Transactions.md",
-    "DataBase/🟡Organization.md",
     "Patterns/Examples/Untitled.canvas",
     "Patterns/Examples",
     "Untitled",
