@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1890bd29bdbea9a9",
+        "id": "cde80e236c5145a3",
         "type": "tabs",
         "children": [
           {
-            "id": "5965a21e727c50a0",
+            "id": "50a4d750c0bbc1d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AdditionalTasks/🟢Css.md",
+                "file": "СSharp/🟡ООП.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AdditionalTasks/🟢Css.md",
+                "file": "СSharp/🟡ООП.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AdditionalTasks/🟢Css.md",
+                "file": "СSharp/🟡ООП.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AdditionalTasks/🟢Css.md"
+                "file": "СSharp/🟡ООП.md"
               }
             }
           }
@@ -147,36 +146,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2683a370ef5f0c9",
+  "active": "50a4d750c0bbc1d9",
   "lastOpenFiles": [
-    "DataBase/🟡Organization.md",
+    "Authentication/🟡OpenId.md",
+    "Authentication/🟡OAuth.md",
+    "Authentication/🟡Base.md",
+    "AspNetCore/🟡Основы.md",
+    "AdditionalTasks/Metriks.md",
+    "AdditionalTasks/🟡BrowserIndexing.md",
+    "AdditionalTasks/🟡Redis.md",
+    "Testing/🟡Base.md",
+    "AdditionalTasks/🟢Xml.md",
+    "AdditionalTasks/🟢DataStructures.md",
+    "AdditionalTasks/🟡Uuid.md",
+    "AdditionalTasks/🟡RegularExpressions.md",
+    "СSharp/🟡Модификаторы доступа.md",
+    "СSharp/🟡Linq.md",
+    "СSharp/🟡Интерфейсы.md",
+    "СSharp/🟡Рефлексия.md",
+    "СSharp/🟢Pattern Matching.md",
+    "СSharp/🟢Коллекции.md",
+    "AdditionalTasks/🟢Css.md",
+    "AdditionalTasks/RabbitMQ.md",
+    "СSharp/🟡Файловая система.md",
+    "СSharp/🟡Управление памятью.md",
+    "СSharp/🟡Пакеты.md",
+    "СSharp/🟡Параллельность.md",
+    "СSharp/🟡Асинхронность.md",
+    "СSharp/🟡Многопоточность.md",
     "Testing/Untitled.canvas",
     "Testing",
-    "AdditionalTasks/🟢Css.md",
-    "AdditionalTasks/🟢DataStructures.md",
-    "Blazor/🟡Маршрутизация.md",
-    "Blazor/🟡Razor.md",
-    "Blazor/🟡Компоненты.md",
-    "Blazor/🟡Основы.md",
-    "AdditionalTasks/RabbitMQ.md",
-    "СSharp/🟡Исключения.md",
-    "СSharp/🟡ООП.md",
-    "СSharp/🟡Модификаторы доступа.md",
-    "Authentication/🟡OAuth.md",
-    "Authentication/🟢JWT.md",
-    "Authentication/🟢SessionsCookies.md",
-    "Authentication/🟡Base.md",
-    "СSharp/🟡Управление памятью.md",
-    "СSharp/🟡Рефлексия.md",
-    "Architecture/🟡3d-layered.md",
-    "Architecture/🟡Onion.md",
-    "Linux/🟡Cron.md",
-    "Git/🟡Marge.md",
-    "Linux/🟢FolderWorks.md",
-    "Linux/🟢Base.md",
-    "Linux/🟢BaseCommands.md",
-    "Linux/🟢SpecialSymbols.md",
-    "Linux/🟢RemoteServer.md",
     "Untitled.canvas",
     "Patterns/Examples/Untitled.canvas",
     "Patterns/Examples",
