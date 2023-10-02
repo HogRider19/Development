@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FabImage",
+      "SiFiles",
+      "FabUserSecret",
       "FabWrench",
-      "FabScrewdriverWrench",
-      "FabLifeRing",
-      "IbPhoneSignal",
-      "FabSignal"
+      "FabScrewdriverWrench"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,7 @@
   "React": "SiReact",
   "SignalR": "IbPhoneSignal",
   "Patterns/Examples": "FabLifeRing",
-  "Testing": "FabWrench"
+  "Testing": "FabWrench",
+  "IdentityServer": "FabUserSecret",
+  "YFiles": "FabImage"
 }

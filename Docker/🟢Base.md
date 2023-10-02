@@ -25,4 +25,4 @@
 5) **--name** - дает имя контейнеру
 6) **-it** - запуск в интерактивном режиме
 
-[Docker.pdf](https://yougile.com/user-data/99a8951f-e610-4c80-aed0-abfc9b000192/Docker.pdf)
+[[Docker.pdf]]

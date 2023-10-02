@@ -16,4 +16,4 @@ Onion-архитектуры была предложена Джеффри Пал
 **Infrastructure.Data** - реализует интерфейсы работы с данными
 **Infrastructure.Business** - реализует интерфейсы приложения
 
- [![](https://yougile.com/user-data/ae8cba8f-3c10-4c13-b7f6-64086a14ec0d/image-preview.png)](https://yougile.com/user-data/ae8cba8f-3c10-4c13-b7f6-64086a14ec0d/image.png)
+ ![[Onion.png]]
