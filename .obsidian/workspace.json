@@ -11,8 +11,12 @@
             "id": "dd4fb2f2961ab532",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "СSharp/🟡DotNetCLI.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/🟢Base.md",
+                "file": "СSharp/🟡DotNetCLI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/🟢Base.md",
+                "file": "СSharp/🟡DotNetCLI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/🟢Base.md"
+                "file": "СSharp/🟡DotNetCLI.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -142,8 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0293b9eb6abbb099",
+  "active": "dd4fb2f2961ab532",
   "lastOpenFiles": [
+    "Untitled.md",
+    "СSharp/🟡DotNetCLI.md",
+    "СSharp/🟡Linq.md",
+    "SignalR/🟡Filters.md",
+    "Blazor/🟡Razor.md",
     "Git/🟢Branch.md",
     "Git/🟢TrackingStatuses.md",
     "YFiles/Docker.pdf",
@@ -174,11 +184,6 @@
     "Patterns/🟢Base.md",
     "AspNetCore/🟡Основы.md",
     "IdentityServer",
-    "AdditionalTasks/🟡Uuid.md",
-    "AspNetCoreMVС/🟡Основы.md",
-    "СSharp/🟡Асинхронность.md",
-    "СSharp/🟡Многопоточность.md",
-    "СSharp/🟡Делегаты, события, лямбды.md",
     "Testing/Untitled.canvas",
     "Testing",
     "Untitled.canvas",
