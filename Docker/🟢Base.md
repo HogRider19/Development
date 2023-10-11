@@ -7,7 +7,7 @@
 
 **docker login** - авторизация в docker
 **docker pull** - установка образа
-**docker push** - Заливает образ
+**docker push** - отправляет образ
 
 **docker build** - сборка образа по Dockerfile **docker run** - собирает контейнер по образу
 
