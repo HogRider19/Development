@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AdditionalTasks/🟡Licensing.md",
+                "file": "Linux/🟢Users.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AdditionalTasks/🟡Licensing.md",
+                "file": "Linux/🟢Users.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AdditionalTasks/🟡Licensing.md",
+                "file": "Linux/🟢Users.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AdditionalTasks/🟡Licensing.md"
+                "file": "Linux/🟢Users.md"
               }
             }
           }
@@ -149,8 +149,15 @@
   },
   "active": "6d8d1b7340336a93",
   "lastOpenFiles": [
-    "AdditionalTasks/🟡BrowserIndexing.md",
+    "Linux/🟢SpecialSymbols.md",
+    "Linux/🟢RemoteServer.md",
+    "Linux/🟢FolderWorks.md",
+    "Linux/🟢Bash.md",
+    "Linux/🟢BaseCommands.md",
+    "Linux/🟡Cron.md",
+    "Linux/🟢Base.md",
     "AdditionalTasks/🟡Licensing.md",
+    "AdditionalTasks/🟡BrowserIndexing.md",
     "YFiles/Pasted image 20231011230851.png",
     "YFiles/Pasted image 20231011230825.png",
     "YFiles/Pasted image 20231011230750.png",
@@ -173,13 +180,6 @@
     "AdditionalTasks/🟡RegularExpressions.md",
     "СSharp/🟡Параллельность.md",
     "СSharp/🟡Пакеты.md",
-    "СSharp/🟡Рефлексия.md",
-    "СSharp/🟡Интерфейсы.md",
-    "СSharp/🟡Файловая система.md",
-    "Authentication/🟡Base.md",
-    "DataBase/🟡Organization.md",
-    "AdditionalTasks/CI-CD.md",
-    "СSharp/🟡Linq.md",
     "YFiles/Docker.pdf",
     "YFiles/Docker.pdf.crdownload",
     "YFiles/3DLayered.png",

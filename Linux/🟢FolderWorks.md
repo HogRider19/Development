@@ -1,11 +1,11 @@
-`zip zip_file file1 file2` - создает zip архив из перечисленных файлов 
-`tar -cvf \<name> file1 file2` - создает не сжатый архив из файлов
-`gzip file`- создает gz архив из файла
+**zip <zip_file> file1 ...** - создает zip архив из перечисленных файлов 
+**tar -cvf \<name> file1 ...** - создает не сжатый архив из файлов
+**gzip file** - создает gz архив из файла
 
-`unzip <zip_file>` - распаковывает архив
-`zip_file gunzip <gz_file>` - распаковывает архив gz_file
+**unzip <zip_file>** - распаковывает архив
+**<zip_file> gunzip <gz_file>** - распаковывает архив gz_file
 
-prgram1 | prgram2 | program3 - запуск
+prgram1 | prgram2 | program3 - конвейерный запуск программ
 
 **jobs** - список запущенных программ 
 **fg %\<number>** - продолжает выполнение программы
