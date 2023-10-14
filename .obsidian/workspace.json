@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dbad584ed9354549",
+        "id": "5edc052ead7c7546",
         "type": "tabs",
         "children": [
           {
-            "id": "6d8d1b7340336a93",
+            "id": "2c4cf0973db0c101",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/🟢Users.md",
+                "file": "Linux/Processes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/🟢Users.md",
+                "file": "Linux/Processes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/🟢Users.md",
+                "file": "Linux/Processes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/🟢Users.md"
+                "file": "Linux/Processes.md"
               }
             }
           }
@@ -147,12 +147,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d8d1b7340336a93",
+  "active": "2c4cf0973db0c101",
   "lastOpenFiles": [
+    "Linux/🟢Users.md",
+    "Linux/Processes.md",
     "Linux/🟢SpecialSymbols.md",
     "Linux/🟢RemoteServer.md",
     "Linux/🟢FolderWorks.md",
     "Linux/🟢Bash.md",
+    "AspNetCoreMVС/🟡Controllers.md",
+    "IdentityServer/Base.md",
     "Linux/🟢BaseCommands.md",
     "Linux/🟡Cron.md",
     "Linux/🟢Base.md",
@@ -176,10 +180,6 @@
     "СSharp/🟡Многопоточность.md",
     "СSharp/🟡Делегаты, события, лямбды.md",
     "СSharp/🟡Исключения.md",
-    "СSharp/🟡ООП.md",
-    "AdditionalTasks/🟡RegularExpressions.md",
-    "СSharp/🟡Параллельность.md",
-    "СSharp/🟡Пакеты.md",
     "YFiles/Docker.pdf",
     "YFiles/Docker.pdf.crdownload",
     "YFiles/3DLayered.png",
