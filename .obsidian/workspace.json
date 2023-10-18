@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/🟡Base.md",
+                "file": "JavaScript/OOP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/🟡Base.md",
+                "file": "JavaScript/OOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/🟡Base.md",
+                "file": "JavaScript/OOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/🟡Base.md"
+                "file": "JavaScript/OOP.md"
               }
             }
           }
@@ -149,9 +149,10 @@
   },
   "active": "7595805e339caf8d",
   "lastOpenFiles": [
+    "JavaScript/🟡Base.md",
+    "JavaScript/OOP.md",
     "JavaScript/🟢DataTypes.md",
     "Docker/🟢Compose.md",
-    "JavaScript/🟡Base.md",
     "EntityFramework/🟡DataAnotations.md",
     "Linux/🟡Processes.md",
     "JavaScript",
@@ -180,7 +181,6 @@
     "AdditionalTasks/🟡Redis.md",
     "Docker/🟢Containers.md",
     "Docker/🟢Images.md",
-    "Docker/🟢Base.md",
     "YFiles/Docker.pdf",
     "YFiles/Docker.pdf.crdownload",
     "YFiles/3DLayered.png",
