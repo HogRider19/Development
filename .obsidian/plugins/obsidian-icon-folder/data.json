@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FabJs",
+      "SiJavascript",
       "FabImage",
       "SiFiles",
-      "FabUserSecret",
-      "FabWrench",
-      "FabScrewdriverWrench"
+      "FabUserSecret"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -41,5 +41,6 @@
   "Patterns/Examples": "FabLifeRing",
   "Testing": "FabWrench",
   "IdentityServer": "FabUserSecret",
-  "YFiles": "FabImage"
+  "YFiles": "FabImage",
+  "JavaScript": "FabJs"
 }

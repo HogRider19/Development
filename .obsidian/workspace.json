@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5edc052ead7c7546",
+        "id": "fab21a687abe53cd",
         "type": "tabs",
         "children": [
           {
-            "id": "2c4cf0973db0c101",
+            "id": "7595805e339caf8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/🟡Processes.md",
+                "file": "JavaScript/🟢DataTypes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/🟡Processes.md",
+                "file": "JavaScript/🟢DataTypes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/🟡Processes.md",
+                "file": "JavaScript/🟢DataTypes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/🟡Processes.md"
+                "file": "JavaScript/🟢DataTypes.md"
               }
             }
           }
@@ -147,10 +147,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c4cf0973db0c101",
+  "active": "7595805e339caf8d",
   "lastOpenFiles": [
-    "Linux/🟡Cron.md",
+    "Docker/🟢Compose.md",
+    "JavaScript/🟡Base.md",
+    "EntityFramework/🟡DataAnotations.md",
+    "JavaScript/🟢DataTypes.md",
     "Linux/🟡Processes.md",
+    "JavaScript",
+    "Linux/🟡Cron.md",
     "Linux/🟢Users.md",
     "Linux/🟢SpecialSymbols.md",
     "Linux/🟢RemoteServer.md",
@@ -176,10 +181,6 @@
     "Docker/🟢Containers.md",
     "Docker/🟢Images.md",
     "Docker/🟢Base.md",
-    "СSharp/🟡Модификаторы доступа.md",
-    "СSharp/🟡Многопоточность.md",
-    "СSharp/🟡Делегаты, события, лямбды.md",
-    "СSharp/🟡Исключения.md",
     "YFiles/Docker.pdf",
     "YFiles/Docker.pdf.crdownload",
     "YFiles/3DLayered.png",
@@ -194,7 +195,6 @@
     "Untitled.canvas",
     "Patterns/Examples/Untitled.canvas",
     "Patterns/Examples",
-    "React",
-    "Patterns"
+    "React"
   ]
 }
