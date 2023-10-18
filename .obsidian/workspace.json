@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/🟢DataTypes.md",
+                "file": "JavaScript/🟡Base.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/🟢DataTypes.md",
+                "file": "JavaScript/🟡Base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/🟢DataTypes.md",
+                "file": "JavaScript/🟡Base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/🟢DataTypes.md"
+                "file": "JavaScript/🟡Base.md"
               }
             }
           }
@@ -149,10 +149,10 @@
   },
   "active": "7595805e339caf8d",
   "lastOpenFiles": [
+    "JavaScript/🟢DataTypes.md",
     "Docker/🟢Compose.md",
     "JavaScript/🟡Base.md",
     "EntityFramework/🟡DataAnotations.md",
-    "JavaScript/🟢DataTypes.md",
     "Linux/🟡Processes.md",
     "JavaScript",
     "Linux/🟡Cron.md",
