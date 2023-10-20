@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/BuiltinObjects.md",
+                "file": "JavaScript/🟡BuiltinObjects.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/BuiltinObjects.md",
+                "file": "JavaScript/🟡BuiltinObjects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/BuiltinObjects.md",
+                "file": "JavaScript/🟡BuiltinObjects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/BuiltinObjects.md"
+                "file": "JavaScript/🟡BuiltinObjects.md"
               }
             }
           }
@@ -150,7 +150,8 @@
   "active": "7595805e339caf8d",
   "lastOpenFiles": [
     "JavaScript/🟡OOP.md",
-    "JavaScript/BuiltinObjects.md",
+    "JavaScript/BrowserControl.md",
+    "JavaScript/🟡BuiltinObjects.md",
     "DataBase/🟡Triggers.md",
     "JavaScript/🟡Base.md",
     "JavaScript/🟢DataTypes.md",
@@ -180,7 +181,6 @@
     "AspNetCoreMVС/🟡HtmlHelpers.md",
     "AspNetCoreMVС/🟡TagHelpers.md",
     "AspNetCoreMVС/🟡ViewCompontents.md",
-    "AdditionalTasks/🟡Redis.md",
     "YFiles/Docker.pdf",
     "YFiles/Docker.pdf.crdownload",
     "YFiles/3DLayered.png",
