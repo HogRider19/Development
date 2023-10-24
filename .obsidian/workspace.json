@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/BrowserControl.md",
+                "file": "JavaScript/DOMControl.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/BrowserControl.md",
+                "file": "JavaScript/DOMControl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/BrowserControl.md",
+                "file": "JavaScript/DOMControl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/BrowserControl.md"
+                "file": "JavaScript/DOMControl.md"
               }
             }
           }
@@ -149,12 +149,13 @@
   },
   "active": "7595805e339caf8d",
   "lastOpenFiles": [
+    "JavaScript/🟡BrowserControl.md",
+    "JavaScript/DOMControl.md",
+    "JavaScript/🟡Base.md",
     "YFiles/Pasted image 20231021163522.png",
     "JavaScript/🟡BuiltinObjects.md",
     "JavaScript/🟡OOP.md",
-    "JavaScript/BrowserControl.md",
     "DataBase/🟡Triggers.md",
-    "JavaScript/🟡Base.md",
     "JavaScript/🟢DataTypes.md",
     "Docker/🟢Compose.md",
     "EntityFramework/🟡DataAnotations.md",
