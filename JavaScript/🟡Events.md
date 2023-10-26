@@ -17,7 +17,7 @@
     
 - **currentTarget** - определяет элемент, к которому прикреплен обработчик события
     
-- **defaultPrevented** - возвращает `true`, если был вызван у объекта Event метод `preventDefault()`
+- **defaultPrevented** - возвращает `true`, если был вызван `preventDefault()`
     
 - **eventPhase** - определяет стадию обработки события
     
