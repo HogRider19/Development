@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fab21a687abe53cd",
+        "id": "d7c1862176ddbbe2",
         "type": "tabs",
         "children": [
           {
-            "id": "7595805e339caf8d",
+            "id": "ef9914465c0e4b44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/🟡DOMControl.md",
+                "file": "JavaScript/🟡Events.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/🟡DOMControl.md",
+                "file": "JavaScript/🟡Events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/🟡DOMControl.md",
+                "file": "JavaScript/🟡Events.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/🟡DOMControl.md"
+                "file": "JavaScript/🟡Events.md"
               }
             }
           }
@@ -147,10 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7595805e339caf8d",
+  "active": "ef9914465c0e4b44",
   "lastOpenFiles": [
-    "JavaScript/🟡BrowserControl.md",
     "JavaScript/🟡DOMControl.md",
+    "JavaScript/🟡BrowserControl.md",
+    "JavaScript/🟡Events.md",
+    "AspNetCore/🟡Authentification.md",
     "JavaScript/🟡Base.md",
     "YFiles/Pasted image 20231021163522.png",
     "JavaScript/🟡BuiltinObjects.md",
@@ -180,8 +182,6 @@
     "YFiles/Pasted image 20231011212242.png",
     "AspNetCoreMVС/🟡Views.md",
     "AspNetCoreMVС/🟡Models.md",
-    "AspNetCoreMVС/🟡HtmlHelpers.md",
-    "AspNetCoreMVС/🟡TagHelpers.md",
     "YFiles/Docker.pdf",
     "YFiles/Docker.pdf.crdownload",
     "YFiles/3DLayered.png",
