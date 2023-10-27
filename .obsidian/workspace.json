@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/🟡Promise.md",
+                "file": "JavaScript/Modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/🟡Promise.md",
+                "file": "JavaScript/Modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/🟡Promise.md",
+                "file": "JavaScript/Modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/🟡Promise.md"
+                "file": "JavaScript/Modules.md"
               }
             }
           }
@@ -149,12 +149,14 @@
   },
   "active": "7595805e339caf8d",
   "lastOpenFiles": [
-    "JavaScript/🟡BuiltinObjects.md",
+    "JavaScript/🟡FetchAPI.md",
+    "JavaScript/Modules.md",
+    "JavaScript/🟡Forms.md",
     "JavaScript/🟡Promise.md",
+    "JavaScript/🟡BuiltinObjects.md",
     "JavaScript/🟡DataStorages.md",
     "JavaScript/🟡BrowserControl.md",
     "JavaScript/🟡Base.md",
-    "JavaScript/🟡Forms.md",
     "JavaScript/🟡Events.md",
     "JavaScript/🟡OOP.md",
     "JavaScript/🟡DOMControl.md",
@@ -175,8 +177,6 @@
     "IdentityServer/Base.md",
     "Linux/🟢BaseCommands.md",
     "Linux/🟢Base.md",
-    "AdditionalTasks/🟡Licensing.md",
-    "AdditionalTasks/🟡BrowserIndexing.md",
     "YFiles/Pasted image 20231011230851.png",
     "YFiles/Pasted image 20231011230825.png",
     "YFiles/Pasted image 20231011230750.png",
