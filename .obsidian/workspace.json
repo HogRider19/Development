@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Promise.md",
+                "file": "JavaScript/🟡Promise.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Promise.md",
+                "file": "JavaScript/🟡Promise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/Promise.md",
+                "file": "JavaScript/🟡Promise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/Promise.md"
+                "file": "JavaScript/🟡Promise.md"
               }
             }
           }
@@ -149,10 +149,10 @@
   },
   "active": "7595805e339caf8d",
   "lastOpenFiles": [
-    "JavaScript/🟡DataStorages.md",
-    "JavaScript/Promise.md",
-    "JavaScript/🟡BrowserControl.md",
     "JavaScript/🟡BuiltinObjects.md",
+    "JavaScript/🟡Promise.md",
+    "JavaScript/🟡DataStorages.md",
+    "JavaScript/🟡BrowserControl.md",
     "JavaScript/🟡Base.md",
     "JavaScript/🟡Forms.md",
     "JavaScript/🟡Events.md",
