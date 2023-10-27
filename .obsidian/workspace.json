@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/🟡Forms.md",
+                "file": "JavaScript/🟡DataStorages.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/🟡Forms.md",
+                "file": "JavaScript/🟡DataStorages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/🟡Forms.md",
+                "file": "JavaScript/🟡DataStorages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/🟡Forms.md"
+                "file": "JavaScript/🟡DataStorages.md"
               }
             }
           }
@@ -149,13 +149,14 @@
   },
   "active": "7595805e339caf8d",
   "lastOpenFiles": [
-    "JavaScript/🟡Events.md",
+    "JavaScript/🟡BrowserControl.md",
+    "JavaScript/🟡DataStorages.md",
+    "JavaScript/🟡BuiltinObjects.md",
+    "JavaScript/🟡Base.md",
     "JavaScript/🟡Forms.md",
+    "JavaScript/🟡Events.md",
     "JavaScript/🟡OOP.md",
     "JavaScript/🟡DOMControl.md",
-    "JavaScript/🟡BuiltinObjects.md",
-    "JavaScript/🟡BrowserControl.md",
-    "JavaScript/🟡Base.md",
     "YFiles/Pasted image 20231021163522.png",
     "DataBase/🟡Triggers.md",
     "JavaScript/🟢DataTypes.md",
@@ -181,7 +182,6 @@
     "YFiles/Pasted image 20231011212720.png",
     "YFiles/Pasted image 20231011212242.png",
     "AspNetCoreMVС/🟡Views.md",
-    "AspNetCoreMVС/🟡Models.md",
     "YFiles/Docker.pdf",
     "YFiles/Docker.pdf.crdownload",
     "YFiles/3DLayered.png",
