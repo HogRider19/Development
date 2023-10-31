@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/🟡Modules.md",
+                "file": "СSharp/Execution Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/🟡Modules.md",
+                "file": "СSharp/Execution Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/🟡Modules.md",
+                "file": "СSharp/Execution Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/🟡Modules.md"
+                "file": "СSharp/Execution Model.md"
               }
             }
           }
@@ -149,8 +149,24 @@
   },
   "active": "7595805e339caf8d",
   "lastOpenFiles": [
-    "JavaScript/🟡FetchAPI.md",
+    "Testing/🟡Base.md",
+    "СSharp/Execution Model.md",
+    "AspNetCore/🟡Основы.md",
+    "СSharp/🟡Многопоточность.md",
+    "СSharp/🟡Linq.md",
+    "СSharp/🟢Pattern Matching.md",
+    "СSharp/🟢Коллекции.md",
+    "СSharp/🟡Делегаты, события, лямбды.md",
+    "СSharp/🟡Исключения.md",
+    "СSharp/🟡ООП.md",
+    "СSharp/🟡Модификаторы доступа.md",
+    "Blazor/🟡Формы.md",
+    "СSharp/🟡Асинхронность.md",
+    "СSharp/🟡Рефлексия.md",
+    "СSharp/🟢DotNetCLI.md",
+    "AdditionalTasks/🟢Css.md",
     "JavaScript/🟡Modules.md",
+    "JavaScript/🟡FetchAPI.md",
     "JavaScript/🟡Forms.md",
     "JavaScript/🟡Promise.md",
     "JavaScript/🟡BuiltinObjects.md",
@@ -159,24 +175,8 @@
     "JavaScript/🟡Base.md",
     "JavaScript/🟡Events.md",
     "JavaScript/🟡OOP.md",
-    "JavaScript/🟡DOMControl.md",
     "YFiles/Pasted image 20231021163522.png",
-    "DataBase/🟡Triggers.md",
-    "JavaScript/🟢DataTypes.md",
-    "Docker/🟢Compose.md",
-    "EntityFramework/🟡DataAnotations.md",
-    "Linux/🟡Processes.md",
     "JavaScript",
-    "Linux/🟡Cron.md",
-    "Linux/🟢Users.md",
-    "Linux/🟢SpecialSymbols.md",
-    "Linux/🟢RemoteServer.md",
-    "Linux/🟢FolderWorks.md",
-    "Linux/🟢Bash.md",
-    "AspNetCoreMVС/🟡Controllers.md",
-    "IdentityServer/Base.md",
-    "Linux/🟢BaseCommands.md",
-    "Linux/🟢Base.md",
     "YFiles/Pasted image 20231011230851.png",
     "YFiles/Pasted image 20231011230825.png",
     "YFiles/Pasted image 20231011230750.png",
