@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fab21a687abe53cd",
+        "id": "464ed2d1b675e2ee",
         "type": "tabs",
         "children": [
           {
-            "id": "7595805e339caf8d",
+            "id": "4aaab82d7416a9d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "СSharp/Execution Model.md",
+                "file": "СSharp/🟡ExecutionModel.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "СSharp/Execution Model.md",
+                "file": "СSharp/🟡ExecutionModel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "СSharp/Execution Model.md",
+                "file": "СSharp/🟡ExecutionModel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "СSharp/Execution Model.md"
+                "file": "СSharp/🟡ExecutionModel.md"
               }
             }
           }
@@ -147,13 +147,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7595805e339caf8d",
+  "active": "4aaab82d7416a9d3",
   "lastOpenFiles": [
+    "СSharp/🟡Linq.md",
+    "СSharp/🟡Интерфейсы.md",
+    "СSharp/🟢DotNetCLI.md",
+    "СSharp/🟡ExecutionModel.md",
+    "СSharp/🟡Файловая система.md",
     "Testing/🟡Base.md",
-    "СSharp/Execution Model.md",
     "AspNetCore/🟡Основы.md",
     "СSharp/🟡Многопоточность.md",
-    "СSharp/🟡Linq.md",
     "СSharp/🟢Pattern Matching.md",
     "СSharp/🟢Коллекции.md",
     "СSharp/🟡Делегаты, события, лямбды.md",
@@ -163,7 +166,6 @@
     "Blazor/🟡Формы.md",
     "СSharp/🟡Асинхронность.md",
     "СSharp/🟡Рефлексия.md",
-    "СSharp/🟢DotNetCLI.md",
     "AdditionalTasks/🟢Css.md",
     "JavaScript/🟡Modules.md",
     "JavaScript/🟡FetchAPI.md",
@@ -173,8 +175,6 @@
     "JavaScript/🟡DataStorages.md",
     "JavaScript/🟡BrowserControl.md",
     "JavaScript/🟡Base.md",
-    "JavaScript/🟡Events.md",
-    "JavaScript/🟡OOP.md",
     "YFiles/Pasted image 20231021163522.png",
     "JavaScript",
     "YFiles/Pasted image 20231011230851.png",
