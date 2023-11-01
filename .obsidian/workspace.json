@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "СSharp/🟡ExecutionModel.md",
+                "file": "СSharp/🟡Packages.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "СSharp/🟡ExecutionModel.md",
+                "file": "СSharp/🟡Packages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "СSharp/🟡ExecutionModel.md",
+                "file": "СSharp/🟡Packages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "СSharp/🟡ExecutionModel.md"
+                "file": "СSharp/🟡Packages.md"
               }
             }
           }
@@ -149,32 +149,32 @@
   },
   "active": "4aaab82d7416a9d3",
   "lastOpenFiles": [
-    "СSharp/🟡Linq.md",
-    "СSharp/🟡Интерфейсы.md",
-    "СSharp/🟢DotNetCLI.md",
+    "СSharp/🟡Interfaces.md",
+    "СSharp/🟡 FileSystem.md",
+    "СSharp/🟡MemoryManagement.md",
+    "СSharp/🟡Reflection.md",
+    "СSharp/🟡Packages.md",
+    "СSharp/🟡Parallelism.md",
+    "СSharp/🟡Asynchrony.md",
+    "СSharp/🟡Multithreading.md",
+    "СSharp/🟢PatternMatching.md",
+    "СSharp/🟢Collections.md",
+    "СSharp/🟡Delegates.md",
+    "СSharp/🟡Exceptions.md",
+    "СSharp/🟡OOP.md",
+    "СSharp/🟡AccessModifiers.md",
     "СSharp/🟡ExecutionModel.md",
-    "СSharp/🟡Файловая система.md",
+    "СSharp/🟡Linq.md",
+    "СSharp/🟢DotNetCLI.md",
     "Testing/🟡Base.md",
     "AspNetCore/🟡Основы.md",
-    "СSharp/🟡Многопоточность.md",
-    "СSharp/🟢Pattern Matching.md",
-    "СSharp/🟢Коллекции.md",
-    "СSharp/🟡Делегаты, события, лямбды.md",
-    "СSharp/🟡Исключения.md",
-    "СSharp/🟡ООП.md",
-    "СSharp/🟡Модификаторы доступа.md",
     "Blazor/🟡Формы.md",
-    "СSharp/🟡Асинхронность.md",
-    "СSharp/🟡Рефлексия.md",
     "AdditionalTasks/🟢Css.md",
     "JavaScript/🟡Modules.md",
     "JavaScript/🟡FetchAPI.md",
     "JavaScript/🟡Forms.md",
     "JavaScript/🟡Promise.md",
     "JavaScript/🟡BuiltinObjects.md",
-    "JavaScript/🟡DataStorages.md",
-    "JavaScript/🟡BrowserControl.md",
-    "JavaScript/🟡Base.md",
     "YFiles/Pasted image 20231021163522.png",
     "JavaScript",
     "YFiles/Pasted image 20231011230851.png",
