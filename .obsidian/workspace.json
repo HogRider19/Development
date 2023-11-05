@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "86aec64810b4c7c3",
+        "id": "197486c6e4f2c528",
         "type": "tabs",
         "children": [
           {
-            "id": "2fa2c45f256faeaa",
+            "id": "ac7e76872369bc8f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "СSharp/🟡Reflection.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "СSharp/🟡Reflection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "СSharp/🟡Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "СSharp/🟡Reflection.md"
+              }
             }
           }
         ],
@@ -139,22 +147,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2fa2c45f256faeaa",
+  "active": "ac7e76872369bc8f",
   "lastOpenFiles": [
-    "СSharp/🟡Parallelism.md",
-    "СSharp/🟡Asynchrony.md",
-    "СSharp/🟢DotNetCLI.md",
-    "СSharp/🟡Linq.md",
+    "СSharp/🟡Packages.md",
+    "СSharp/🟡Reflection.md",
     "СSharp/🟡Interfaces.md",
     "СSharp/🟡FileSystem.md",
     "СSharp/🟡MemoryManagement.md",
-    "СSharp/🟡Reflection.md",
-    "СSharp/🟡Packages.md",
+    "СSharp/🟡Parallelism.md",
+    "СSharp/🟡Asynchrony.md",
     "СSharp/🟡Multithreading.md",
     "СSharp/🟢PatternMatching.md",
     "СSharp/🟢Collections.md",
     "СSharp/🟡Delegates.md",
     "СSharp/🟡Exceptions.md",
+    "СSharp/🟢DotNetCLI.md",
+    "СSharp/🟡Linq.md",
     "СSharp/🟡Objects.md",
     "СSharp/🟢AccessModifiers.md",
     "СSharp/🟡ExecutionModel.md",
