@@ -70,3 +70,5 @@ TryAdd(K key, V value) - безопасное добавление элемен�
 **public bool MoveNext()**------|  
 **public object Current()**-------| - реализация IEnumerator  
 **public void Reset()**-----------|
+
+[[🟡ExecutionModel]]
