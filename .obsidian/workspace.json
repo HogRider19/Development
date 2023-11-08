@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "СSharp/🟡Reflection.md",
+                "file": "СSharp/🟡MemoryManagement.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "СSharp/🟡Reflection.md",
+                "file": "СSharp/🟡MemoryManagement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "СSharp/🟡Reflection.md",
+                "file": "СSharp/🟡MemoryManagement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "СSharp/🟡Reflection.md"
+                "file": "СSharp/🟡MemoryManagement.md"
               }
             }
           }
@@ -149,9 +149,13 @@
   },
   "active": "54b06160c61b215d",
   "lastOpenFiles": [
+    "СSharp/🟡Reflection.md",
+    "СSharp/🟡Objects.md",
+    "СSharp/🟢AccessModifiers.md",
+    "СSharp/🟡Multithreading.md",
+    "СSharp/🟢Collections.md",
     "YFiles/Pasted image 20231106011817.png",
     "Pasted image 20231106011718.png.md",
-    "СSharp/🟡Reflection.md",
     "YFiles/Pasted image 20231106011628.png",
     "YFiles/Pasted image 20231106011656.png",
     "YFiles/Pasted image 20231106011718.png",
@@ -167,15 +171,11 @@
     "СSharp/🟡MemoryManagement.md",
     "СSharp/🟡Parallelism.md",
     "СSharp/🟡Asynchrony.md",
-    "СSharp/🟡Multithreading.md",
     "СSharp/🟢PatternMatching.md",
-    "СSharp/🟢Collections.md",
     "СSharp/🟡Delegates.md",
     "СSharp/🟡Exceptions.md",
     "СSharp/🟢DotNetCLI.md",
     "СSharp/🟡Linq.md",
-    "СSharp/🟡Objects.md",
-    "СSharp/🟢AccessModifiers.md",
     "СSharp/🟡ExecutionModel.md",
     "Blazor/🟡Формы.md",
     "Blazor/🟡Маршрутизация.md",
@@ -185,7 +185,6 @@
     "AdditionalTasks/🟢DataStructures.md",
     "AdditionalTasks/🟢Css.md",
     "JavaScript",
-    "YFiles/Pasted image 20231011230851.png",
     "YFiles/Docker.pdf",
     "YFiles/Docker.pdf.crdownload",
     "YFiles/3DLayered.png.crdownload",
