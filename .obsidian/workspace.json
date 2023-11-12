@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "СSharp/🟡MemoryManagement.md",
+                "file": "СSharp/🟡LINQ.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "СSharp/🟡MemoryManagement.md",
+                "file": "СSharp/🟡LINQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "СSharp/🟡MemoryManagement.md",
+                "file": "СSharp/🟡LINQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "СSharp/🟡MemoryManagement.md"
+                "file": "СSharp/🟡LINQ.md"
               }
             }
           }
@@ -149,6 +149,13 @@
   },
   "active": "54b06160c61b215d",
   "lastOpenFiles": [
+    "СSharp/🟡Interfaces.md",
+    "СSharp/🟡FileSystem.md",
+    "СSharp/🟡MemoryManagement.md",
+    "JavaScript/🟡Events.md",
+    "JavaScript/🟢DataTypes.md",
+    "AspNetCore/🟡MiddleWare.md",
+    "AspNetCore/🟡Основы.md",
     "СSharp/🟡Reflection.md",
     "СSharp/🟡Objects.md",
     "СSharp/🟢AccessModifiers.md",
@@ -166,24 +173,18 @@
     "YFiles/Pasted image 20231011230825.png",
     "YFiles/Pasted image 20231106011619.png",
     "СSharp/🟡Packages.md",
-    "СSharp/🟡Interfaces.md",
-    "СSharp/🟡FileSystem.md",
-    "СSharp/🟡MemoryManagement.md",
     "СSharp/🟡Parallelism.md",
     "СSharp/🟡Asynchrony.md",
     "СSharp/🟢PatternMatching.md",
     "СSharp/🟡Delegates.md",
     "СSharp/🟡Exceptions.md",
     "СSharp/🟢DotNetCLI.md",
-    "СSharp/🟡Linq.md",
+    "СSharp/🟡LINQ.md",
     "СSharp/🟡ExecutionModel.md",
     "Blazor/🟡Формы.md",
     "Blazor/🟡Маршрутизация.md",
     "AdditionalTasks/🟡BrowserIndexing.md",
     "AdditionalTasks/🟡Redis.md",
-    "AdditionalTasks/🟡Uuid.md",
-    "AdditionalTasks/🟢DataStructures.md",
-    "AdditionalTasks/🟢Css.md",
     "JavaScript",
     "YFiles/Docker.pdf",
     "YFiles/Docker.pdf.crdownload",
