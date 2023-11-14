@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "СSharp/🟡LINQ.md",
+                "file": "СSharp/🟢DateTime.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "СSharp/🟡LINQ.md",
+                "file": "СSharp/🟢DateTime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "СSharp/🟡LINQ.md",
+                "file": "СSharp/🟢DateTime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "СSharp/🟡LINQ.md"
+                "file": "СSharp/🟢DateTime.md"
               }
             }
           }
@@ -149,18 +149,28 @@
   },
   "active": "54b06160c61b215d",
   "lastOpenFiles": [
+    "СSharp/🟡ExecutionModel.md",
+    "СSharp/🟢DotNetCLI.md",
+    "СSharp/🟢DateTime.md",
+    "СSharp/🟡LINQ.md",
+    "СSharp/🟡Multithreading.md",
+    "СSharp/🟢PatternMatching.md",
+    "СSharp/🟢Collections.md",
+    "СSharp/🟡Delegates.md",
+    "СSharp/🟡Objects.md",
+    "JavaScript/🟡Events.md",
+    "JavaScript/🟡BuiltinObjects.md",
+    "ApiAndProtocols/🟡RestfullApi.md",
+    "AspNetCore/🟡Основы.md",
+    "СSharp/🟡Parallelism.md",
+    "СSharp/🟡Asynchrony.md",
+    "СSharp/🟡Reflection.md",
+    "СSharp/🟡MemoryManagement.md",
     "СSharp/🟡Interfaces.md",
     "СSharp/🟡FileSystem.md",
-    "СSharp/🟡MemoryManagement.md",
-    "JavaScript/🟡Events.md",
     "JavaScript/🟢DataTypes.md",
     "AspNetCore/🟡MiddleWare.md",
-    "AspNetCore/🟡Основы.md",
-    "СSharp/🟡Reflection.md",
-    "СSharp/🟡Objects.md",
     "СSharp/🟢AccessModifiers.md",
-    "СSharp/🟡Multithreading.md",
-    "СSharp/🟢Collections.md",
     "YFiles/Pasted image 20231106011817.png",
     "Pasted image 20231106011718.png.md",
     "YFiles/Pasted image 20231106011628.png",
@@ -173,18 +183,8 @@
     "YFiles/Pasted image 20231011230825.png",
     "YFiles/Pasted image 20231106011619.png",
     "СSharp/🟡Packages.md",
-    "СSharp/🟡Parallelism.md",
-    "СSharp/🟡Asynchrony.md",
-    "СSharp/🟢PatternMatching.md",
-    "СSharp/🟡Delegates.md",
     "СSharp/🟡Exceptions.md",
-    "СSharp/🟢DotNetCLI.md",
-    "СSharp/🟡LINQ.md",
-    "СSharp/🟡ExecutionModel.md",
     "Blazor/🟡Формы.md",
-    "Blazor/🟡Маршрутизация.md",
-    "AdditionalTasks/🟡BrowserIndexing.md",
-    "AdditionalTasks/🟡Redis.md",
     "JavaScript",
     "YFiles/Docker.pdf",
     "YFiles/Docker.pdf.crdownload",
