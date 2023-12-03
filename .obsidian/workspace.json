@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0d2c3e00a0e95c24",
+        "id": "b7d75315942dd93c",
         "type": "tabs",
         "children": [
           {
-            "id": "68b2e4db087ee4f2",
+            "id": "d16d7ad08309bd6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AdditionalTasks/🟡CSS.md",
+                "file": "ApiAndProtocols/🟡RestfullApi.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AdditionalTasks/🟡CSS.md",
+                "file": "ApiAndProtocols/🟡RestfullApi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AdditionalTasks/🟡CSS.md",
+                "file": "ApiAndProtocols/🟡RestfullApi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AdditionalTasks/🟡CSS.md"
+                "file": "ApiAndProtocols/🟡RestfullApi.md"
               }
             }
           }
@@ -147,35 +147,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68b2e4db087ee4f2",
+  "active": "d16d7ad08309bd6f",
   "lastOpenFiles": [
-    "AdditionalTasks/🟡RegularExpressions.md",
-    "AdditionalTasks/🟡CSS.md",
-    "YFiles/3DLayered.png",
-    "СSharp/🟡Objects.md",
-    "YFiles/Docker.pdf",
-    "YFiles/Pasted image 20231106011718.png.md",
-    "AdditionalTasks/🟡Licensing.md",
-    "AdditionalTasks/🟡BrowserIndexing.md",
     "AdditionalTasks/🟡Redis.md",
     "AdditionalTasks/🟢Xml.md",
     "AdditionalTasks/🟡Uuid.md",
-    "AdditionalTasks/Kafka.md",
     "AdditionalTasks/🟢DataStructures.md",
-    "СSharp/🟡Exceptions.md",
-    "Authentication/🟢SessionsCookies.md",
-    "ApiAndProtocols/🟡SSE.md",
-    "ApiAndProtocols/🟢Swagger.md",
-    "ApiAndProtocols/🟡WebSockets.md",
-    "ApiAndProtocols/🟡SOAP.md",
-    "ApiAndProtocols/🟢HTTP.md",
+    "AdditionalTasks/🟡CSS.md",
+    "ApiAndProtocols/🟡RestfullApi.md",
+    "AdditionalTasks/🟡RegularExpressions.md",
     "ApiAndProtocols/🟡SMTP.md",
-    "ApiAndProtocols/🟢SSH.md",
-    "ApiAndProtocols/🟢AJAX.md",
-    "JavaScript/🟡FetchAPI.md",
-    "СSharp/🟡Delegates.md",
-    "Patterns/🟢Base.md",
-    "СSharp/🟢DateTime.md",
+    "AdditionalTasks/Kafka.md",
+    "AspNetCore/🟡Base.md",
+    "AspNetCore/🟡WebHostEnvironment.md",
+    "AspNetCore/🟡MiddleWare.md",
+    "Architecture/🟡Onion.md",
+    "СSharp/🟡Reflection.md",
+    "СSharp/🟡Interfaces.md",
+    "СSharp/🟢DotNetCLI.md",
+    "СSharp/🟡ExecutionModel.md",
+    "СSharp/🟢AccessModifiers.md",
+    "СSharp/🟡Objects.md",
+    "СSharp/🟡LINQ.md",
+    "React/Components.md",
+    "EntityFramework/🟡Base.md",
+    "Blazor/🟡Base.md",
+    "AspNetCore/🟡Основы 1.md",
+    "AspNetCore/🟡Сaching.md",
+    "СSharp/🟡MemoryManagement.md",
+    "YFiles/3DLayered.png",
+    "YFiles/Docker.pdf",
     "YFiles/Pasted image 20231106011817.png",
     "YFiles/Pasted image 20231106011628.png",
     "YFiles/Pasted image 20231106011656.png",
