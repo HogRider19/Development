@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ApiAndProtocols/🟡RestfullApi.md",
+                "file": "ApiAndProtocols/🟡HTTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ApiAndProtocols/🟡RestfullApi.md",
+                "file": "ApiAndProtocols/🟡HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ApiAndProtocols/🟡RestfullApi.md",
+                "file": "ApiAndProtocols/🟡HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ApiAndProtocols/🟡RestfullApi.md"
+                "file": "ApiAndProtocols/🟡HTTP.md"
               }
             }
           }
@@ -149,15 +149,19 @@
   },
   "active": "d16d7ad08309bd6f",
   "lastOpenFiles": [
+    "ApiAndProtocols/🟡SMTP.md",
+    "ApiAndProtocols/🟡HTTP.md",
+    "ApiAndProtocols/🟡SOAP.md",
+    "ApiAndProtocols/🟢SSH.md",
+    "ApiAndProtocols/🟢AJAX.md",
+    "ApiAndProtocols/🟡REST.md",
     "YFiles/Pasted image 20231206111536.png",
     "AdditionalTasks/🟡Redis.md",
     "AdditionalTasks/🟢Xml.md",
     "AdditionalTasks/🟡Uuid.md",
     "AdditionalTasks/🟢DataStructures.md",
     "AdditionalTasks/🟡CSS.md",
-    "ApiAndProtocols/🟡RestfullApi.md",
     "AdditionalTasks/🟡RegularExpressions.md",
-    "ApiAndProtocols/🟡SMTP.md",
     "AdditionalTasks/Kafka.md",
     "AspNetCore/🟡Base.md",
     "AspNetCore/🟡WebHostEnvironment.md",
@@ -172,9 +176,6 @@
     "СSharp/🟡LINQ.md",
     "React/Components.md",
     "EntityFramework/🟡Base.md",
-    "Blazor/🟡Base.md",
-    "AspNetCore/🟡Основы 1.md",
-    "AspNetCore/🟡Сaching.md",
     "YFiles/3DLayered.png",
     "YFiles/Docker.pdf",
     "YFiles/Pasted image 20231106011817.png",
@@ -185,7 +186,6 @@
     "YFiles/Pasted image 20231011212242.png",
     "YFiles/Pasted image 20231011212720.png",
     "YFiles/Pasted image 20231011230750.png",
-    "YFiles/Pasted image 20231011230825.png",
     "JavaScript",
     "YFiles/Docker.pdf.crdownload",
     "YFiles/3DLayered.png.crdownload",
