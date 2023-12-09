@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ApiAndProtocols/🟡HTTP.md",
+                "file": "AspNetCore/🟡Base.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ApiAndProtocols/🟡HTTP.md",
+                "file": "AspNetCore/🟡Base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ApiAndProtocols/🟡HTTP.md",
+                "file": "AspNetCore/🟡Base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ApiAndProtocols/🟡HTTP.md"
+                "file": "AspNetCore/🟡Base.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "d16d7ad08309bd6f",
   "lastOpenFiles": [
-    "ApiAndProtocols/🟡SMTP.md",
+    "YFiles/Pasted image 20231208225523.png",
     "ApiAndProtocols/🟡HTTP.md",
+    "ApiAndProtocols/🟡SMTP.md",
     "ApiAndProtocols/🟡SOAP.md",
     "ApiAndProtocols/🟢SSH.md",
     "ApiAndProtocols/🟢AJAX.md",
@@ -175,7 +176,6 @@
     "СSharp/🟡Objects.md",
     "СSharp/🟡LINQ.md",
     "React/Components.md",
-    "EntityFramework/🟡Base.md",
     "YFiles/3DLayered.png",
     "YFiles/Docker.pdf",
     "YFiles/Pasted image 20231106011817.png",
