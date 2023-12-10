@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AspNetCore/🟡Base.md",
+                "file": "AspNetCore/🟡MiddleWare.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AspNetCore/🟡Base.md",
+                "file": "AspNetCore/🟡MiddleWare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AspNetCore/🟡Base.md",
+                "file": "AspNetCore/🟡MiddleWare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AspNetCore/🟡Base.md"
+                "file": "AspNetCore/🟡MiddleWare.md"
               }
             }
           }
@@ -149,6 +149,10 @@
   },
   "active": "d16d7ad08309bd6f",
   "lastOpenFiles": [
+    "AspNetCore/🟡RequestResponse.md",
+    "AspNetCore/🟡MiddleWare.md",
+    "AspNetCore/🟡Base.md",
+    "YFiles/Pasted image 20231209160752.png",
     "YFiles/Pasted image 20231208225523.png",
     "ApiAndProtocols/🟡HTTP.md",
     "ApiAndProtocols/🟡SMTP.md",
@@ -164,9 +168,7 @@
     "AdditionalTasks/🟡CSS.md",
     "AdditionalTasks/🟡RegularExpressions.md",
     "AdditionalTasks/Kafka.md",
-    "AspNetCore/🟡Base.md",
     "AspNetCore/🟡WebHostEnvironment.md",
-    "AspNetCore/🟡MiddleWare.md",
     "Architecture/🟡Onion.md",
     "СSharp/🟡Reflection.md",
     "СSharp/🟡Interfaces.md",
@@ -184,8 +186,6 @@
     "YFiles/Pasted image 20231106011718.png",
     "YFiles/Pasted image 20231021163522.png",
     "YFiles/Pasted image 20231011212242.png",
-    "YFiles/Pasted image 20231011212720.png",
-    "YFiles/Pasted image 20231011230750.png",
     "JavaScript",
     "YFiles/Docker.pdf.crdownload",
     "YFiles/3DLayered.png.crdownload",
