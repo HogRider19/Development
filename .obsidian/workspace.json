@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AspNetCore/🟡MiddleWare.md",
+                "file": "AspNetCore/🟡HttpContext.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AspNetCore/🟡MiddleWare.md",
+                "file": "AspNetCore/🟡HttpContext.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AspNetCore/🟡MiddleWare.md",
+                "file": "AspNetCore/🟡HttpContext.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AspNetCore/🟡MiddleWare.md"
+                "file": "AspNetCore/🟡HttpContext.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "d16d7ad08309bd6f",
   "lastOpenFiles": [
-    "AspNetCore/🟡RequestResponse.md",
+    "Architecture/🟡Onion.md",
+    "AspNetCore/🟡HttpContext.md",
+    "AspNetCore/🟡WebHostEnvironment.md",
     "AspNetCore/🟡MiddleWare.md",
+    "AspNetCore/Untitled.md",
     "AspNetCore/🟡Base.md",
     "YFiles/Pasted image 20231209160752.png",
     "YFiles/Pasted image 20231208225523.png",
@@ -168,8 +171,6 @@
     "AdditionalTasks/🟡CSS.md",
     "AdditionalTasks/🟡RegularExpressions.md",
     "AdditionalTasks/Kafka.md",
-    "AspNetCore/🟡WebHostEnvironment.md",
-    "Architecture/🟡Onion.md",
     "СSharp/🟡Reflection.md",
     "СSharp/🟡Interfaces.md",
     "СSharp/🟢DotNetCLI.md",
@@ -177,7 +178,6 @@
     "СSharp/🟢AccessModifiers.md",
     "СSharp/🟡Objects.md",
     "СSharp/🟡LINQ.md",
-    "React/Components.md",
     "YFiles/3DLayered.png",
     "YFiles/Docker.pdf",
     "YFiles/Pasted image 20231106011817.png",
