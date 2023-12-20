@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AspNetCore/🟡MiddleWare.md",
+                "file": "AspNetCore/🟡DependencyInjection.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AspNetCore/🟡MiddleWare.md",
+                "file": "AspNetCore/🟡DependencyInjection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AspNetCore/🟡MiddleWare.md",
+                "file": "AspNetCore/🟡DependencyInjection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AspNetCore/🟡MiddleWare.md"
+                "file": "AspNetCore/🟡DependencyInjection.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "d16d7ad08309bd6f",
   "lastOpenFiles": [
-    "AspNetCore/🟡RequestResponse.md",
+    "AspNetCore/🟡WebHostEnvironment.md",
     "AspNetCore/🟡MiddleWare.md",
+    "AspNetCore/🟡HttpContext.md",
     "AspNetCore/🟡Base.md",
     "YFiles/Pasted image 20231209160752.png",
     "YFiles/Pasted image 20231208225523.png",
@@ -168,7 +169,6 @@
     "AdditionalTasks/🟡CSS.md",
     "AdditionalTasks/🟡RegularExpressions.md",
     "AdditionalTasks/Kafka.md",
-    "AspNetCore/🟡WebHostEnvironment.md",
     "Architecture/🟡Onion.md",
     "СSharp/🟡Reflection.md",
     "СSharp/🟡Interfaces.md",
