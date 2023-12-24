@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b7d75315942dd93c",
+        "id": "c598af8469988ba9",
         "type": "tabs",
         "children": [
           {
-            "id": "d16d7ad08309bd6f",
+            "id": "af479114ab6ea3b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AspNetCore/🟡Routing.md",
+                "file": "AspNetCore/🟡Configuration.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AspNetCore/🟡Routing.md",
+                "file": "AspNetCore/🟡Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AspNetCore/🟡Routing.md",
+                "file": "AspNetCore/🟡Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AspNetCore/🟡Routing.md"
+                "file": "AspNetCore/🟡Configuration.md"
               }
             }
           }
@@ -147,16 +147,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d16d7ad08309bd6f",
+  "active": "af479114ab6ea3b9",
   "lastOpenFiles": [
-    "AspNetCore/🟡Сaching.md",
-    "AspNetCore/🟡Routing.md",
-    "AspNetCore/🟡MiddleWare.md",
+    "AspNetCore/🟡WebHostEnvironment.md",
+    "AspNetCore/🟡Configuration.md",
     "AspNetCore/🟡DependencyInjection.md",
+    "СSharp/🟡Delegates.md",
+    "СSharp/🟡ExecutionModel.md",
+    "СSharp/🟢AccessModifiers.md",
     "AspNetCore/🟡Base.md",
+    "AspNetCore/🟡Logging.md",
+    "AspNetCore/🟡UrlRewriting.md",
+    "AspNetCore/🟡StateManagment.md",
+    "AspNetCore/🟡Routing.md",
+    "AspNetCore/🟡Сaching.md",
+    "AspNetCore/🟡MiddleWare.md",
     "AspNetCore/🟡Authentification.md",
     "AspNetCore/🟡HttpContext.md",
-    "AspNetCore/🟡WebHostEnvironment.md",
     "YFiles/Pasted image 20231209160752.png",
     "YFiles/Pasted image 20231208225523.png",
     "ApiAndProtocols/🟡HTTP.md",
@@ -171,13 +178,6 @@
     "AdditionalTasks/🟡Uuid.md",
     "AdditionalTasks/🟢DataStructures.md",
     "AdditionalTasks/🟡CSS.md",
-    "AdditionalTasks/🟡RegularExpressions.md",
-    "AdditionalTasks/Kafka.md",
-    "Architecture/🟡Onion.md",
-    "СSharp/🟡Reflection.md",
-    "СSharp/🟡Interfaces.md",
-    "СSharp/🟢DotNetCLI.md",
-    "СSharp/🟡ExecutionModel.md",
     "YFiles/3DLayered.png",
     "YFiles/Docker.pdf",
     "YFiles/Pasted image 20231106011817.png",
