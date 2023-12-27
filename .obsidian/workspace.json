@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AspNetCore/🟡Configuration.md",
+                "file": "AspNetCore/🟡StateManagment.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AspNetCore/🟡Configuration.md",
+                "file": "AspNetCore/🟡StateManagment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AspNetCore/🟡Configuration.md",
+                "file": "AspNetCore/🟡StateManagment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AspNetCore/🟡Configuration.md"
+                "file": "AspNetCore/🟡StateManagment.md"
               }
             }
           }
@@ -149,19 +149,19 @@
   },
   "active": "af479114ab6ea3b9",
   "lastOpenFiles": [
-    "AspNetCore/🟡WebHostEnvironment.md",
+    "AspNetCore/🟡MiddleWare.md",
+    "AspNetCore/🟡StateManagment.md",
+    "AspNetCore/🟡Logging.md",
     "AspNetCore/🟡Configuration.md",
+    "AspNetCore/🟡WebHostEnvironment.md",
     "AspNetCore/🟡DependencyInjection.md",
     "СSharp/🟡Delegates.md",
     "СSharp/🟡ExecutionModel.md",
     "СSharp/🟢AccessModifiers.md",
     "AspNetCore/🟡Base.md",
-    "AspNetCore/🟡Logging.md",
     "AspNetCore/🟡UrlRewriting.md",
-    "AspNetCore/🟡StateManagment.md",
     "AspNetCore/🟡Routing.md",
     "AspNetCore/🟡Сaching.md",
-    "AspNetCore/🟡MiddleWare.md",
     "AspNetCore/🟡Authentification.md",
     "AspNetCore/🟡HttpContext.md",
     "YFiles/Pasted image 20231209160752.png",
