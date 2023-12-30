@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c598af8469988ba9",
+        "id": "1b3aa4bb6f1089fb",
         "type": "tabs",
         "children": [
           {
-            "id": "af479114ab6ea3b9",
+            "id": "35e52c3393444d38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AspNetCore/🟡StateManagment.md",
+                "file": "AspNetCore/🟡Authentification.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AspNetCore/🟡StateManagment.md",
+                "file": "AspNetCore/🟡Authentification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AspNetCore/🟡StateManagment.md",
+                "file": "AspNetCore/🟡Authentification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AspNetCore/🟡StateManagment.md"
+                "file": "AspNetCore/🟡Authentification.md"
               }
             }
           }
@@ -147,11 +147,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af479114ab6ea3b9",
+  "active": "35e52c3393444d38",
   "lastOpenFiles": [
-    "AspNetCore/🟡MiddleWare.md",
+    "AspNetCore/🟡ResultsApi.md",
     "AspNetCore/🟡StateManagment.md",
     "AspNetCore/🟡Logging.md",
+    "Patterns/Examples/🟢Strategy.md",
+    "AspNetCoreMVС/🟡Filters.md",
+    "СSharp/🟡Exceptions.md",
+    "AspNetCore/🟡MiddleWare.md",
     "AspNetCore/🟡Configuration.md",
     "AspNetCore/🟡WebHostEnvironment.md",
     "AspNetCore/🟡DependencyInjection.md",
@@ -174,10 +178,6 @@
     "ApiAndProtocols/🟡REST.md",
     "YFiles/Pasted image 20231206111536.png",
     "AdditionalTasks/🟡Redis.md",
-    "AdditionalTasks/🟢Xml.md",
-    "AdditionalTasks/🟡Uuid.md",
-    "AdditionalTasks/🟢DataStructures.md",
-    "AdditionalTasks/🟡CSS.md",
     "YFiles/3DLayered.png",
     "YFiles/Docker.pdf",
     "YFiles/Pasted image 20231106011817.png",
