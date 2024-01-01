@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AspNetCore/🟡Authentification.md",
+                "file": "AspNetCore/🟡Сaching.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AspNetCore/🟡Authentification.md",
+                "file": "AspNetCore/🟡Сaching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AspNetCore/🟡Authentification.md",
+                "file": "AspNetCore/🟡Сaching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AspNetCore/🟡Authentification.md"
+                "file": "AspNetCore/🟡Сaching.md"
               }
             }
           }
@@ -149,10 +149,12 @@
   },
   "active": "35e52c3393444d38",
   "lastOpenFiles": [
+    "AspNetCore/🟡UrlRewriting.md",
+    "AspNetCore/🟡Routing.md",
+    "AspNetCore/🟡Base.md",
+    "AspNetCore/🟡Authentification.md",
     "YFiles/Pasted image 20231231145729.png",
     "AspNetCore/🟡MiddleWare.md",
-    "AspNetCore/🟡Authentification.md",
-    "AspNetCore/🟡Routing.md",
     "AspNetCore/🟡ResultsApi.md",
     "AspNetCore/🟡StateManagment.md",
     "AspNetCore/🟡Logging.md",
@@ -165,8 +167,6 @@
     "СSharp/🟡Delegates.md",
     "СSharp/🟡ExecutionModel.md",
     "СSharp/🟢AccessModifiers.md",
-    "AspNetCore/🟡Base.md",
-    "AspNetCore/🟡UrlRewriting.md",
     "AspNetCore/🟡Сaching.md",
     "AspNetCore/🟡HttpContext.md",
     "YFiles/Pasted image 20231209160752.png",
@@ -185,7 +185,6 @@
     "YFiles/Pasted image 20231106011656.png",
     "YFiles/Pasted image 20231106011718.png",
     "YFiles/Pasted image 20231021163522.png",
-    "YFiles/Pasted image 20231011212242.png",
     "JavaScript",
     "YFiles/Docker.pdf.crdownload",
     "YFiles/3DLayered.png.crdownload",
