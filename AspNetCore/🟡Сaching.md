@@ -116,3 +116,4 @@ app.MapGet("/", [CacheOutput]() => {});   // применяем кэширова
 app.Run();
 ```
 
+[[AspNetCore/🟡Base|🟡Base]]

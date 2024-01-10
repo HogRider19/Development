@@ -148,3 +148,5 @@ builder.Services.AddAuthorization(opts =>
 
 **AuthorizationHandlerContext.Succeed()** - приводит к подтверждению ограничения.
 **AuthorizationHandlerContext.Fail()** - приводит к отклонению ограничения.
+
+[[AspNetCore/🟡Base|🟡Base]]

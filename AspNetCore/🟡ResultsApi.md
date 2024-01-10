@@ -34,3 +34,5 @@ Results API в большей степени предназначено для �
 **Forbid():** отправляет в ответ клиенту 403 (IAuthenticationService).
 **SignIn():** выполняет SignInAsync() (IAuthenticationService).
 **SignOut():** выполняет SignOutAsync( (IAuthenticationService).
+
+[[AspNetCore/🟡Base|🟡Base]]

@@ -74,3 +74,5 @@
 **Env.IsDevelopment()** - возвращает true, если имя среды - Development 
 **Env.IsStaging()** - возвращает true, если имя среды - Staging 
 **Env.IsProduction()** - возвращает true, если имя среды - Production
+
+[[AspNetCore/🟡Base|🟡Base]]
