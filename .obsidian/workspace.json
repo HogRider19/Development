@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -149,17 +149,18 @@
   },
   "active": "a0b0dc6d7e394b16",
   "lastOpenFiles": [
-    "DataBase/🟡Base.md",
     "DataBase/🟡Security.md",
-    "DataBase/🟡DataTypes.md",
-    "DataBase/WindowFunc.md",
     "DataBase/DataDefinitionLanguage.md",
+    "DataBase/🟡DataTypes.md",
+    "DataBase/🟡DBManagement.md",
+    "DataBase/🟡Transactions.md",
+    "DataBase/🟡Base.md",
+    "DataBase/WindowFunc.md",
     "DataBase/🟡Console.md",
     "DataBase/🟡QueryCommands.md",
     "DataBase/🟡Constraints.md",
     "DataBase/🟡AggregationFunc.md",
     "DataBase/🟡TableManagment.md",
-    "DataBase/🟡DBManagement.md",
     "DataBase/🟡Organization.md",
     "DataBase/Replecation.md",
     "AspNetCore/🟡Сaching.md",
@@ -175,7 +176,6 @@
     "AspNetCore/🟡Authentification.md",
     "AspNetCore/🟡Base.md",
     "YFiles/Pasted image 20231231145729.png",
-    "Architecture/🟡Onion.md",
     "YFiles/Pasted image 20231209160752.png",
     "YFiles/Pasted image 20231208225523.png",
     "YFiles/Pasted image 20231206111536.png",
