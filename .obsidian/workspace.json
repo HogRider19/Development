@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/🟡DataDefinitionLanguage.md",
+                "file": "DataBase/DataManipulationLanguage.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/🟡DataDefinitionLanguage.md",
+                "file": "DataBase/DataManipulationLanguage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/🟡DataDefinitionLanguage.md",
+                "file": "DataBase/DataManipulationLanguage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/🟡DataDefinitionLanguage.md"
+                "file": "DataBase/DataManipulationLanguage.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   },
   "active": "f64ef73d1442149f",
   "lastOpenFiles": [
+    "DataBase/🟡DataDefinitionLanguage.md",
+    "DataBase/DataManipulationLanguage.md",
+    "DataBase/🟡Base.md",
     "DataBase/🟡DataTypes.md",
     "DataBase/DBManagement.md",
     "DataBase/TableManagment.md",
@@ -162,8 +165,6 @@
     "DataBase/Indexes.md",
     "DataBase/Security.md",
     "DataBase/Console.md",
-    "DataBase/🟡DataDefinitionLanguage.md",
-    "DataBase/🟡Base.md",
     "DataBase/WindowFunc.md",
     "DataBase/Replecation.md",
     "AspNetCore/🟡Сaching.md",
@@ -174,7 +175,6 @@
     "AspNetCore/🟡MiddleWare.md",
     "AspNetCore/🟡Logging.md",
     "AspNetCore/🟡HttpContext.md",
-    "AspNetCore/🟡DependencyInjection.md",
     "YFiles/Pasted image 20231231145729.png",
     "YFiles/Pasted image 20231209160752.png",
     "YFiles/Pasted image 20231208225523.png",
