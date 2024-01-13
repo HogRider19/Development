@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "295ca27ef95c0fc7",
+        "id": "ed645b3acd6528ec",
         "type": "tabs",
         "children": [
           {
-            "id": "a0b0dc6d7e394b16",
+            "id": "f64ef73d1442149f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/DataDefinitionLanguage.md",
+                "file": "DataBase/🟡DataDefinitionLanguage.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/DataDefinitionLanguage.md",
+                "file": "DataBase/🟡DataDefinitionLanguage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/DataDefinitionLanguage.md",
+                "file": "DataBase/🟡DataDefinitionLanguage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/DataDefinitionLanguage.md"
+                "file": "DataBase/🟡DataDefinitionLanguage.md"
               }
             }
           }
@@ -147,21 +147,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0b0dc6d7e394b16",
+  "active": "f64ef73d1442149f",
   "lastOpenFiles": [
-    "DataBase/🟡Security.md",
-    "DataBase/DataDefinitionLanguage.md",
     "DataBase/🟡DataTypes.md",
-    "DataBase/🟡DBManagement.md",
-    "DataBase/🟡Transactions.md",
+    "DataBase/DBManagement.md",
+    "DataBase/TableManagment.md",
+    "DataBase/AggregationFunc.md",
+    "DataBase/Constraints.md",
+    "DataBase/QueryCommands.md",
+    "DataBase/Organization.md",
+    "DataBase/Design.md",
+    "DataBase/Transactions.md",
+    "DataBase/Triggers.md",
+    "DataBase/Indexes.md",
+    "DataBase/Security.md",
+    "DataBase/Console.md",
+    "DataBase/🟡DataDefinitionLanguage.md",
     "DataBase/🟡Base.md",
     "DataBase/WindowFunc.md",
-    "DataBase/🟡Console.md",
-    "DataBase/🟡QueryCommands.md",
-    "DataBase/🟡Constraints.md",
-    "DataBase/🟡AggregationFunc.md",
-    "DataBase/🟡TableManagment.md",
-    "DataBase/🟡Organization.md",
     "DataBase/Replecation.md",
     "AspNetCore/🟡Сaching.md",
     "AspNetCore/🟡UrlRewriting.md",
@@ -172,9 +175,6 @@
     "AspNetCore/🟡Logging.md",
     "AspNetCore/🟡HttpContext.md",
     "AspNetCore/🟡DependencyInjection.md",
-    "AspNetCore/🟡Configuration.md",
-    "AspNetCore/🟡Authentification.md",
-    "AspNetCore/🟡Base.md",
     "YFiles/Pasted image 20231231145729.png",
     "YFiles/Pasted image 20231209160752.png",
     "YFiles/Pasted image 20231208225523.png",
