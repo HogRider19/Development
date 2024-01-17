@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/DataManipulationLanguage.md",
+                "file": "DataBase/🟡Indexes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/DataManipulationLanguage.md",
+                "file": "DataBase/🟡Indexes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/DataManipulationLanguage.md",
+                "file": "DataBase/🟡Indexes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/DataManipulationLanguage.md"
+                "file": "DataBase/🟡Indexes.md"
               }
             }
           }
@@ -149,32 +149,32 @@
   },
   "active": "f64ef73d1442149f",
   "lastOpenFiles": [
-    "DataBase/🟡DataDefinitionLanguage.md",
-    "DataBase/DataManipulationLanguage.md",
     "DataBase/🟡Base.md",
-    "DataBase/🟡DataTypes.md",
-    "DataBase/DBManagement.md",
-    "DataBase/TableManagment.md",
-    "DataBase/AggregationFunc.md",
-    "DataBase/Constraints.md",
-    "DataBase/QueryCommands.md",
-    "DataBase/Organization.md",
-    "DataBase/Design.md",
-    "DataBase/Transactions.md",
-    "DataBase/Triggers.md",
-    "DataBase/Indexes.md",
+    "DataBase/🟡Indexes.md",
+    "DataBase/🟡DataManipulationLanguage.md",
+    "DataBase/🟡DataDefinitionLanguage.md",
     "DataBase/Security.md",
     "DataBase/Console.md",
-    "DataBase/WindowFunc.md",
-    "DataBase/Replecation.md",
-    "AspNetCore/🟡Сaching.md",
-    "AspNetCore/🟡UrlRewriting.md",
-    "AspNetCore/🟡StateManagment.md",
-    "AspNetCore/🟡Routing.md",
-    "AspNetCore/🟡ResultsApi.md",
-    "AspNetCore/🟡MiddleWare.md",
-    "AspNetCore/🟡Logging.md",
+    "DataBase/QueryProfiling.md",
+    "DataBase/Organization.md",
+    "DataBase/🟡DataTypes.md",
+    "AspNetCore/🟡DependencyInjection.md",
     "AspNetCore/🟡HttpContext.md",
+    "AspNetCore/🟡Base.md",
+    "СSharp/🟡Asynchrony.md",
+    "СSharp/🟡Parallelism.md",
+    "СSharp/🟡Multithreading.md",
+    "СSharp/🟡Reflection.md",
+    "СSharp/🟡MemoryManagement.md",
+    "СSharp/🟡LINQ.md",
+    "СSharp/🟡Delegates.md",
+    "СSharp/🟡Interfaces.md",
+    "СSharp/🟡Objects.md",
+    "DataBase/Transactions.md",
+    "DataBase/Design.md",
+    "DataBase/Constraints.md",
+    "DataBase/AggregationFunc.md",
+    "DataBase/TableManagment.md",
     "YFiles/Pasted image 20231231145729.png",
     "YFiles/Pasted image 20231209160752.png",
     "YFiles/Pasted image 20231208225523.png",
