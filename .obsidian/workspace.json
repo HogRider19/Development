@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/🟡Indexes.md",
+                "file": "DataBase/🟡DataControlLanguage.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/🟡Indexes.md",
+                "file": "DataBase/🟡DataControlLanguage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/🟡Indexes.md",
+                "file": "DataBase/🟡DataControlLanguage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/🟡Indexes.md"
+                "file": "DataBase/🟡DataControlLanguage.md"
               }
             }
           }
@@ -149,11 +149,13 @@
   },
   "active": "f64ef73d1442149f",
   "lastOpenFiles": [
-    "DataBase/🟡Base.md",
     "DataBase/🟡Indexes.md",
-    "DataBase/🟡DataManipulationLanguage.md",
+    "DataBase/🟡DataControlLanguage.md",
     "DataBase/🟡DataDefinitionLanguage.md",
+    "DataBase/🟡DataManipulationLanguage.md",
     "DataBase/Security.md",
+    "DataBase/Optimization.md",
+    "DataBase/🟡Base.md",
     "DataBase/Console.md",
     "DataBase/QueryProfiling.md",
     "DataBase/Organization.md",
@@ -173,8 +175,6 @@
     "DataBase/Transactions.md",
     "DataBase/Design.md",
     "DataBase/Constraints.md",
-    "DataBase/AggregationFunc.md",
-    "DataBase/TableManagment.md",
     "YFiles/Pasted image 20231231145729.png",
     "YFiles/Pasted image 20231209160752.png",
     "YFiles/Pasted image 20231208225523.png",
