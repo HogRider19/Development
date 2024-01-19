@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ed645b3acd6528ec",
+        "id": "7222327acd3db89b",
         "type": "tabs",
         "children": [
           {
-            "id": "f64ef73d1442149f",
+            "id": "e0aab56832feb370",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,10 +147,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f64ef73d1442149f",
+  "active": "e0aab56832feb370",
   "lastOpenFiles": [
-    "DataBase/Transactions.md",
+    "YFiles/Pasted image 20240119231039.png",
+    "YFiles/Pasted image 20231231145729.png",
+    "YFiles/Pasted image 20231209160752.png",
+    "YFiles/Pasted image 20231208225523.png",
+    "YFiles/Pasted image 20231206111536.png",
+    "YFiles/Pasted image 20231106011817.png",
+    "YFiles/Pasted image 20231106011619.png",
+    "YFiles/Pasted image 20231106011718.png.md",
+    "YFiles/Pasted image 20231011230851.png",
+    "YFiles/Pasted image 20231011230825.png",
+    "YFiles/Pasted image 20231011230750.png",
+    "YFiles/Pasted image 20231011212720.png",
     "DataBase/TransactionControlLanguage.md",
+    "DataBase/Transactions.md",
     "DataBase/🟡Base.md",
     "DataBase/Triggers.md",
     "DataBase/Security.md",
@@ -173,19 +185,7 @@
     "СSharp/🟡MemoryManagement.md",
     "СSharp/🟡LINQ.md",
     "СSharp/🟡Delegates.md",
-    "СSharp/🟡Interfaces.md",
-    "СSharp/🟡Objects.md",
-    "YFiles/Pasted image 20231231145729.png",
-    "YFiles/Pasted image 20231209160752.png",
-    "YFiles/Pasted image 20231208225523.png",
-    "YFiles/Pasted image 20231206111536.png",
-    "YFiles/3DLayered.png",
     "YFiles/Docker.pdf",
-    "YFiles/Pasted image 20231106011817.png",
-    "YFiles/Pasted image 20231106011628.png",
-    "YFiles/Pasted image 20231106011656.png",
-    "YFiles/Pasted image 20231106011718.png",
-    "YFiles/Pasted image 20231021163522.png",
     "JavaScript",
     "YFiles/Docker.pdf.crdownload",
     "YFiles/3DLayered.png.crdownload",
