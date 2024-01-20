@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/TransactionControlLanguage.md",
+                "file": "DataBase/🟡TransactionControlLanguage.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/TransactionControlLanguage.md",
+                "file": "DataBase/🟡TransactionControlLanguage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/TransactionControlLanguage.md",
+                "file": "DataBase/🟡TransactionControlLanguage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/TransactionControlLanguage.md"
+                "file": "DataBase/🟡TransactionControlLanguage.md"
               }
             }
           }
@@ -149,6 +149,12 @@
   },
   "active": "e0aab56832feb370",
   "lastOpenFiles": [
+    "DataBase/🟡DataControlLanguage.md",
+    "DataBase/🟡TransactionControlLanguage.md",
+    "DataBase/Transactions.md",
+    "DataBase/Triggers.md",
+    "DataBase/🟡DataDefinitionLanguage.md",
+    "DataBase/🟡DataManipulationLanguage.md",
     "YFiles/Pasted image 20240119231039.png",
     "YFiles/Pasted image 20231231145729.png",
     "YFiles/Pasted image 20231209160752.png",
@@ -160,16 +166,9 @@
     "YFiles/Pasted image 20231011230851.png",
     "YFiles/Pasted image 20231011230825.png",
     "YFiles/Pasted image 20231011230750.png",
-    "YFiles/Pasted image 20231011212720.png",
-    "DataBase/TransactionControlLanguage.md",
-    "DataBase/Transactions.md",
     "DataBase/🟡Base.md",
-    "DataBase/Triggers.md",
     "DataBase/Security.md",
-    "DataBase/🟡DataControlLanguage.md",
     "DataBase/🟡Indexes.md",
-    "DataBase/🟡DataDefinitionLanguage.md",
-    "DataBase/🟡DataManipulationLanguage.md",
     "DataBase/Optimization.md",
     "DataBase/Console.md",
     "DataBase/QueryProfiling.md",
