@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/🟡TransactionControlLanguage.md",
+                "file": "DataBase/🟡Triggers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/🟡TransactionControlLanguage.md",
+                "file": "DataBase/🟡Triggers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/🟡TransactionControlLanguage.md",
+                "file": "DataBase/🟡Triggers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/🟡TransactionControlLanguage.md"
+                "file": "DataBase/🟡Triggers.md"
               }
             }
           }
@@ -150,11 +150,24 @@
   "active": "e0aab56832feb370",
   "lastOpenFiles": [
     "DataBase/🟡DataControlLanguage.md",
-    "DataBase/🟡TransactionControlLanguage.md",
-    "DataBase/Transactions.md",
-    "DataBase/Triggers.md",
-    "DataBase/🟡DataDefinitionLanguage.md",
+    "DataBase/🟡Triggers.md",
     "DataBase/🟡DataManipulationLanguage.md",
+    "DataBase/Replecation.md",
+    "DataBase/DBManagement.md",
+    "DataBase/TableManagment.md",
+    "DataBase/AggregationFunc.md",
+    "DataBase/Transactions.md",
+    "DataBase/Security.md",
+    "DataBase/Console.md",
+    "DataBase/QueryProfiling.md",
+    "DataBase/WindowFunc.md",
+    "DataBase/QueryCommands.md",
+    "DataBase/Organization.md",
+    "DataBase/🟡Indexes.md",
+    "DataBase/Design.md",
+    "DataBase/Constraints.md",
+    "DataBase/🟡TransactionControlLanguage.md",
+    "DataBase/🟡DataDefinitionLanguage.md",
     "YFiles/Pasted image 20240119231039.png",
     "YFiles/Pasted image 20231231145729.png",
     "YFiles/Pasted image 20231209160752.png",
@@ -167,23 +180,11 @@
     "YFiles/Pasted image 20231011230825.png",
     "YFiles/Pasted image 20231011230750.png",
     "DataBase/🟡Base.md",
-    "DataBase/Security.md",
-    "DataBase/🟡Indexes.md",
     "DataBase/Optimization.md",
-    "DataBase/Console.md",
-    "DataBase/QueryProfiling.md",
-    "DataBase/Organization.md",
     "DataBase/🟡DataTypes.md",
     "AspNetCore/🟡DependencyInjection.md",
     "AspNetCore/🟡HttpContext.md",
     "AspNetCore/🟡Base.md",
-    "СSharp/🟡Asynchrony.md",
-    "СSharp/🟡Parallelism.md",
-    "СSharp/🟡Multithreading.md",
-    "СSharp/🟡Reflection.md",
-    "СSharp/🟡MemoryManagement.md",
-    "СSharp/🟡LINQ.md",
-    "СSharp/🟡Delegates.md",
     "YFiles/Docker.pdf",
     "JavaScript",
     "YFiles/Docker.pdf.crdownload",
