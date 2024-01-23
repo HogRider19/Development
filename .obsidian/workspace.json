@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/🟡Triggers.md",
+                "file": "DataBase/🟡Projection.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/🟡Triggers.md",
+                "file": "DataBase/🟡Projection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/🟡Triggers.md",
+                "file": "DataBase/🟡Projection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/🟡Triggers.md"
+                "file": "DataBase/🟡Projection.md"
               }
             }
           }
@@ -149,8 +149,13 @@
   },
   "active": "e0aab56832feb370",
   "lastOpenFiles": [
-    "DataBase/🟡DataControlLanguage.md",
     "DataBase/🟡Triggers.md",
+    "DataBase/🟡Projection.md",
+    "DataBase/🟡DataDefinitionLanguage.md",
+    "DataBase/WindowFunc.md",
+    "DataBase/QueryCommands.md",
+    "DataBase/Organization.md",
+    "DataBase/🟡DataControlLanguage.md",
     "DataBase/🟡DataManipulationLanguage.md",
     "DataBase/Replecation.md",
     "DataBase/DBManagement.md",
@@ -160,14 +165,9 @@
     "DataBase/Security.md",
     "DataBase/Console.md",
     "DataBase/QueryProfiling.md",
-    "DataBase/WindowFunc.md",
-    "DataBase/QueryCommands.md",
-    "DataBase/Organization.md",
     "DataBase/🟡Indexes.md",
-    "DataBase/Design.md",
     "DataBase/Constraints.md",
     "DataBase/🟡TransactionControlLanguage.md",
-    "DataBase/🟡DataDefinitionLanguage.md",
     "YFiles/Pasted image 20240119231039.png",
     "YFiles/Pasted image 20231231145729.png",
     "YFiles/Pasted image 20231209160752.png",
