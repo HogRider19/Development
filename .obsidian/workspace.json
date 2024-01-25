@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/🟡Projection.md",
+                "file": "DataBase/🟡QueryProfiling.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/🟡Projection.md",
+                "file": "DataBase/🟡QueryProfiling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/🟡Projection.md",
+                "file": "DataBase/🟡QueryProfiling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/🟡Projection.md"
+                "file": "DataBase/🟡QueryProfiling.md"
               }
             }
           }
@@ -149,25 +149,28 @@
   },
   "active": "e0aab56832feb370",
   "lastOpenFiles": [
-    "DataBase/🟡Triggers.md",
     "DataBase/🟡Projection.md",
-    "DataBase/🟡DataDefinitionLanguage.md",
-    "DataBase/WindowFunc.md",
-    "DataBase/QueryCommands.md",
     "DataBase/Organization.md",
-    "DataBase/🟡DataControlLanguage.md",
-    "DataBase/🟡DataManipulationLanguage.md",
     "DataBase/Replecation.md",
-    "DataBase/DBManagement.md",
-    "DataBase/TableManagment.md",
-    "DataBase/AggregationFunc.md",
-    "DataBase/Transactions.md",
-    "DataBase/Security.md",
-    "DataBase/Console.md",
-    "DataBase/QueryProfiling.md",
+    "DataBase/Functions.md",
+    "DataBase/WindowFunctions.md",
+    "DataBase/🟡QueryProfiling.md",
+    "DataBase/🟡Triggers.md",
     "DataBase/🟡Indexes.md",
-    "DataBase/Constraints.md",
+    "DataBase/QueryCommands.md",
     "DataBase/🟡TransactionControlLanguage.md",
+    "DataBase/Console.md",
+    "DataBase/Security.md",
+    "DataBase/Transactions.md",
+    "DataBase/Constraints.md",
+    "DataBase/AggregationFunc.md",
+    "DataBase/TableManagment.md",
+    "DataBase/DBManagement.md",
+    "DataBase/🟡Base.md",
+    "DataBase/🟡DataManipulationLanguage.md",
+    "DataBase/🟡DataTypes.md",
+    "DataBase/🟡DataControlLanguage.md",
+    "DataBase/🟡DataDefinitionLanguage.md",
     "YFiles/Pasted image 20240119231039.png",
     "YFiles/Pasted image 20231231145729.png",
     "YFiles/Pasted image 20231209160752.png",
@@ -179,9 +182,6 @@
     "YFiles/Pasted image 20231011230851.png",
     "YFiles/Pasted image 20231011230825.png",
     "YFiles/Pasted image 20231011230750.png",
-    "DataBase/🟡Base.md",
-    "DataBase/Optimization.md",
-    "DataBase/🟡DataTypes.md",
     "AspNetCore/🟡DependencyInjection.md",
     "AspNetCore/🟡HttpContext.md",
     "AspNetCore/🟡Base.md",
