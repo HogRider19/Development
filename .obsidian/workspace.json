@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7222327acd3db89b",
+        "id": "78c76fc30e7f4a36",
         "type": "tabs",
         "children": [
           {
-            "id": "e0aab56832feb370",
+            "id": "eed4f15a16773940",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/🟡QueryProfiling.md",
+                "file": "DataBase/🟡Organization.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/🟡QueryProfiling.md",
+                "file": "DataBase/🟡Organization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/🟡QueryProfiling.md",
+                "file": "DataBase/🟡Organization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/🟡QueryProfiling.md"
+                "file": "DataBase/🟡Organization.md"
               }
             }
           }
@@ -147,30 +147,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0aab56832feb370",
+  "active": "eed4f15a16773940",
   "lastOpenFiles": [
     "DataBase/🟡Projection.md",
-    "DataBase/Organization.md",
-    "DataBase/Replecation.md",
-    "DataBase/Functions.md",
-    "DataBase/WindowFunctions.md",
+    "DataBase/🟡Organization.md",
+    "DataBase/🟡WindowFunctions.md",
     "DataBase/🟡QueryProfiling.md",
-    "DataBase/🟡Triggers.md",
-    "DataBase/🟡Indexes.md",
-    "DataBase/QueryCommands.md",
-    "DataBase/🟡TransactionControlLanguage.md",
-    "DataBase/Console.md",
-    "DataBase/Security.md",
-    "DataBase/Transactions.md",
-    "DataBase/Constraints.md",
-    "DataBase/AggregationFunc.md",
-    "DataBase/TableManagment.md",
-    "DataBase/DBManagement.md",
-    "DataBase/🟡Base.md",
-    "DataBase/🟡DataManipulationLanguage.md",
-    "DataBase/🟡DataTypes.md",
-    "DataBase/🟡DataControlLanguage.md",
+    "DataBase/🟡Replecation.md",
+    "DataBase/Functions.md",
+    "СSharp/🟡Interfaces.md",
     "DataBase/🟡DataDefinitionLanguage.md",
+    "DataBase/🟡DataManipulationLanguage.md",
+    "DataBase/🟡Indexes.md",
+    "DataBase/🟡DataControlLanguage.md",
+    "DataBase/🟡TransactionControlLanguage.md",
+    "DataBase/🟡Triggers.md",
+    "СSharp/🟡Reflection.md",
+    "SignalR/🟡Authorisation.md",
+    "SignalR/🟡Hub.md",
+    "SignalR/🟡Base.md",
+    "SignalR/🟡Filters.md",
+    "React/StateManagment.md",
+    "React/Components.md",
+    "Linux/🟡Processes.md",
+    "Linux/🟢Bash.md",
+    "Linux/🟢SpecialSymbols.md",
+    "Linux/🟢FolderWorks.md",
+    "Linux/🟢Users.md",
+    "Linux/🟢BaseCommands.md",
     "YFiles/Pasted image 20240119231039.png",
     "YFiles/Pasted image 20231231145729.png",
     "YFiles/Pasted image 20231209160752.png",
@@ -178,13 +182,9 @@
     "YFiles/Pasted image 20231206111536.png",
     "YFiles/Pasted image 20231106011817.png",
     "YFiles/Pasted image 20231106011619.png",
-    "YFiles/Pasted image 20231106011718.png.md",
     "YFiles/Pasted image 20231011230851.png",
     "YFiles/Pasted image 20231011230825.png",
     "YFiles/Pasted image 20231011230750.png",
-    "AspNetCore/🟡DependencyInjection.md",
-    "AspNetCore/🟡HttpContext.md",
-    "AspNetCore/🟡Base.md",
     "YFiles/Docker.pdf",
     "JavaScript",
     "YFiles/Docker.pdf.crdownload",
