@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "СSharp/🟡Interfaces.md",
+                "file": "СSharp/🟡Objects.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "СSharp/🟡Interfaces.md",
+                "file": "СSharp/🟡Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "СSharp/🟡Interfaces.md",
+                "file": "СSharp/🟡Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "СSharp/🟡Interfaces.md"
+                "file": "СSharp/🟡Objects.md"
               }
             }
           }
@@ -151,18 +151,20 @@
   "lastOpenFiles": [
     "СSharp/🟡ExecutionModel.md",
     "СSharp/🟡Interfaces.md",
-    "DataBase/🟡Organization.md",
-    "DataBase/🟡Projection.md",
-    "DataBase/🟡WindowFunctions.md",
-    "DataBase/🟡QueryProfiling.md",
-    "DataBase/🟡Replecation.md",
-    "DataBase/Functions.md",
-    "DataBase/🟡DataDefinitionLanguage.md",
     "DataBase/🟡DataManipulationLanguage.md",
-    "DataBase/🟡Indexes.md",
-    "DataBase/🟡DataControlLanguage.md",
-    "DataBase/🟡TransactionControlLanguage.md",
+    "DataBase/🟡DataTypes.md",
+    "DataBase/🟡WindowFunctions.md",
+    "DataBase/🟡Organization.md",
+    "DataBase/🟡Replecation.md",
+    "DataBase/🟡QueryProfiling.md",
+    "DataBase/🟡Projection.md",
     "DataBase/🟡Triggers.md",
+    "DataBase/🟡TransactionControlLanguage.md",
+    "DataBase/🟡DataControlLanguage.md",
+    "DataBase/🟡Indexes.md",
+    "DataBase/🟡DataDefinitionLanguage.md",
+    "DataBase/🟡Base.md",
+    "DataBase/Functions.md",
     "СSharp/🟡Reflection.md",
     "SignalR/🟡Authorisation.md",
     "SignalR/🟡Hub.md",
@@ -173,8 +175,6 @@
     "Linux/🟡Processes.md",
     "Linux/🟢Bash.md",
     "Linux/🟢SpecialSymbols.md",
-    "Linux/🟢FolderWorks.md",
-    "Linux/🟢Users.md",
     "YFiles/Pasted image 20240119231039.png",
     "YFiles/Pasted image 20231231145729.png",
     "YFiles/Pasted image 20231209160752.png",

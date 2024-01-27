@@ -85,3 +85,5 @@ CREATE STATISTICS stat_name (ndistinct) ON col_1, col_2 FROM table_name;
 ```sql
 CREATE STATISTICS stat_name (mcv) ON col_1, col_2 FROM table_name;
 ```
+
+[[DataBase/🟡Base|🟡Base]]

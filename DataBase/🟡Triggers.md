@@ -46,3 +46,5 @@ PostgreSQL предлагает как построчные, так и опер�
 CREATE TRIGGER trigger_name [BEFORE/AFTER] [COMAND] ON table_name
 [FOR EACH ROW] EXECUTE FUNCTION function;
 ```
+
+[[DataBase/🟡Base|🟡Base]]

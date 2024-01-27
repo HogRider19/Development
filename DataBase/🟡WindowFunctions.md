@@ -12,3 +12,5 @@
 SELECT depname, salary, avg(salary) OVER (PARTITION BY depname)
 FROM empsalary;
 ```
+
+[[DataBase/🟡Base|🟡Base]]

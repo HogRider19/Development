@@ -158,3 +158,4 @@ ALTER TABLE table_name ENABLE ROW LEVEL SECURITY;
 CREATE POLICY pol_name ON table_name TO role USING (cond) WITH CHECK (cond);
 ```
 
+[[DataBase/🟡Base|🟡Base]]
