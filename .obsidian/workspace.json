@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/🟡Organization.md",
+                "file": "СSharp/🟡Interfaces.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/🟡Organization.md",
+                "file": "СSharp/🟡Interfaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/🟡Organization.md",
+                "file": "СSharp/🟡Interfaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/🟡Organization.md"
+                "file": "СSharp/🟡Interfaces.md"
               }
             }
           }
@@ -149,13 +149,14 @@
   },
   "active": "eed4f15a16773940",
   "lastOpenFiles": [
-    "DataBase/🟡Projection.md",
+    "СSharp/🟡ExecutionModel.md",
+    "СSharp/🟡Interfaces.md",
     "DataBase/🟡Organization.md",
+    "DataBase/🟡Projection.md",
     "DataBase/🟡WindowFunctions.md",
     "DataBase/🟡QueryProfiling.md",
     "DataBase/🟡Replecation.md",
     "DataBase/Functions.md",
-    "СSharp/🟡Interfaces.md",
     "DataBase/🟡DataDefinitionLanguage.md",
     "DataBase/🟡DataManipulationLanguage.md",
     "DataBase/🟡Indexes.md",
@@ -174,7 +175,6 @@
     "Linux/🟢SpecialSymbols.md",
     "Linux/🟢FolderWorks.md",
     "Linux/🟢Users.md",
-    "Linux/🟢BaseCommands.md",
     "YFiles/Pasted image 20240119231039.png",
     "YFiles/Pasted image 20231231145729.png",
     "YFiles/Pasted image 20231209160752.png",
