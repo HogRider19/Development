@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "СSharp/🟢AccessModifiers.md",
+                "file": "СSharp/🟡Delegates.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "СSharp/🟢AccessModifiers.md",
+                "file": "СSharp/🟡Delegates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "СSharp/🟢AccessModifiers.md",
+                "file": "СSharp/🟡Delegates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "СSharp/🟢AccessModifiers.md"
+                "file": "СSharp/🟡Delegates.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "eed4f15a16773940",
   "lastOpenFiles": [
-    "СSharp/🟡Objects.md",
+    "СSharp/🟢DateTime.md",
     "СSharp/🟢AccessModifiers.md",
+    "СSharp/🟡Objects.md",
     "СSharp/🟡Interfaces.md",
     "DataBase/🟡QueryProfiling.md",
     "DataBase/🟡Indexes.md",
@@ -174,7 +175,6 @@
     "SignalR/🟡Filters.md",
     "React/StateManagment.md",
     "React/Components.md",
-    "Linux/🟡Processes.md",
     "YFiles/Pasted image 20240119231039.png",
     "YFiles/Pasted image 20231231145729.png",
     "YFiles/Pasted image 20231209160752.png",
