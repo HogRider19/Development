@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "СSharp/🟡Objects.md",
+                "file": "СSharp/🟢AccessModifiers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "СSharp/🟡Objects.md",
+                "file": "СSharp/🟢AccessModifiers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "СSharp/🟡Objects.md",
+                "file": "СSharp/🟢AccessModifiers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "СSharp/🟡Objects.md"
+                "file": "СSharp/🟢AccessModifiers.md"
               }
             }
           }
@@ -149,19 +149,21 @@
   },
   "active": "eed4f15a16773940",
   "lastOpenFiles": [
-    "СSharp/🟡ExecutionModel.md",
+    "СSharp/🟡Objects.md",
+    "СSharp/🟢AccessModifiers.md",
     "СSharp/🟡Interfaces.md",
+    "DataBase/🟡QueryProfiling.md",
+    "DataBase/🟡Indexes.md",
+    "DataBase/🟡DataControlLanguage.md",
+    "DataBase/🟡TransactionControlLanguage.md",
     "DataBase/🟡DataManipulationLanguage.md",
+    "СSharp/🟡ExecutionModel.md",
     "DataBase/🟡DataTypes.md",
     "DataBase/🟡WindowFunctions.md",
     "DataBase/🟡Organization.md",
     "DataBase/🟡Replecation.md",
-    "DataBase/🟡QueryProfiling.md",
     "DataBase/🟡Projection.md",
     "DataBase/🟡Triggers.md",
-    "DataBase/🟡TransactionControlLanguage.md",
-    "DataBase/🟡DataControlLanguage.md",
-    "DataBase/🟡Indexes.md",
     "DataBase/🟡DataDefinitionLanguage.md",
     "DataBase/🟡Base.md",
     "DataBase/Functions.md",
@@ -173,8 +175,6 @@
     "React/StateManagment.md",
     "React/Components.md",
     "Linux/🟡Processes.md",
-    "Linux/🟢Bash.md",
-    "Linux/🟢SpecialSymbols.md",
     "YFiles/Pasted image 20240119231039.png",
     "YFiles/Pasted image 20231231145729.png",
     "YFiles/Pasted image 20231209160752.png",
