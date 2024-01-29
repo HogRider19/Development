@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "СSharp/🟡MemoryManagement.md",
+                "file": "СSharp/🟡Parallelism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ec86583e5b4c8c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "СSharp/🟡Asynchrony.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "СSharp/🟡MemoryManagement.md",
+                "file": "СSharp/🟡Asynchrony.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "СSharp/🟡MemoryManagement.md",
+                "file": "СSharp/🟡Asynchrony.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "СSharp/🟡MemoryManagement.md"
+                "file": "СSharp/🟡Asynchrony.md"
               }
             }
           }
@@ -147,20 +160,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f7135536e68b07a",
+  "active": "5ec86583e5b4c8c2",
   "lastOpenFiles": [
+    "СSharp/🟡Parallelism.md",
+    "СSharp/🟡Asynchrony.md",
     "СSharp/🟡ExecutionModel.md",
-    "СSharp/🟢PatternMatching.md",
-    "СSharp/🟢DotNetCLI.md",
-    "СSharp/🟡Multithreading.md",
-    "СSharp/🟡MemoryManagement.md",
-    "СSharp/🟡FileSystem.md",
+    "СSharp/🟡Exceptions.md",
     "СSharp/🟡Interfaces.md",
     "СSharp/🟡Objects.md",
     "СSharp/🟢AccessModifiers.md",
     "СSharp/🟢DateTime.md",
-    "СSharp/🟡Reflection.md",
+    "СSharp/🟡Delegates.md",
     "СSharp/🟡LINQ.md",
+    "СSharp/🟡Reflection.md",
+    "СSharp/🟡FileSystem.md",
+    "СSharp/🟡MemoryManagement.md",
+    "СSharp/🟡Multithreading.md",
+    "СSharp/🟢PatternMatching.md",
+    "СSharp/🟢DotNetCLI.md",
     "EntityFramework/🟡Inheritance.md",
     "DataBase/🟡DataManipulationLanguage.md",
     "Authentication/🟡Base.md",
@@ -171,10 +188,6 @@
     "Blazor/🟡Формы.md",
     "Blazor/🟡HttpClient.md",
     "Blazor/🟡Маршрутизация.md",
-    "AdditionalTasks/🟡RegularExpressions.md",
-    "AdditionalTasks/🟡Redis.md",
-    "СSharp/🟡Delegates.md",
-    "DataBase/🟡QueryProfiling.md",
     "YFiles/Pasted image 20240119231039.png",
     "YFiles/Pasted image 20231231145729.png",
     "YFiles/Pasted image 20231209160752.png",
