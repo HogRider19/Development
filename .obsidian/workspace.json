@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "afcfcbca933cb04c",
+        "id": "8760b28d2dd498bc",
         "type": "tabs",
         "children": [
           {
-            "id": "c9aabbcd18c6a08e",
+            "id": "8f7135536e68b07a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "СSharp/🟡Reflection.md",
+                "file": "СSharp/🟡LINQ.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "СSharp/🟡Reflection.md",
+                "file": "СSharp/🟡LINQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "СSharp/🟡Reflection.md",
+                "file": "СSharp/🟡LINQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "СSharp/🟡Reflection.md"
+                "file": "СSharp/🟡LINQ.md"
               }
             }
           }
@@ -147,11 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9aabbcd18c6a08e",
+  "active": "8f7135536e68b07a",
   "lastOpenFiles": [
+    "EntityFramework/🟡Inheritance.md",
+    "СSharp/🟡LINQ.md",
+    "СSharp/🟡Reflection.md",
     "СSharp/🟡MemoryManagement.md",
     "СSharp/🟡FileSystem.md",
-    "СSharp/🟡LINQ.md",
     "DataBase/🟡DataManipulationLanguage.md",
     "Authentication/🟡Base.md",
     "Authentication/🟡OAuth.md",
@@ -173,8 +175,6 @@
     "DataBase/🟡DataControlLanguage.md",
     "DataBase/🟡TransactionControlLanguage.md",
     "СSharp/🟡ExecutionModel.md",
-    "DataBase/🟡DataTypes.md",
-    "DataBase/🟡WindowFunctions.md",
     "YFiles/Pasted image 20240119231039.png",
     "YFiles/Pasted image 20231231145729.png",
     "YFiles/Pasted image 20231209160752.png",
