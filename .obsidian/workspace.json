@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "СSharp/🟡Asynchrony.md",
+                "file": "СSharp/🟡Parallelism.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "СSharp/🟡Asynchrony.md",
+                "file": "СSharp/🟡Parallelism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "СSharp/🟡Asynchrony.md",
+                "file": "СSharp/🟡Parallelism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "СSharp/🟡Asynchrony.md"
+                "file": "СSharp/🟡Parallelism.md"
               }
             }
           }
@@ -162,10 +162,24 @@
   },
   "active": "5ec86583e5b4c8c2",
   "lastOpenFiles": [
-    "СSharp/🟡Parallelism.md",
-    "СSharp/🟡Asynchrony.md",
-    "СSharp/🟡ExecutionModel.md",
+    "СSharp/🟢PatternMatching.md",
+    "СSharp/🟢Collections.md",
     "СSharp/🟡Exceptions.md",
+    "DataBase/🟡Replecation.md",
+    "DataBase/🟡TransactionControlLanguage.md",
+    "DataBase/🟡DataManipulationLanguage.md",
+    "DataBase/🟡DataControlLanguage.md",
+    "DataBase/🟡Indexes.md",
+    "DataBase/🟡DataDefinitionLanguage.md",
+    "DataBase/🟡WindowFunctions.md",
+    "DataBase/🟡Organization.md",
+    "DataBase/🟡Base.md",
+    "DataBase/🟡DataTypes.md",
+    "DataBase/🟡Triggers.md",
+    "DataBase/🟡Projection.md",
+    "DataBase/🟡QueryProfiling.md",
+    "СSharp/🟢DotNetCLI.md",
+    "СSharp/🟡ExecutionModel.md",
     "СSharp/🟡Interfaces.md",
     "СSharp/🟡Objects.md",
     "СSharp/🟢AccessModifiers.md",
@@ -174,20 +188,6 @@
     "СSharp/🟡LINQ.md",
     "СSharp/🟡Reflection.md",
     "СSharp/🟡FileSystem.md",
-    "СSharp/🟡MemoryManagement.md",
-    "СSharp/🟡Multithreading.md",
-    "СSharp/🟢PatternMatching.md",
-    "СSharp/🟢DotNetCLI.md",
-    "EntityFramework/🟡Inheritance.md",
-    "DataBase/🟡DataManipulationLanguage.md",
-    "Authentication/🟡Base.md",
-    "Authentication/🟡OAuth.md",
-    "Authentication/🟢SessionsCookies.md",
-    "Authentication/🟡OpenId.md",
-    "Authentication/🟢JWT.md",
-    "Blazor/🟡Формы.md",
-    "Blazor/🟡HttpClient.md",
-    "Blazor/🟡Маршрутизация.md",
     "YFiles/Pasted image 20240119231039.png",
     "YFiles/Pasted image 20231231145729.png",
     "YFiles/Pasted image 20231209160752.png",

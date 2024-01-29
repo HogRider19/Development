@@ -63,12 +63,4 @@ Remove(key) - удаляет по ключу элемент из словаря
 TryGetValue(key, out value) - безопасное получение по ключу  
 TryAdd(K key, V value) - безопасное добавление элемента
 
----
-
-**public IEnumerator GetEnumerator()** - реализация интерфейса IEnumerable
-
-**public bool MoveNext()**------|  
-**public object Current()**-------| - реализация IEnumerator  
-**public void Reset()**-----------|
-
 [[🟡ExecutionModel]]
