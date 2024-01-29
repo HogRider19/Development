@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "СSharp/🟡LINQ.md",
+                "file": "СSharp/🟡MemoryManagement.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "СSharp/🟡LINQ.md",
+                "file": "СSharp/🟡MemoryManagement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "СSharp/🟡LINQ.md",
+                "file": "СSharp/🟡MemoryManagement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "СSharp/🟡LINQ.md"
+                "file": "СSharp/🟡MemoryManagement.md"
               }
             }
           }
@@ -149,11 +149,19 @@
   },
   "active": "8f7135536e68b07a",
   "lastOpenFiles": [
-    "EntityFramework/🟡Inheritance.md",
-    "СSharp/🟡LINQ.md",
-    "СSharp/🟡Reflection.md",
+    "СSharp/🟡ExecutionModel.md",
+    "СSharp/🟢PatternMatching.md",
+    "СSharp/🟢DotNetCLI.md",
+    "СSharp/🟡Multithreading.md",
     "СSharp/🟡MemoryManagement.md",
     "СSharp/🟡FileSystem.md",
+    "СSharp/🟡Interfaces.md",
+    "СSharp/🟡Objects.md",
+    "СSharp/🟢AccessModifiers.md",
+    "СSharp/🟢DateTime.md",
+    "СSharp/🟡Reflection.md",
+    "СSharp/🟡LINQ.md",
+    "EntityFramework/🟡Inheritance.md",
     "DataBase/🟡DataManipulationLanguage.md",
     "Authentication/🟡Base.md",
     "Authentication/🟡OAuth.md",
@@ -166,15 +174,7 @@
     "AdditionalTasks/🟡RegularExpressions.md",
     "AdditionalTasks/🟡Redis.md",
     "СSharp/🟡Delegates.md",
-    "СSharp/🟢DateTime.md",
-    "СSharp/🟢AccessModifiers.md",
-    "СSharp/🟡Objects.md",
-    "СSharp/🟡Interfaces.md",
     "DataBase/🟡QueryProfiling.md",
-    "DataBase/🟡Indexes.md",
-    "DataBase/🟡DataControlLanguage.md",
-    "DataBase/🟡TransactionControlLanguage.md",
-    "СSharp/🟡ExecutionModel.md",
     "YFiles/Pasted image 20240119231039.png",
     "YFiles/Pasted image 20231231145729.png",
     "YFiles/Pasted image 20231209160752.png",
