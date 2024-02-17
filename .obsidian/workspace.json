@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bd4a418c3497f1c7",
+        "id": "b0f32e34dbad0b37",
         "type": "tabs",
         "children": [
           {
-            "id": "715120a0cee37afc",
+            "id": "f8ea4a30733a4346",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AspNetCore/🟡ResultsApi.md",
+                "file": "AspNetCore/🟡DependencyInjection.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AspNetCore/🟡ResultsApi.md",
+                "file": "AspNetCore/🟡DependencyInjection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AspNetCore/🟡ResultsApi.md",
+                "file": "AspNetCore/🟡DependencyInjection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AspNetCore/🟡ResultsApi.md"
+                "file": "AspNetCore/🟡DependencyInjection.md"
               }
             }
           }
@@ -147,13 +147,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "715120a0cee37afc",
+  "active": "f8ea4a30733a4346",
   "lastOpenFiles": [
+    "AspNetCore/🟡Authentification.md",
+    "AspNetCore/🟡Configuration.md",
+    "AspNetCore/🟡Logging.md",
+    "AspNetCore/🟡DependencyInjection.md",
+    "AspNetCore/🟡Base.md",
+    "AspNetCore/🟡HttpContext.md",
+    "AspNetCore/🟡ResultsApi.md",
     "AspNetCore/🟡Routing.md",
     "AspNetCore/🟡MiddleWare.md",
-    "AspNetCore/🟡Base.md",
-    "AspNetCore/🟡Authentification.md",
+    "AspNetCore/🟡StateManagment.md",
+    "AspNetCore/🟡UrlRewriting.md",
     "AspNetCore/🟡Сaching.md",
+    "СSharp/🟢Collections.md",
+    "СSharp/🟡FileSystem.md",
+    "DataBase/🟡DataManipulationLanguage.md",
+    "DataBase/🟡DataDefinitionLanguage.md",
+    "Git/🟢BaseCommands.md",
+    "Git/🟢RemoteRepos.md",
     "СSharp/🟡Objects.md",
     "AdditionalTasks/🟡Uuid.md",
     "AdditionalTasks/🟡RegularExpressions.md",
@@ -162,19 +175,6 @@
     "AdditionalTasks/🟡CascadingStyleSheets.md",
     "AdditionalTasks/🟢Xml.md",
     "AdditionalTasks/🟢DataStructures.md",
-    "JavaScript/🟡FetchAPI.md",
-    "JavaScript/🟡Base.md",
-    "Patterns/Examples/🟡Bridge.md",
-    "СSharp/🟡Parallelism.md",
-    "СSharp/🟢PatternMatching.md",
-    "СSharp/🟢Collections.md",
-    "СSharp/🟡Exceptions.md",
-    "DataBase/🟡Replecation.md",
-    "DataBase/🟡TransactionControlLanguage.md",
-    "DataBase/🟡DataManipulationLanguage.md",
-    "DataBase/🟡DataControlLanguage.md",
-    "DataBase/🟡Indexes.md",
-    "DataBase/🟡DataDefinitionLanguage.md",
     "YFiles/Pasted image 20240119231039.png",
     "YFiles/Pasted image 20231231145729.png",
     "YFiles/Pasted image 20231209160752.png",
