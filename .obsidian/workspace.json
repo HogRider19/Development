@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AspNetCore/🟡DependencyInjection.md",
+                "file": "AspNetCore/🟡Configuration.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AspNetCore/🟡DependencyInjection.md",
+                "file": "AspNetCore/🟡Configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AspNetCore/🟡DependencyInjection.md",
+                "file": "AspNetCore/🟡Configuration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AspNetCore/🟡DependencyInjection.md"
+                "file": "AspNetCore/🟡Configuration.md"
               }
             }
           }
@@ -149,10 +149,10 @@
   },
   "active": "f8ea4a30733a4346",
   "lastOpenFiles": [
+    "AspNetCore/🟡DependencyInjection.md",
     "AspNetCore/🟡Authentification.md",
     "AspNetCore/🟡Configuration.md",
     "AspNetCore/🟡Logging.md",
-    "AspNetCore/🟡DependencyInjection.md",
     "AspNetCore/🟡Base.md",
     "AspNetCore/🟡HttpContext.md",
     "AspNetCore/🟡ResultsApi.md",
