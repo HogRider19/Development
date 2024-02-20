@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AspNetCore/🟡Authentification.md",
+                "file": "Patterns/🟡Structural.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AspNetCore/🟡Authentification.md",
+                "file": "Patterns/🟡Structural.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AspNetCore/🟡Authentification.md",
+                "file": "Patterns/🟡Structural.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AspNetCore/🟡Authentification.md"
+                "file": "Patterns/🟡Structural.md"
               }
             }
           }
@@ -149,9 +149,12 @@
   },
   "active": "f8ea4a30733a4346",
   "lastOpenFiles": [
+    "Patterns/🟡Base.md",
+    "Patterns/🟡Structural.md",
+    "Patterns/🟡Generative.md",
+    "AspNetCore/🟡Authentification.md",
     "AspNetCore/🟡Configuration.md",
     "AspNetCore/🟡DependencyInjection.md",
-    "AspNetCore/🟡Authentification.md",
     "AspNetCore/🟡Logging.md",
     "AspNetCore/🟡Base.md",
     "AspNetCore/🟡HttpContext.md",
@@ -172,9 +175,6 @@
     "AdditionalTasks/🟡RegularExpressions.md",
     "AdditionalTasks/🟡BrowserIndexing.md",
     "AdditionalTasks/🟡Licensing.md",
-    "AdditionalTasks/🟡CascadingStyleSheets.md",
-    "AdditionalTasks/🟢Xml.md",
-    "AdditionalTasks/🟢DataStructures.md",
     "YFiles/Pasted image 20240119231039.png",
     "YFiles/Pasted image 20231231145729.png",
     "YFiles/Pasted image 20231209160752.png",
