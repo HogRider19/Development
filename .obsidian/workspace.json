@@ -11,8 +11,12 @@
             "id": "3f683a3a34997487",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Git/Base.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Git/Base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Git/Base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Git/Base.md"
+              }
             }
           }
         ],
@@ -141,6 +149,14 @@
   },
   "active": "3f683a3a34997487",
   "lastOpenFiles": [
+    "YFiles/Pasted image 20240302002313.png",
+    "Git/Base.md",
+    "Git/🟢Commit.md",
+    "Git/🟡Marge.md",
+    "Git/🟢BaseCommands.md",
+    "Git/🟢RemoteRepos.md",
+    "Git/🟢TrackingStatuses.md",
+    "Git/🟢Branch.md",
     "DataBase/🟡Base.md",
     "DataBase/🟡DataDefinitionLanguage.md",
     "WPF",
@@ -160,14 +176,6 @@
     "СSharp/🟢Collections.md",
     "СSharp/🟡Exceptions.md",
     "Patterns/🟡Base.md",
-    "Patterns/🟡Structural.md",
-    "Patterns/🟡Generative.md",
-    "AspNetCore/🟡Authentification.md",
-    "AspNetCore/🟡Configuration.md",
-    "AspNetCore/🟡DependencyInjection.md",
-    "AspNetCore/🟡Logging.md",
-    "AspNetCore/🟡Base.md",
-    "AspNetCore/🟡HttpContext.md",
     "YFiles/Pasted image 20240119231039.png",
     "YFiles/Pasted image 20231231145729.png",
     "YFiles/Pasted image 20231209160752.png",
