@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8db0304f19800c14",
+        "id": "b2167ca2049bda70",
         "type": "tabs",
         "children": [
           {
-            "id": "3f683a3a34997487",
+            "id": "f8ab078ab31eec83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/🟡Base.md",
+                "file": "Git/Branching.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/🟡Base.md",
+                "file": "Git/Branching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/🟡Base.md",
+                "file": "Git/Branching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/🟡Base.md"
+                "file": "Git/Branching.md"
               }
             }
           }
@@ -147,11 +147,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f683a3a34997487",
+  "active": "f8ab078ab31eec83",
   "lastOpenFiles": [
-    "Git/Branching.md",
+    "YFiles/Pasted image 20240307192230.png",
     "Git/🟡Base.md",
+    "Git/🟡Remote.md",
+    "Git/🟡Tags.md",
     "Git/🟡Configuration.md",
+    "Git/🟡Cancellation.md",
+    "Git/Branching.md",
     "EntityFramework/🟡Inheritance.md",
     "DataBase/🟡DataDefinitionLanguage.md",
     "YFiles/Pasted image 20240302142052.png",
@@ -174,10 +178,6 @@
     "СSharp/🟡MemoryManagement.md",
     "СSharp/🟡Multithreading.md",
     "СSharp/🟡Parallelism.md",
-    "СSharp/🟡Asynchrony.md",
-    "СSharp/🟢DotNetCLI.md",
-    "СSharp/🟢PatternMatching.md",
-    "СSharp/🟢Collections.md",
     "YFiles/Pasted image 20240119231039.png",
     "YFiles/Pasted image 20231231145729.png",
     "YFiles/Pasted image 20231209160752.png",
