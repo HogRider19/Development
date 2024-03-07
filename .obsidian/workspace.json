@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Base.md",
+                "file": "Git/🟡Base.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Base.md",
+                "file": "Git/🟡Base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Base.md",
+                "file": "Git/🟡Base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Base.md"
+                "file": "Git/🟡Base.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "3f683a3a34997487",
   "lastOpenFiles": [
+    "Git/Branching.md",
+    "Git/🟡Base.md",
+    "Git/🟡Configuration.md",
+    "EntityFramework/🟡Inheritance.md",
     "DataBase/🟡DataDefinitionLanguage.md",
-    "Git/Base.md",
     "YFiles/Pasted image 20240302142052.png",
     "YFiles/Pasted image 20240302002313.png",
     "Git/🟢Commit.md",
@@ -175,8 +178,6 @@
     "СSharp/🟢DotNetCLI.md",
     "СSharp/🟢PatternMatching.md",
     "СSharp/🟢Collections.md",
-    "СSharp/🟡Exceptions.md",
-    "Patterns/🟡Base.md",
     "YFiles/Pasted image 20240119231039.png",
     "YFiles/Pasted image 20231231145729.png",
     "YFiles/Pasted image 20231209160752.png",
