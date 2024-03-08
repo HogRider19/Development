@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Branching.md",
+                "file": "Git/🟡Branching.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Branching.md",
+                "file": "Git/🟡Branching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Branching.md",
+                "file": "Git/🟡Branching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Branching.md"
+                "file": "Git/🟡Branching.md"
               }
             }
           }
@@ -149,13 +149,13 @@
   },
   "active": "f8ab078ab31eec83",
   "lastOpenFiles": [
+    "Git/🟡Remote.md",
+    "Git/🟡Branching.md",
     "YFiles/Pasted image 20240307192230.png",
     "Git/🟡Base.md",
-    "Git/🟡Remote.md",
     "Git/🟡Tags.md",
     "Git/🟡Configuration.md",
     "Git/🟡Cancellation.md",
-    "Git/Branching.md",
     "EntityFramework/🟡Inheritance.md",
     "DataBase/🟡DataDefinitionLanguage.md",
     "YFiles/Pasted image 20240302142052.png",
@@ -185,7 +185,6 @@
     "YFiles/Pasted image 20231206111536.png",
     "YFiles/Pasted image 20231106011817.png",
     "YFiles/Pasted image 20231106011619.png",
-    "YFiles/Pasted image 20231011230851.png",
     "YFiles/Docker.pdf",
     "JavaScript",
     "YFiles/Docker.pdf.crdownload",
