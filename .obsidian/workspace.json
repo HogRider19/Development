@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/🟡Cancellation.md",
+                "file": "AdditionalTasks/🟡Redis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/🟡Cancellation.md",
+                "file": "AdditionalTasks/🟡Redis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/🟡Cancellation.md",
+                "file": "AdditionalTasks/🟡Redis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/🟡Cancellation.md"
+                "file": "AdditionalTasks/🟡Redis.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "f8ab078ab31eec83",
   "lastOpenFiles": [
+    "AdditionalTasks/CI-CD.md",
+    "Git/🟡Cancellation.md",
     "Git/🟡Remote.md",
     "Git/🟡Base.md",
     "СSharp/🟡Exceptions.md",
@@ -156,7 +158,6 @@
     "AspNetCore/🟡Logging.md",
     "Git/🟡Branching.md",
     "Git/🟡Stashing.md",
-    "Git/🟡Cancellation.md",
     "Git/🟡Configuration.md",
     "YFiles/Pasted image 20240307192230.png",
     "Git/🟡Tags.md",
@@ -178,7 +179,6 @@
     "СSharp/🟡Delegates.md",
     "СSharp/🟡LINQ.md",
     "СSharp/🟡Reflection.md",
-    "СSharp/🟡FileSystem.md",
     "YFiles/Pasted image 20240119231039.png",
     "YFiles/Pasted image 20231231145729.png",
     "YFiles/Pasted image 20231209160752.png",
