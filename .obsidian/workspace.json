@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AdditionalTasks/🟡Redis.md",
+                "file": "СSharp/🟡Asynchrony.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AdditionalTasks/🟡Redis.md",
+                "file": "СSharp/🟡Asynchrony.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AdditionalTasks/🟡Redis.md",
+                "file": "СSharp/🟡Asynchrony.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AdditionalTasks/🟡Redis.md"
+                "file": "СSharp/🟡Asynchrony.md"
               }
             }
           }
@@ -149,11 +149,16 @@
   },
   "active": "f8ab078ab31eec83",
   "lastOpenFiles": [
+    "СSharp/🟢DotNetCLI.md",
+    "СSharp/🟢PatternMatching.md",
+    "СSharp/🟢Collections.md",
+    "СSharp/🟡Exceptions.md",
+    "СSharp/🟡Objects.md",
+    "AdditionalTasks/🟡Redis.md",
     "AdditionalTasks/CI-CD.md",
     "Git/🟡Cancellation.md",
     "Git/🟡Remote.md",
     "Git/🟡Base.md",
-    "СSharp/🟡Exceptions.md",
     "AspNetCore/🟡Configuration.md",
     "AspNetCore/🟡Logging.md",
     "Git/🟡Branching.md",
@@ -173,12 +178,7 @@
     "Git/🟢Branch.md",
     "DataBase/🟡Base.md",
     "WPF",
-    "СSharp/🟡Objects.md",
     "СSharp/🟡Interfaces.md",
-    "СSharp/🟢AccessModifiers.md",
-    "СSharp/🟡Delegates.md",
-    "СSharp/🟡LINQ.md",
-    "СSharp/🟡Reflection.md",
     "YFiles/Pasted image 20240119231039.png",
     "YFiles/Pasted image 20231231145729.png",
     "YFiles/Pasted image 20231209160752.png",
