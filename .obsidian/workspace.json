@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f8ab078ab31eec83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "СSharp/🟡Asynchrony.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "56957da645dac7ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "СSharp/🟡Unsafe.md",
+                "file": "AdditionalTasks/🟡Redis.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "СSharp/🟡Unsafe.md",
+                "file": "AdditionalTasks/🟡Redis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "СSharp/🟡Unsafe.md",
+                "file": "AdditionalTasks/🟡Redis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "СSharp/🟡Unsafe.md"
+                "file": "AdditionalTasks/🟡Redis.md"
               }
             }
           }
@@ -162,9 +149,11 @@
   },
   "active": "56957da645dac7ae",
   "lastOpenFiles": [
+    "DataBase/🟡DataManipulationLanguage.md",
+    "DataBase/🟡DataDefinitionLanguage.md",
+    "СSharp/🟡Unsafe.md",
     "СSharp/🟡Objects.md",
     "СSharp/🟡Asynchrony.md",
-    "СSharp/🟡Unsafe.md",
     "СSharp/🟢DotNetCLI.md",
     "СSharp/🟢PatternMatching.md",
     "СSharp/🟢Collections.md",
@@ -182,7 +171,6 @@
     "YFiles/Pasted image 20240307192230.png",
     "Git/🟡Tags.md",
     "EntityFramework/🟡Inheritance.md",
-    "DataBase/🟡DataDefinitionLanguage.md",
     "YFiles/Pasted image 20240302142052.png",
     "YFiles/Pasted image 20240302002313.png",
     "Git/🟢Commit.md",
@@ -190,7 +178,6 @@
     "Git/🟢BaseCommands.md",
     "Git/🟢RemoteRepos.md",
     "Git/🟢TrackingStatuses.md",
-    "Git/🟢Branch.md",
     "WPF",
     "YFiles/Pasted image 20240119231039.png",
     "YFiles/Pasted image 20231231145729.png",
