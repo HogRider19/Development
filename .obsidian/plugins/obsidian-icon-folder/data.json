@@ -43,5 +43,6 @@
   "IdentityServer": "FabUserSecret",
   "YFiles": "FabImage",
   "JavaScript": "FabJs",
-  "WinForms": "FabWindowRestore"
+  "WinForms": "FabWindowRestore",
+  "WPF": "SiWindows"
 }

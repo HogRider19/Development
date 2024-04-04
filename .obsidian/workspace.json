@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b2167ca2049bda70",
+        "id": "675e20dffd4fbe9a",
         "type": "tabs",
         "children": [
           {
-            "id": "56957da645dac7ae",
+            "id": "85c5ba1b7dcb529e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/🟡Stashing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d36ac868d7beb054",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WinForms/Forms.md",
+                "file": "WPF/🟡XAML.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WinForms/Forms.md",
+                "file": "WPF/🟡XAML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WinForms/Forms.md",
+                "file": "WPF/🟡XAML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WinForms/Forms.md"
+                "file": "WPF/🟡XAML.md"
               }
             }
           }
@@ -160,16 +147,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d36ac868d7beb054",
+  "active": "85c5ba1b7dcb529e",
   "lastOpenFiles": [
     "WinForms/🟡Base.md",
+    "WPF/🟡XAML.md",
+    "WPF/🟡Base.md",
+    "JavaScript/🟡Modules.md",
+    "YFiles/Pasted image 20240404203414.png",
+    "DataBase/🟡DataDefinitionLanguage.md",
+    "WPF",
     "WinForms/Forms.md",
+    "Git/🟡Stashing.md",
     "Testing/🟡Base.md",
     "Untitled.md",
     "WinForms",
     "AdditionalTasks/🟡Redis.md",
     "DataBase/🟡DataManipulationLanguage.md",
-    "DataBase/🟡DataDefinitionLanguage.md",
     "СSharp/🟡Unsafe.md",
     "СSharp/🟡Objects.md",
     "СSharp/🟡Asynchrony.md",
@@ -184,14 +177,10 @@
     "AspNetCore/🟡Configuration.md",
     "AspNetCore/🟡Logging.md",
     "Git/🟡Branching.md",
-    "Git/🟡Stashing.md",
     "Git/🟡Configuration.md",
     "YFiles/Pasted image 20240307192230.png",
-    "Git/🟡Tags.md",
-    "EntityFramework/🟡Inheritance.md",
     "YFiles/Pasted image 20240302142052.png",
     "YFiles/Pasted image 20240302002313.png",
-    "Git/🟢Commit.md",
     "WPF",
     "YFiles/Pasted image 20240119231039.png",
     "YFiles/Pasted image 20231231145729.png",
@@ -199,7 +188,6 @@
     "YFiles/Pasted image 20231208225523.png",
     "YFiles/Pasted image 20231206111536.png",
     "YFiles/Pasted image 20231106011817.png",
-    "YFiles/Pasted image 20231106011619.png",
     "YFiles/Docker.pdf",
     "JavaScript",
     "YFiles/Docker.pdf.crdownload",
@@ -208,7 +196,6 @@
     "YFiles",
     "IdentityServer",
     "Testing/Untitled.canvas",
-    "Testing",
     "Untitled.canvas",
     "Patterns/Examples/Untitled.canvas"
   ]
