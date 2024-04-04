@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FabWindowRestore",
       "SiWindows",
       "FabJs",
       "SiJavascript",
-      "FabImage",
-      "SiFiles"
+      "FabImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,5 +42,6 @@
   "Testing": "FabWrench",
   "IdentityServer": "FabUserSecret",
   "YFiles": "FabImage",
-  "JavaScript": "FabJs"
+  "JavaScript": "FabJs",
+  "WinForms": "FabWindowRestore"
 }
