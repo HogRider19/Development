@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WPF/🟡XAML.md",
+                "file": "OpenGL/Base.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WPF/🟡XAML.md",
+                "file": "OpenGL/Base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WPF/🟡XAML.md",
+                "file": "OpenGL/Base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WPF/🟡XAML.md"
+                "file": "OpenGL/Base.md"
               }
             }
           }
@@ -149,8 +149,17 @@
   },
   "active": "85c5ba1b7dcb529e",
   "lastOpenFiles": [
-    "WinForms/🟡Base.md",
+    "AspNetCore/🟡Authentification.md",
+    "OpenGL/Base.md",
+    "Docker/🟢Base.md",
+    "Docker/🟢Images.md",
+    "Docker/🟢EnviromentValues.md",
+    "Docker/🟢DockerFile.md",
+    "Docker/🟢Compose.md",
+    "Docker/🟢Volumes.md",
     "WPF/🟡XAML.md",
+    "OpenGL",
+    "WinForms/🟡Base.md",
     "WPF/🟡Base.md",
     "JavaScript/🟡Modules.md",
     "YFiles/Pasted image 20240404203414.png",
@@ -170,14 +179,6 @@
     "СSharp/🟢PatternMatching.md",
     "СSharp/🟢Collections.md",
     "СSharp/🟡Exceptions.md",
-    "AdditionalTasks/CI-CD.md",
-    "Git/🟡Cancellation.md",
-    "Git/🟡Remote.md",
-    "Git/🟡Base.md",
-    "AspNetCore/🟡Configuration.md",
-    "AspNetCore/🟡Logging.md",
-    "Git/🟡Branching.md",
-    "Git/🟡Configuration.md",
     "YFiles/Pasted image 20240307192230.png",
     "YFiles/Pasted image 20240302142052.png",
     "YFiles/Pasted image 20240302002313.png",
@@ -194,7 +195,6 @@
     "YFiles/3DLayered.png.crdownload",
     "YFiles/Onion.png.crdownload",
     "YFiles",
-    "IdentityServer",
     "Testing/Untitled.canvas",
     "Untitled.canvas",
     "Patterns/Examples/Untitled.canvas"

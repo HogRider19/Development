@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "IbGrid",
+      "SiOpengl",
       "FabWindowRestore",
       "SiWindows",
-      "FabJs",
-      "SiJavascript",
-      "FabImage"
+      "FabJs"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -44,5 +44,6 @@
   "YFiles": "FabImage",
   "JavaScript": "FabJs",
   "WinForms": "FabWindowRestore",
-  "WPF": "SiWindows"
+  "WPF": "SiWindows",
+  "OpenGL": "IbGrid"
 }
