@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "603ca3719fd778e6",
+        "id": "fcc0bf8c82532b9a",
         "type": "tabs",
         "children": [
           {
-            "id": "fa15e01376a61f92",
+            "id": "0ed9f5e5e07577c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenGL/🟡Base.md",
+                "file": "OpenGL/Theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenGL/🟡Base.md",
+                "file": "OpenGL/Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenGL/🟡Base.md",
+                "file": "OpenGL/Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenGL/🟡Base.md"
+                "file": "OpenGL/Theory.md"
               }
             }
           }
@@ -147,16 +147,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa15e01376a61f92",
+  "active": "0ed9f5e5e07577c0",
   "lastOpenFiles": [
-    "Linux/🟡Processes.md",
-    "OpenGL/🟡Base.md",
+    "YFiles/Pasted image 20240406235454.png",
+    "YFiles/Pasted image 20240406232922.png",
+    "YFiles/Pasted image 20240406232608.png",
     "OpenGL/Func.md",
+    "OpenGL/Theory.md",
+    "Git/🟡Branching.md",
+    "Git/🟡Base.md",
+    "DataBase/🟡Base.md",
+    "DataBase/🟡DataDefinitionLanguage.md",
+    "AspNetCore/🟡Logging.md",
+    "AspNetCore/🟡DependencyInjection.md",
+    "AspNetCore/🟡Configuration.md",
+    "AspNetCore/🟡Authentification.md",
+    "Git/🟡Stashing.md",
+    "Git/🟡Cancellation.md",
+    "OpenGL/🟡Base.md",
+    "Linux/🟡Processes.md",
     "OpenGL/Display.md",
     "OpenGL/SharpGl.md",
     "YFiles/Pasted image 20240405192319.png",
     "YFiles/Pasted image 20240405192217.png",
-    "AspNetCore/🟡Authentification.md",
     "Docker/🟢Base.md",
     "Docker/🟢Images.md",
     "Docker/🟢EnviromentValues.md",
@@ -167,28 +180,15 @@
     "OpenGL",
     "WinForms/🟡Base.md",
     "WPF/🟡Base.md",
-    "JavaScript/🟡Modules.md",
     "YFiles/Pasted image 20240404203414.png",
-    "DataBase/🟡DataDefinitionLanguage.md",
     "WPF",
-    "WinForms/Forms.md",
-    "Git/🟡Stashing.md",
-    "Testing/🟡Base.md",
-    "Untitled.md",
     "WinForms",
-    "AdditionalTasks/🟡Redis.md",
-    "DataBase/🟡DataManipulationLanguage.md",
-    "СSharp/🟡Unsafe.md",
-    "СSharp/🟡Objects.md",
-    "СSharp/🟡Asynchrony.md",
     "YFiles/Pasted image 20240307192230.png",
     "YFiles/Pasted image 20240302142052.png",
     "YFiles/Pasted image 20240302002313.png",
     "WPF",
     "YFiles/Pasted image 20240119231039.png",
     "YFiles/Pasted image 20231231145729.png",
-    "YFiles/Pasted image 20231209160752.png",
-    "YFiles/Pasted image 20231208225523.png",
     "YFiles/Docker.pdf",
     "JavaScript",
     "YFiles/Docker.pdf.crdownload",
