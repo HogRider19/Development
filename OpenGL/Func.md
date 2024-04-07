@@ -27,3 +27,9 @@ gl.PolygonMode(GL_FRONT, GL_POINT);
 gl.PolygonMode(GL_BACK, GL_LINE);
 gl.PolygonMode(GL_FRONT_AND_BACK, GL_FILL);
 ```
+
+**==LoadIdentity==**. Заменяет текущую матрицу преобразования в конвейере на единичную матрицу. Это семантически эквивалентно вызову `glLoadMatrix` с единичной матрицей.
+
+```c#
+gl.LoadIdentity();
+```

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenGL/🟡Theory.md",
+                "file": "OpenGL/Display.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenGL/🟡Theory.md",
+                "file": "OpenGL/Display.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenGL/🟡Theory.md",
+                "file": "OpenGL/Display.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenGL/🟡Theory.md"
+                "file": "OpenGL/Display.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "0ed9f5e5e07577c0",
   "lastOpenFiles": [
-    "OpenGL/🟡Base.md",
+    "OpenGL/Func.md",
+    "OpenGL/SharpGl.md",
     "OpenGL/🟡Theory.md",
+    "OpenGL/🟡Base.md",
     "JavaScript/🟡DataStorages.md",
     "JavaScript/🟡BuiltinObjects.md",
     "JavaScript/🟡BrowserControl.md",
@@ -162,7 +164,6 @@
     "YFiles/Pasted image 20240406235454.png",
     "YFiles/Pasted image 20240406232922.png",
     "YFiles/Pasted image 20240406232608.png",
-    "OpenGL/Func.md",
     "Git/🟡Branching.md",
     "Git/🟡Base.md",
     "DataBase/🟡Base.md",
@@ -175,7 +176,6 @@
     "Git/🟡Cancellation.md",
     "Linux/🟡Processes.md",
     "OpenGL/Display.md",
-    "OpenGL/SharpGl.md",
     "YFiles/Pasted image 20240405192319.png",
     "YFiles/Pasted image 20240405192217.png",
     "Docker/🟢Base.md",
