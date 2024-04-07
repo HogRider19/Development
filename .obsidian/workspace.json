@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenGL/Theory.md",
+                "file": "OpenGL/🟡Theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenGL/Theory.md",
+                "file": "OpenGL/🟡Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenGL/Theory.md",
+                "file": "OpenGL/🟡Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenGL/Theory.md"
+                "file": "OpenGL/🟡Theory.md"
               }
             }
           }
@@ -149,11 +149,20 @@
   },
   "active": "0ed9f5e5e07577c0",
   "lastOpenFiles": [
+    "OpenGL/🟡Base.md",
+    "OpenGL/🟡Theory.md",
+    "JavaScript/🟡DataStorages.md",
+    "JavaScript/🟡BuiltinObjects.md",
+    "JavaScript/🟡BrowserControl.md",
+    "JavaScript/🟡DOMControl.md",
+    "JavaScript/🟡OOP.md",
+    "JavaScript/🟡Events.md",
+    "JavaScript/🟡Modules.md",
+    "YFiles/Pasted image 20240407110626.png",
     "YFiles/Pasted image 20240406235454.png",
     "YFiles/Pasted image 20240406232922.png",
     "YFiles/Pasted image 20240406232608.png",
     "OpenGL/Func.md",
-    "OpenGL/Theory.md",
     "Git/🟡Branching.md",
     "Git/🟡Base.md",
     "DataBase/🟡Base.md",
@@ -164,7 +173,6 @@
     "AspNetCore/🟡Authentification.md",
     "Git/🟡Stashing.md",
     "Git/🟡Cancellation.md",
-    "OpenGL/🟡Base.md",
     "Linux/🟡Processes.md",
     "OpenGL/Display.md",
     "OpenGL/SharpGl.md",
@@ -173,13 +181,7 @@
     "Docker/🟢Base.md",
     "Docker/🟢Images.md",
     "Docker/🟢EnviromentValues.md",
-    "Docker/🟢DockerFile.md",
-    "Docker/🟢Compose.md",
-    "Docker/🟢Volumes.md",
-    "WPF/🟡XAML.md",
     "OpenGL",
-    "WinForms/🟡Base.md",
-    "WPF/🟡Base.md",
     "YFiles/Pasted image 20240404203414.png",
     "WPF",
     "WinForms",
@@ -187,8 +189,6 @@
     "YFiles/Pasted image 20240302142052.png",
     "YFiles/Pasted image 20240302002313.png",
     "WPF",
-    "YFiles/Pasted image 20240119231039.png",
-    "YFiles/Pasted image 20231231145729.png",
     "YFiles/Docker.pdf",
     "JavaScript",
     "YFiles/Docker.pdf.crdownload",
