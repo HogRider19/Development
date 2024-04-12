@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenGL/Display.md",
+                "file": "OpenGL/🟡Theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenGL/Display.md",
+                "file": "OpenGL/🟡Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenGL/Display.md",
+                "file": "OpenGL/🟡Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenGL/Display.md"
+                "file": "OpenGL/🟡Theory.md"
               }
             }
           }
@@ -149,10 +149,29 @@
   },
   "active": "0ed9f5e5e07577c0",
   "lastOpenFiles": [
-    "OpenGL/Func.md",
-    "OpenGL/SharpGl.md",
-    "OpenGL/🟡Theory.md",
+    "OpenGL/🟡SharpGl.md",
+    "Architecture/🟡Onion.md",
+    "Architecture/🟡3d-layered.md",
+    "Blazor/🟡Формы.md",
+    "YFiles/IdentityServer.png",
+    "YFiles/Onion.png",
+    "YFiles/3DLayered.png",
+    "YFiles/Pasted image 20231231145729.png",
+    "YFiles/Pasted image 20231208225523.png",
+    "YFiles/Pasted image 20231206111536.png",
+    "YFiles/Pasted image 20231021163522.png",
+    "YFiles/Pasted image 20231011230825.png",
+    "YFiles/Pasted image 20240307192230.png",
+    "YFiles/Pasted image 20240119231039.png",
     "OpenGL/🟡Base.md",
+    "OpenGL/🟡Theory.md",
+    "СSharp/🟡Unsafe.md",
+    "Git/🟡Base.md",
+    "Git/🟡Branching.md",
+    "DataBase/🟡Base.md",
+    "DataBase/🟡DataDefinitionLanguage.md",
+    "OpenGL/Func.md",
+    "OpenGL/Display.md",
     "JavaScript/🟡DataStorages.md",
     "JavaScript/🟡BuiltinObjects.md",
     "JavaScript/🟡BrowserControl.md",
@@ -160,34 +179,15 @@
     "JavaScript/🟡OOP.md",
     "JavaScript/🟡Events.md",
     "JavaScript/🟡Modules.md",
-    "YFiles/Pasted image 20240407110626.png",
-    "YFiles/Pasted image 20240406235454.png",
-    "YFiles/Pasted image 20240406232922.png",
-    "YFiles/Pasted image 20240406232608.png",
-    "Git/🟡Branching.md",
-    "Git/🟡Base.md",
-    "DataBase/🟡Base.md",
-    "DataBase/🟡DataDefinitionLanguage.md",
     "AspNetCore/🟡Logging.md",
     "AspNetCore/🟡DependencyInjection.md",
     "AspNetCore/🟡Configuration.md",
     "AspNetCore/🟡Authentification.md",
     "Git/🟡Stashing.md",
     "Git/🟡Cancellation.md",
-    "Linux/🟡Processes.md",
-    "OpenGL/Display.md",
-    "YFiles/Pasted image 20240405192319.png",
-    "YFiles/Pasted image 20240405192217.png",
-    "Docker/🟢Base.md",
-    "Docker/🟢Images.md",
-    "Docker/🟢EnviromentValues.md",
     "OpenGL",
-    "YFiles/Pasted image 20240404203414.png",
     "WPF",
     "WinForms",
-    "YFiles/Pasted image 20240307192230.png",
-    "YFiles/Pasted image 20240302142052.png",
-    "YFiles/Pasted image 20240302002313.png",
     "WPF",
     "YFiles/Docker.pdf",
     "JavaScript",

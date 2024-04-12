@@ -29,6 +29,20 @@ gl.glEndList();
 gl.CallList(id)
 ```
 
-**==VertexArray==**. 
+**==VertexArray==**. Подход, подразумевающий создание массивов с координатами вершин и массивов с иными данными о вершинах, с последующей передачей этих данных по шине в графическую карту.  Это позволяет вам не заниматься управлением памятью на уровне `CPU`, что может быть полезно для статических или небольших данных. 
+
+```c#
+glEnableClientState(GL_VERTEX_ARRAY);
+glVertexPointer(count_by_item, GL_FLOAT, shift, data);
+
+glEnableClientState(GL_COLOR_ARRAY);
+glColorPointer(count_by_item, GL_FLOAT, shift, data);
+
+glDrawArrays(GL_TRIANGLES, shift, count_by_item);
+
+glDisableClientState(GL_VERTEX_ARRAY);
+```
+
+**==VertexBufferObject==**. 
 
 ![[Pasted image 20240405192319.png]]
