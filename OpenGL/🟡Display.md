@@ -43,6 +43,8 @@ glDrawArrays(GL_TRIANGLES, shift, count_by_item);
 glDisableClientState(GL_VERTEX_ARRAY);
 ```
 
-**==VertexBufferObject==**. 
+**==VertexBufferObject==**. Представляет собой такое средство `OpenGL`, позволяющее загружать определенные данные в память `GPU`. Например, если вы хотите сообщить `GPU` координаты вершин, цвета или нормали, нужно создать `VBO` и положить эти данные в него. Подход похож на списки отображения, но с использованием массивов.
+
+
 
 ![[Pasted image 20240405192319.png]]

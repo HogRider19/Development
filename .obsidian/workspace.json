@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenGL/🟡Theory.md",
+                "file": "OpenGL/🟡Func.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenGL/🟡Theory.md",
+                "file": "OpenGL/🟡Func.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenGL/🟡Theory.md",
+                "file": "OpenGL/🟡Func.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenGL/🟡Theory.md"
+                "file": "OpenGL/🟡Func.md"
               }
             }
           }
@@ -149,7 +149,24 @@
   },
   "active": "0ed9f5e5e07577c0",
   "lastOpenFiles": [
+    "OpenGL/🟡Display.md",
+    "OpenGL/🟡Theory.md",
+    "OpenGL/🟡Func.md",
     "OpenGL/🟡SharpGl.md",
+    "OpenGL/🟡Base.md",
+    "DataBase/🟡Projection.md",
+    "DataBase/🟡QueryProfiling.md",
+    "DataBase/🟡Replecation.md",
+    "DataBase/🟡TransactionControlLanguage.md",
+    "DataBase/🟡DataManipulationLanguage.md",
+    "DataBase/🟡DataControlLanguage.md",
+    "DataBase/🟡Indexes.md",
+    "DataBase/🟡DataDefinitionLanguage.md",
+    "DataBase/🟡Triggers.md",
+    "DataBase/🟡DataTypes.md",
+    "DataBase/🟡Organization.md",
+    "СSharp/🟢AccessModifiers.md",
+    "СSharp/🟡Unsafe.md",
     "Architecture/🟡Onion.md",
     "Architecture/🟡3d-layered.md",
     "Blazor/🟡Формы.md",
@@ -163,28 +180,11 @@
     "YFiles/Pasted image 20231011230825.png",
     "YFiles/Pasted image 20240307192230.png",
     "YFiles/Pasted image 20240119231039.png",
-    "OpenGL/🟡Base.md",
-    "OpenGL/🟡Theory.md",
-    "СSharp/🟡Unsafe.md",
     "Git/🟡Base.md",
     "Git/🟡Branching.md",
     "DataBase/🟡Base.md",
-    "DataBase/🟡DataDefinitionLanguage.md",
-    "OpenGL/Func.md",
-    "OpenGL/Display.md",
     "JavaScript/🟡DataStorages.md",
     "JavaScript/🟡BuiltinObjects.md",
-    "JavaScript/🟡BrowserControl.md",
-    "JavaScript/🟡DOMControl.md",
-    "JavaScript/🟡OOP.md",
-    "JavaScript/🟡Events.md",
-    "JavaScript/🟡Modules.md",
-    "AspNetCore/🟡Logging.md",
-    "AspNetCore/🟡DependencyInjection.md",
-    "AspNetCore/🟡Configuration.md",
-    "AspNetCore/🟡Authentification.md",
-    "Git/🟡Stashing.md",
-    "Git/🟡Cancellation.md",
     "OpenGL",
     "WPF",
     "WinForms",
