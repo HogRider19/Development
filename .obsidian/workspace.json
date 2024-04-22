@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fcc0bf8c82532b9a",
+        "id": "57e440b2918545ac",
         "type": "tabs",
         "children": [
           {
-            "id": "0ed9f5e5e07577c0",
+            "id": "a99664cf0d9b9653",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenGL/🟡Func.md",
+                "file": "OpenGL/🟡SharpGl.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenGL/🟡Func.md",
+                "file": "OpenGL/🟡SharpGl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenGL/🟡Func.md",
+                "file": "OpenGL/🟡SharpGl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenGL/🟡Func.md"
+                "file": "OpenGL/🟡SharpGl.md"
               }
             }
           }
@@ -147,11 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ed9f5e5e07577c0",
+  "active": "a99664cf0d9b9653",
   "lastOpenFiles": [
-    "OpenGL/🟡Display.md",
     "OpenGL/🟡Func.md",
+    "OpenGL/🟡Display.md",
     "OpenGL/🟡Theory.md",
+    "Math/Interpolation.md",
+    "Math",
     "OpenGL/🟡SharpGl.md",
     "OpenGL/🟡Base.md",
     "DataBase/🟡Projection.md",
@@ -184,7 +186,6 @@
     "Git/🟡Branching.md",
     "DataBase/🟡Base.md",
     "JavaScript/🟡DataStorages.md",
-    "JavaScript/🟡BuiltinObjects.md",
     "OpenGL",
     "WPF",
     "WinForms",
@@ -194,7 +195,6 @@
     "YFiles/Docker.pdf.crdownload",
     "YFiles/3DLayered.png.crdownload",
     "YFiles/Onion.png.crdownload",
-    "YFiles",
     "Testing/Untitled.canvas",
     "Untitled.canvas",
     "Patterns/Examples/Untitled.canvas"

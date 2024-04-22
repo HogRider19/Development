@@ -48,3 +48,4 @@ glDisableClientState(GL_VERTEX_ARRAY);
 
 
 ![[Pasted image 20240405192319.png]]
+[[OpenGL/🟡Base|🟡Base]]
