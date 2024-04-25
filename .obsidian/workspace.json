@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenGL/🟡SharpGl.md",
+                "file": "Math/Approximation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenGL/🟡SharpGl.md",
+                "file": "Math/Approximation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenGL/🟡SharpGl.md",
+                "file": "Math/Approximation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenGL/🟡SharpGl.md"
+                "file": "Math/Approximation.md"
               }
             }
           }
@@ -149,12 +149,16 @@
   },
   "active": "a99664cf0d9b9653",
   "lastOpenFiles": [
-    "OpenGL/🟡Func.md",
+    "YFiles/Pasted image 20240425193522.png",
+    "YFiles/Pasted image 20240425193509.png",
+    "YFiles/Pasted image 20240425193235.png",
+    "Math/Interpolation.md",
+    "Math/Approximation.md",
     "OpenGL/🟡Display.md",
     "OpenGL/🟡Theory.md",
-    "Math/Interpolation.md",
-    "Math",
     "OpenGL/🟡SharpGl.md",
+    "OpenGL/🟡Func.md",
+    "Math",
     "OpenGL/🟡Base.md",
     "DataBase/🟡Projection.md",
     "DataBase/🟡QueryProfiling.md",
@@ -180,12 +184,8 @@
     "YFiles/Pasted image 20231206111536.png",
     "YFiles/Pasted image 20231021163522.png",
     "YFiles/Pasted image 20231011230825.png",
-    "YFiles/Pasted image 20240307192230.png",
-    "YFiles/Pasted image 20240119231039.png",
     "Git/🟡Base.md",
     "Git/🟡Branching.md",
-    "DataBase/🟡Base.md",
-    "JavaScript/🟡DataStorages.md",
     "OpenGL",
     "WPF",
     "WinForms",
