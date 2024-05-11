@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aafa776f83b52608",
+        "id": "bc792be6d096f241",
         "type": "tabs",
         "children": [
           {
-            "id": "7e1580d98a4a803a",
+            "id": "34c7d1cbc9281adf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/🟡Base.md",
+                "file": "WPF/Layout.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataBase/🟡Base.md",
+                "file": "WPF/Layout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataBase/🟡Base.md",
+                "file": "WPF/Layout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataBase/🟡Base.md"
+                "file": "WPF/Layout.md"
               }
             }
           }
@@ -147,15 +147,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e1580d98a4a803a",
+  "active": "34c7d1cbc9281adf",
   "lastOpenFiles": [
+    "YFiles/Pasted image 20240511161046.png",
+    "WPF/🟡XAML.md",
+    "WPF/Layout.md",
+    "WPF/🟡Base.md",
+    "ApiAndProtocols/🟡HTTP.md",
+    "AspNetCore/🟡Configuration.md",
+    "AspNetCoreMVС/🟡HtmlHelpers.md",
+    "Authentication/🟢JWT.md",
+    "Authentication/🟡OpenId.md",
+    "Authentication/🟢SessionsCookies.md",
+    "Authentication/🟡Base.md",
+    "Authentication/🟡OAuth.md",
+    "Linux/🟢SpecialSymbols.md",
+    "Linux/🟢RemoteServer.md",
+    "Linux/🟢BaseCommands.md",
+    "DataBase/🟡Base.md",
     "OpenGL/🟡Display.md",
     "Math/🟡Spline.md",
     "Math/🟡Interpolation.md",
     "OpenGL/🟡Theory.md",
     "DataBase/🟡DataControlLanguage.md",
     "DataBase/🟡DataDefinitionLanguage.md",
-    "WPF/🟡Base.md",
     "Math/🟡Approximation.md",
     "YFiles/Pasted image 20240430123112.png",
     "WinForms/🟡Base.md",
@@ -164,22 +179,7 @@
     "YFiles/Pasted image 20240425193522.png",
     "YFiles/Pasted image 20240425193509.png",
     "YFiles/Pasted image 20240425193235.png",
-    "OpenGL/🟡SharpGl.md",
-    "OpenGL/🟡Func.md",
     "Math",
-    "OpenGL/🟡Base.md",
-    "DataBase/🟡Projection.md",
-    "DataBase/🟡QueryProfiling.md",
-    "DataBase/🟡Replecation.md",
-    "DataBase/🟡Indexes.md",
-    "DataBase/🟡Triggers.md",
-    "DataBase/🟡DataTypes.md",
-    "DataBase/🟡Organization.md",
-    "СSharp/🟢AccessModifiers.md",
-    "СSharp/🟡Unsafe.md",
-    "Architecture/🟡Onion.md",
-    "Architecture/🟡3d-layered.md",
-    "Blazor/🟡Формы.md",
     "YFiles/IdentityServer.png",
     "YFiles/Onion.png",
     "YFiles/3DLayered.png",
