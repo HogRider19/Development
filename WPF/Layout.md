@@ -18,13 +18,76 @@
 Кроме того, если мы хотим растянуть элемент управления на несколько строк или столбцов, то можно указать свойства `Grid.ColumnSpan` и `Grid.RowSpan`.
 
 ```xml
-<Grid.RowDefinitions>
-    <RowDefinition></RowDefinition>
-    <RowDefinition></RowDefinition>
-</Grid.RowDefinitions>
-<Grid.ColumnDefinitions>
-    <ColumnDefinition></ColumnDefinition>
-    <ColumnDefinition></ColumnDefinition>
-</Grid.ColumnDefinitions>
+<Grid ShowGridLines="True">
+	<Grid.RowDefinitions>
+		<RowDefinition></RowDefinition>
+		<RowDefinition></RowDefinition>
+	</Grid.RowDefinitions>
+	<Grid.ColumnDefinitions>
+		<ColumnDefinition></ColumnDefinition>
+		<ColumnDefinition></ColumnDefinition>
+	</Grid.ColumnDefinitions>
+
+	<Button Grid.Row="1" Grid.Column="0" x:Name="name" Content="Click" />
+</Grid>
 ```
 
+Элементы строк и столбцов по умолчанию автоматический настраивают свои размеры так чтобы заполнить все доступное пространство, но это поведение можно изменить.
+
+```xml
+<ColumnDefinition Width="150" />
+<RowDefinition Height="150" />
+
+<ColumnDefinition Width="*" />     // Заполнить оставшееся 
+<ColumnDefinition Width="0.25*" /> // Четверть от заполняемого
+```
+
+Если строка или столбец имеет высоту, равную `*`, то данная строка или столбце будет занимать все оставшееся место. Если у нас есть несколько сток или столбцов, высота которых равна `*`, то все доступное место делится поровну между ними.
+
+**==UniformGrid==**. Контейнер `UniformGrid` представляет собой контейнер аналогичный контейнеру `Grid`, только в этом случае все столбцы и строки одинакового размера и для их определения можно использовать упрощенный синтаксис:
+
+```xml
+<UniformGrid Rows="2" Columns="2">
+    <Button Content="Left Top" />
+    <Button Content="Right Top" />
+    <Button Content="Left Bottom" />
+    <Button Content="Right Bottom" />
+</UniformGrid>
+```
+
+**==GridSplitter==**. Представляет некоторый разделитель между столбцами или строками, путем сдвига которого можно регулировать ширину столбцов и высоту строк.
+
+Чтобы использовать элемент `GridSplitter`, нам надо поместить его в ячейку `Gride`. По сути это обычный элемент, такой же, как кнопка. Обычно строка или столбец, в которые помещают элемент, имеет для свойств `Height` или `Width` значение `Auto`.
+
+Если у нас несколько строк, и мы хотим, чтобы разделитель распространялся на несколько строк, то мы можем задать свойство `Grid.RowSpan` у объекта `GridSplitter`.
+
+```xml
+<Grid>
+    <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="*" />
+        <ColumnDefinition Width="Auto" />
+        <ColumnDefinition Width="*" />
+    </Grid.ColumnDefinitions>
+    <Button Grid.Column="0" Content="Левая кнопка" />
+    <GridSplitter Grid.Column="1" ShowsPreview="False" Width="3"
+        HorizontalAlignment="Center" VerticalAlignment="Stretch" />
+    <Button Grid.Column="2" Content="Правая кнопка" />
+</Grid>
+```
+
+**==StackPanel==**. Представляет более простой элемент компоновки. Он располагает все элементы в ряд либо по горизонтали, либо по вертикали в зависимости от ориентации.
+
+Свойство `Orientation` по умолчанию используется значение `Vertical`, то есть `StackPanel` создает вертикальный ряд, в который помещает элементы сверху вниз. 
+Мы также можем задать горизонтальный стек `Orientation="Horizontal".
+
+При горизонтальной ориентации все вложенные элементы располагаются слева направо. Если мы хотим  справа налево, то нам надо задать свойство `FlowDirection`.
+
+```xml
+<StackPanel Orientation="Vertical">
+	<Button Background="Blue" Content="1" />
+	<Button Background="White" Content="2" />
+	<Button Background="Red" Content="3" />
+</StackPanel>
+```
+
+**==DockPanel==**. 
