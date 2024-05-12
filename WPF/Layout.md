@@ -90,4 +90,28 @@
 </StackPanel>
 ```
 
-**==DockPanel==**. 
+**==WrapPanel==**. Эта панель, подобно `StackPanel`, располагает все элементы в одной строке или колонке в зависимости от того, какое значение имеет свойство Orientation. Главное отличие от `StackPanel` в том, что если элементы не помещаются в строке или столбце, создаются новые столбец или строка для не поместившихся элементов контейнера.
+
+```xml
+<WrapPanel Orientation="Vertical">
+	<Button Background="Blue" Content="1" />
+	<Button Background="White" Content="2" />
+	<Button Background="Red" Content="3" />
+</WrapPanel>
+```
+
+**==DockPanel==**. Этот контейнер прижимает свое содержимое к определенной стороне внешнего контейнера. Для этого у вложенных элементов надо установить сторону, к которой они будут прижиматься с помощью свойства `DockPanel.Dock`.
+
+```xml
+    <DockPanel LastChildFill="True">
+        <Button DockPanel.Dock="Top" />
+        <Button DockPanel.Dock="Bottom" />
+        <Button DockPanel.Dock="Left" />
+        <Button DockPanel.Dock="Right" />
+        <Button Background="LightGreen" />
+    </DockPanel>
+```
+
+Причем у последней кнопки мы можем не устанавливать свойство `DockPanel.Dock`. Она уже заполняет все оставшееся пространство. Такой эффект получается благодаря  `LastChildFill="True"`, которое заполняет оставшееся место последним элементом.
+
+**==Canvas==**. 
