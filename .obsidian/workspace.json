@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WPF/Layout.md",
+                "file": "JavaScript/🟡Modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WPF/Layout.md",
+                "file": "JavaScript/🟡Modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WPF/Layout.md",
+                "file": "JavaScript/🟡Modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WPF/Layout.md"
+                "file": "JavaScript/🟡Modules.md"
               }
             }
           }
@@ -149,9 +149,11 @@
   },
   "active": "34c7d1cbc9281adf",
   "lastOpenFiles": [
+    "DataBase/🟡DataDefinitionLanguage.md",
+    "СSharp/🟡Unsafe.md",
+    "WPF/Layout.md",
     "YFiles/Pasted image 20240511161046.png",
     "WPF/🟡XAML.md",
-    "WPF/Layout.md",
     "WPF/🟡Base.md",
     "ApiAndProtocols/🟡HTTP.md",
     "AspNetCore/🟡Configuration.md",
@@ -170,7 +172,6 @@
     "Math/🟡Interpolation.md",
     "OpenGL/🟡Theory.md",
     "DataBase/🟡DataControlLanguage.md",
-    "DataBase/🟡DataDefinitionLanguage.md",
     "Math/🟡Approximation.md",
     "YFiles/Pasted image 20240430123112.png",
     "WinForms/🟡Base.md",
@@ -185,7 +186,6 @@
     "YFiles/3DLayered.png",
     "YFiles/Pasted image 20231231145729.png",
     "YFiles/Pasted image 20231208225523.png",
-    "YFiles/Pasted image 20231206111536.png",
     "OpenGL",
     "WPF",
     "WinForms",
