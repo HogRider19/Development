@@ -11,8 +11,12 @@
             "id": "34c7d1cbc9281adf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "WPF/🟡Layout.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WPF/🟡Layout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "WPF/🟡Layout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "WPF/🟡Layout.md"
+              }
             }
           }
         ],
@@ -141,13 +149,13 @@
   },
   "active": "34c7d1cbc9281adf",
   "lastOpenFiles": [
-    "WPF/Layout.md",
+    "WPF/🟡Base.md",
+    "WPF/🟡Layout.md",
     "JavaScript/🟡Modules.md",
     "DataBase/🟡DataDefinitionLanguage.md",
     "СSharp/🟡Unsafe.md",
     "YFiles/Pasted image 20240511161046.png",
     "WPF/🟡XAML.md",
-    "WPF/🟡Base.md",
     "ApiAndProtocols/🟡HTTP.md",
     "AspNetCore/🟡Configuration.md",
     "AspNetCoreMVС/🟡HtmlHelpers.md",
