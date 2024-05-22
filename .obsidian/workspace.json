@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WPF/🟡Layout.md",
+                "file": "WPF/🟡Controls.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WPF/🟡Layout.md",
+                "file": "WPF/🟡Controls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WPF/🟡Layout.md",
+                "file": "WPF/🟡Controls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WPF/🟡Layout.md"
+                "file": "WPF/🟡Controls.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "34c7d1cbc9281adf",
   "lastOpenFiles": [
-    "WPF/🟡Base.md",
     "WPF/🟡Layout.md",
+    "WPF/🟡Controls.md",
+    "YFiles/Pasted image 20240522140913.png",
+    "WPF/🟡Base.md",
     "JavaScript/🟡Modules.md",
     "DataBase/🟡DataDefinitionLanguage.md",
     "СSharp/🟡Unsafe.md",
@@ -175,8 +177,6 @@
     "DataBase/🟡DataControlLanguage.md",
     "Math/🟡Approximation.md",
     "YFiles/Pasted image 20240430123112.png",
-    "WinForms/🟡Base.md",
-    "DataBase/🟡TransactionControlLanguage.md",
     "YFiles/Pasted image 20240425193522.png",
     "YFiles/Pasted image 20240425193509.png",
     "YFiles/Pasted image 20240425193235.png",
@@ -185,7 +185,6 @@
     "YFiles/Onion.png",
     "YFiles/3DLayered.png",
     "YFiles/Pasted image 20231231145729.png",
-    "YFiles/Pasted image 20231208225523.png",
     "OpenGL",
     "WPF",
     "WinForms",
