@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WPF/🟡Controls.md",
+                "file": "Linux/🟡Processes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WPF/🟡Controls.md",
+                "file": "Linux/🟡Processes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WPF/🟡Controls.md",
+                "file": "Linux/🟡Processes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WPF/🟡Controls.md"
+                "file": "Linux/🟡Processes.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "34c7d1cbc9281adf",
   "lastOpenFiles": [
-    "WPF/🟡Layout.md",
     "WPF/🟡Controls.md",
+    "WPF/🟡Layout.md",
     "YFiles/Pasted image 20240522140913.png",
     "WPF/🟡Base.md",
     "JavaScript/🟡Modules.md",
