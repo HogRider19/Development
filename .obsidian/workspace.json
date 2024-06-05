@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/🟡BrowserControl.md",
+                "file": "WPF/🟡Base.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/🟡BrowserControl.md",
+                "file": "WPF/🟡Base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/🟡BrowserControl.md",
+                "file": "WPF/🟡Base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/🟡BrowserControl.md"
+                "file": "WPF/🟡Base.md"
               }
             }
           }
@@ -149,16 +149,17 @@
   },
   "active": "34c7d1cbc9281adf",
   "lastOpenFiles": [
+    "WPF/🟡XAML.md",
+    "WPF/🟡Base.md",
+    "JavaScript/🟡BrowserControl.md",
     "Linux/🟡Processes.md",
     "WPF/🟡Controls.md",
     "WPF/🟡Layout.md",
     "YFiles/Pasted image 20240522140913.png",
-    "WPF/🟡Base.md",
     "JavaScript/🟡Modules.md",
     "DataBase/🟡DataDefinitionLanguage.md",
     "СSharp/🟡Unsafe.md",
     "YFiles/Pasted image 20240511161046.png",
-    "WPF/🟡XAML.md",
     "ApiAndProtocols/🟡HTTP.md",
     "AspNetCore/🟡Configuration.md",
     "AspNetCoreMVС/🟡HtmlHelpers.md",
@@ -176,7 +177,6 @@
     "Math/🟡Interpolation.md",
     "OpenGL/🟡Theory.md",
     "DataBase/🟡DataControlLanguage.md",
-    "Math/🟡Approximation.md",
     "YFiles/Pasted image 20240430123112.png",
     "YFiles/Pasted image 20240425193522.png",
     "YFiles/Pasted image 20240425193509.png",
