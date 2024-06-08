@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WPF/🟡Base.md",
+                "file": "WPF/DependencyObject.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WPF/🟡Base.md",
+                "file": "WPF/DependencyObject.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WPF/🟡Base.md",
+                "file": "WPF/DependencyObject.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WPF/🟡Base.md"
+                "file": "WPF/DependencyObject.md"
               }
             }
           }
@@ -149,11 +149,12 @@
   },
   "active": "34c7d1cbc9281adf",
   "lastOpenFiles": [
-    "WPF/🟡XAML.md",
+    "WPF/🟡Controls.md",
+    "WPF/DependencyObject.md",
     "WPF/🟡Base.md",
+    "WPF/🟡XAML.md",
     "JavaScript/🟡BrowserControl.md",
     "Linux/🟡Processes.md",
-    "WPF/🟡Controls.md",
     "WPF/🟡Layout.md",
     "YFiles/Pasted image 20240522140913.png",
     "JavaScript/🟡Modules.md",
@@ -176,7 +177,6 @@
     "Math/🟡Spline.md",
     "Math/🟡Interpolation.md",
     "OpenGL/🟡Theory.md",
-    "DataBase/🟡DataControlLanguage.md",
     "YFiles/Pasted image 20240430123112.png",
     "YFiles/Pasted image 20240425193522.png",
     "YFiles/Pasted image 20240425193509.png",
