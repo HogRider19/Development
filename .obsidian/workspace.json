@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "71e189aa24cfdefe",
+        "id": "e99bffaccb8404b4",
         "type": "tabs",
         "children": [
           {
-            "id": "962b363e1ef43e5e",
+            "id": "3f40c811f7ccc16c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AdditionalTasks/🟡Redis.md",
+                "file": "AdditionalTasks/🟡Uuid.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AdditionalTasks/🟡Redis.md",
+                "file": "AdditionalTasks/🟡Uuid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AdditionalTasks/🟡Redis.md",
+                "file": "AdditionalTasks/🟡Uuid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AdditionalTasks/🟡Redis.md"
+                "file": "AdditionalTasks/🟡Uuid.md"
               }
             }
           }
@@ -147,12 +147,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "962b363e1ef43e5e",
+  "active": "3f40c811f7ccc16c",
   "lastOpenFiles": [
+    "AdditionalTasks/🟢CascadingStyleSheets.md",
+    "AdditionalTasks/CI-CD.md",
+    "AdditionalTasks/🟢DataStructures.md",
+    "AdditionalTasks/🟡Licensing.md",
+    "AdditionalTasks/🟡BrowserIndexing.md",
+    "AdditionalTasks/Kafka.md",
+    "AdditionalTasks/Metriks.md",
+    "AdditionalTasks/RabbitMQ.md",
+    "AdditionalTasks/🟡Uuid.md",
+    "AdditionalTasks/🟢Xml.md",
     "AdditionalTasks/🟡Redis.md",
     "Docker/🟢Containers.md",
     "Docker/🟢Images.md",
-    "AdditionalTasks/🟡BrowserIndexing.md",
     "WinForms/Forms.md",
     "Git/🟡Stashing.md",
     "Git/🟡Base.md",
@@ -166,15 +175,6 @@
     "Docker/🟢Compose.md",
     "DataBase/🟡DataManipulationLanguage.md",
     "DataBase/🟡Indexes.md",
-    "Blazor/🟡Компоненты.md",
-    "Blazor/🟡Razor.md",
-    "Blazor/🟡Формы.md",
-    "Blazor/🟡HttpClient.md",
-    "Blazor/🟡Маршрутизация.md",
-    "WPF/🟡DependencyObject.md",
-    "WPF/🟡Base.md",
-    "WPF/🟡Controls.md",
-    "WPF/🟡XAML.md",
     "YFiles/Pasted image 20240522140913.png",
     "YFiles/Pasted image 20240511161046.png",
     "YFiles/Pasted image 20240430123112.png",
