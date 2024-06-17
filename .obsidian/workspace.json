@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WPF/DependencyObject.md",
+                "file": "WPF/🟡DependencyObject.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WPF/DependencyObject.md",
+                "file": "WPF/🟡DependencyObject.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WPF/DependencyObject.md",
+                "file": "WPF/🟡DependencyObject.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WPF/DependencyObject.md"
+                "file": "WPF/🟡DependencyObject.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "34c7d1cbc9281adf",
   "lastOpenFiles": [
-    "WPF/🟡Controls.md",
-    "WPF/DependencyObject.md",
     "WPF/🟡Base.md",
+    "WPF/🟡DependencyObject.md",
+    "WPF/🟡Controls.md",
     "WPF/🟡XAML.md",
     "JavaScript/🟡BrowserControl.md",
     "Linux/🟡Processes.md",
