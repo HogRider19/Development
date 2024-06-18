@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e99bffaccb8404b4",
+        "id": "1ae463eef7fa7129",
         "type": "tabs",
         "children": [
           {
-            "id": "3f40c811f7ccc16c",
+            "id": "c4c9639e2d5368b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AdditionalTasks/🟡Uuid.md",
+                "file": "ApiAndProtocols/🟡HTTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AdditionalTasks/🟡Uuid.md",
+                "file": "ApiAndProtocols/🟡HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AdditionalTasks/🟡Uuid.md",
+                "file": "ApiAndProtocols/🟡HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AdditionalTasks/🟡Uuid.md"
+                "file": "ApiAndProtocols/🟡HTTP.md"
               }
             }
           }
@@ -147,34 +147,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f40c811f7ccc16c",
+  "active": "c4c9639e2d5368b7",
   "lastOpenFiles": [
+    "ApiAndProtocols/🟡SOAP.md",
+    "ApiAndProtocols/🟡JsonRpc.md",
+    "ApiAndProtocols/🟡SSE.md",
+    "ApiAndProtocols/🟡WebSockets.md",
+    "ApiAndProtocols/🟢Swagger.md",
+    "ApiAndProtocols/🟢AJAX.md",
+    "ApiAndProtocols/🟢SSH.md",
+    "ApiAndProtocols/🟡REST.md",
+    "ApiAndProtocols/🟡SMTP.md",
+    "ApiAndProtocols/🟡HTTP.md",
+    "AdditionalTasks/RabbitMQ.md",
+    "AdditionalTasks/🟢DataStructures.md",
+    "AdditionalTasks/🟢Xml.md",
+    "AdditionalTasks/🟡Uuid.md",
     "AdditionalTasks/🟢CascadingStyleSheets.md",
     "AdditionalTasks/CI-CD.md",
-    "AdditionalTasks/🟢DataStructures.md",
     "AdditionalTasks/🟡Licensing.md",
     "AdditionalTasks/🟡BrowserIndexing.md",
     "AdditionalTasks/Kafka.md",
     "AdditionalTasks/Metriks.md",
-    "AdditionalTasks/RabbitMQ.md",
-    "AdditionalTasks/🟡Uuid.md",
-    "AdditionalTasks/🟢Xml.md",
     "AdditionalTasks/🟡Redis.md",
     "Docker/🟢Containers.md",
     "Docker/🟢Images.md",
     "WinForms/Forms.md",
     "Git/🟡Stashing.md",
     "Git/🟡Base.md",
-    "Git/🟡Cancellation.md",
-    "EntityFramework/🟡Base.md",
-    "EntityFramework/🟡Inheritance.md",
-    "EntityFramework/🟡FluentApi.md",
-    "EntityFramework/🟡DataBaseContext.md",
-    "EntityFramework/🟡DataAnotations.md",
-    "Docker/🟢EnviromentValues.md",
-    "Docker/🟢Compose.md",
-    "DataBase/🟡DataManipulationLanguage.md",
-    "DataBase/🟡Indexes.md",
     "YFiles/Pasted image 20240522140913.png",
     "YFiles/Pasted image 20240511161046.png",
     "YFiles/Pasted image 20240430123112.png",
