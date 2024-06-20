@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ApiAndProtocols/🟡AJAX.md",
+                "file": "ApiAndProtocols/🟡Swagger.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ApiAndProtocols/🟡AJAX.md",
+                "file": "ApiAndProtocols/🟡Swagger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ApiAndProtocols/🟡AJAX.md",
+                "file": "ApiAndProtocols/🟡Swagger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ApiAndProtocols/🟡AJAX.md"
+                "file": "ApiAndProtocols/🟡Swagger.md"
               }
             }
           }
@@ -149,10 +149,11 @@
   },
   "active": "7d74958032c8cea9",
   "lastOpenFiles": [
-    "JavaScript/🟡FetchAPI.md",
-    "ApiAndProtocols/🟡AJAX.md",
-    "ApiAndProtocols/🟡HTTP.md",
     "ApiAndProtocols/🟡SMTP.md",
+    "ApiAndProtocols/🟡Swagger.md",
+    "ApiAndProtocols/🟡AJAX.md",
+    "JavaScript/🟡FetchAPI.md",
+    "ApiAndProtocols/🟡HTTP.md",
     "ApiAndProtocols/🟡SSH.md",
     "ApiAndProtocols/🟡REST.md",
     "AspNetCore/🟡DependencyInjection.md",
@@ -163,7 +164,6 @@
     "ApiAndProtocols/🟡JsonRpc.md",
     "ApiAndProtocols/🟡SSE.md",
     "ApiAndProtocols/🟡WebSockets.md",
-    "ApiAndProtocols/🟢Swagger.md",
     "AdditionalTasks/RabbitMQ.md",
     "AdditionalTasks/🟢DataStructures.md",
     "AdditionalTasks/🟢Xml.md",
