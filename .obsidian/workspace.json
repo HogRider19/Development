@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ef1a2397c763b001",
+        "id": "7cc1cf0f1df35447",
         "type": "tabs",
         "children": [
           {
-            "id": "7d74958032c8cea9",
+            "id": "1389d748a2ad1ae2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ApiAndProtocols/🟡Swagger.md",
+                "file": "ApiAndProtocols/🟡SSH.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ApiAndProtocols/🟡Swagger.md",
+                "file": "ApiAndProtocols/🟡SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ApiAndProtocols/🟡Swagger.md",
+                "file": "ApiAndProtocols/🟡SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ApiAndProtocols/🟡Swagger.md"
+                "file": "ApiAndProtocols/🟡SSH.md"
               }
             }
           }
@@ -147,35 +147,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d74958032c8cea9",
+  "active": "1389d748a2ad1ae2",
   "lastOpenFiles": [
+    "ApiAndProtocols/🟡SSE.md",
     "ApiAndProtocols/🟡SMTP.md",
-    "ApiAndProtocols/🟡Swagger.md",
-    "ApiAndProtocols/🟡AJAX.md",
-    "JavaScript/🟡FetchAPI.md",
-    "ApiAndProtocols/🟡HTTP.md",
     "ApiAndProtocols/🟡SSH.md",
     "ApiAndProtocols/🟡REST.md",
-    "AspNetCore/🟡DependencyInjection.md",
+    "ApiAndProtocols/🟡AJAX.md",
+    "ApiAndProtocols/🟡Swagger.md",
     "AdditionalTasks/🟡Redis.md",
+    "AdditionalTasks/🟡BrowserIndexing.md",
+    "AdditionalTasks/🟡Licensing.md",
+    "AdditionalTasks/🟢Xml.md",
+    "AdditionalTasks/🟢DataStructures.md",
+    "OpenGL/🟡Theory.md",
+    "Math/🟡Spline.md",
+    "JavaScript/🟡FetchAPI.md",
+    "ApiAndProtocols/🟡HTTP.md",
+    "AspNetCore/🟡DependencyInjection.md",
     "AdditionalTasks/🟡Uuid.md",
     "YFiles/Pasted image 20240620011855.png",
     "ApiAndProtocols/🟡SOAP.md",
     "ApiAndProtocols/🟡JsonRpc.md",
-    "ApiAndProtocols/🟡SSE.md",
     "ApiAndProtocols/🟡WebSockets.md",
     "AdditionalTasks/RabbitMQ.md",
-    "AdditionalTasks/🟢DataStructures.md",
-    "AdditionalTasks/🟢Xml.md",
     "AdditionalTasks/🟢CascadingStyleSheets.md",
     "AdditionalTasks/CI-CD.md",
-    "AdditionalTasks/🟡Licensing.md",
-    "AdditionalTasks/🟡BrowserIndexing.md",
     "AdditionalTasks/Kafka.md",
     "AdditionalTasks/Metriks.md",
     "Docker/🟢Containers.md",
-    "Docker/🟢Images.md",
-    "WinForms/Forms.md",
     "YFiles/Pasted image 20240522140913.png",
     "YFiles/Pasted image 20240511161046.png",
     "YFiles/Pasted image 20240430123112.png",
