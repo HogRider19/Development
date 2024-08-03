@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ApiAndProtocols/🟡SSH.md",
+                "file": "ApiAndProtocols/SOAP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ApiAndProtocols/🟡SSH.md",
+                "file": "ApiAndProtocols/SOAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ApiAndProtocols/🟡SSH.md",
+                "file": "ApiAndProtocols/SOAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ApiAndProtocols/🟡SSH.md"
+                "file": "ApiAndProtocols/SOAP.md"
               }
             }
           }
@@ -149,12 +149,22 @@
   },
   "active": "1389d748a2ad1ae2",
   "lastOpenFiles": [
-    "ApiAndProtocols/🟡SSE.md",
-    "ApiAndProtocols/🟡SMTP.md",
-    "ApiAndProtocols/🟡SSH.md",
+    "ApiAndProtocols/JsonRpc.md",
+    "ApiAndProtocols/SSE.md",
+    "ApiAndProtocols/WebSockets.md",
+    "ApiAndProtocols/🟡HTTP.md",
     "ApiAndProtocols/🟡REST.md",
-    "ApiAndProtocols/🟡AJAX.md",
     "ApiAndProtocols/🟡Swagger.md",
+    "YFiles/Pasted image 20231106011619.png",
+    "YFiles/Pasted image 20240302142052.png",
+    "YFiles/Pasted image 20240406235454.png",
+    "YFiles/Pasted image 20240620011855.png",
+    "YFiles/Pasted image 20240522140913.png",
+    "YFiles/Pasted image 20240511161046.png",
+    "YFiles/Pasted image 20240425193509.png",
+    "ApiAndProtocols/🟡SSH.md",
+    "ApiAndProtocols/🟡SMTP.md",
+    "ApiAndProtocols/🟡AJAX.md",
     "AdditionalTasks/🟡Redis.md",
     "AdditionalTasks/🟡BrowserIndexing.md",
     "AdditionalTasks/🟡Licensing.md",
@@ -163,29 +173,18 @@
     "OpenGL/🟡Theory.md",
     "Math/🟡Spline.md",
     "JavaScript/🟡FetchAPI.md",
-    "ApiAndProtocols/🟡HTTP.md",
     "AspNetCore/🟡DependencyInjection.md",
     "AdditionalTasks/🟡Uuid.md",
-    "YFiles/Pasted image 20240620011855.png",
-    "ApiAndProtocols/🟡SOAP.md",
-    "ApiAndProtocols/🟡JsonRpc.md",
-    "ApiAndProtocols/🟡WebSockets.md",
+    "ApiAndProtocols/SOAP.md",
     "AdditionalTasks/RabbitMQ.md",
     "AdditionalTasks/🟢CascadingStyleSheets.md",
     "AdditionalTasks/CI-CD.md",
     "AdditionalTasks/Kafka.md",
     "AdditionalTasks/Metriks.md",
-    "Docker/🟢Containers.md",
-    "YFiles/Pasted image 20240522140913.png",
-    "YFiles/Pasted image 20240511161046.png",
     "YFiles/Pasted image 20240430123112.png",
     "YFiles/Pasted image 20240425193522.png",
-    "YFiles/Pasted image 20240425193509.png",
     "YFiles/Pasted image 20240425193235.png",
     "Math",
-    "YFiles/IdentityServer.png",
-    "YFiles/Onion.png",
-    "YFiles/3DLayered.png",
     "OpenGL",
     "WPF",
     "WinForms",
