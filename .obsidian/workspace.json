@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ApiAndProtocols/SOAP.md",
+                "file": "Git/Moduls.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ApiAndProtocols/SOAP.md",
+                "file": "Git/Moduls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ApiAndProtocols/SOAP.md",
+                "file": "Git/Moduls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ApiAndProtocols/SOAP.md"
+                "file": "Git/Moduls.md"
               }
             }
           }
@@ -149,6 +149,10 @@
   },
   "active": "1389d748a2ad1ae2",
   "lastOpenFiles": [
+    "Git/🟡Configuration.md",
+    "Git/Moduls.md",
+    "Git/🟡Base.md",
+    "ApiAndProtocols/SOAP.md",
     "ApiAndProtocols/JsonRpc.md",
     "ApiAndProtocols/SSE.md",
     "ApiAndProtocols/WebSockets.md",
@@ -175,12 +179,9 @@
     "JavaScript/🟡FetchAPI.md",
     "AspNetCore/🟡DependencyInjection.md",
     "AdditionalTasks/🟡Uuid.md",
-    "ApiAndProtocols/SOAP.md",
     "AdditionalTasks/RabbitMQ.md",
     "AdditionalTasks/🟢CascadingStyleSheets.md",
     "AdditionalTasks/CI-CD.md",
-    "AdditionalTasks/Kafka.md",
-    "AdditionalTasks/Metriks.md",
     "YFiles/Pasted image 20240430123112.png",
     "YFiles/Pasted image 20240425193522.png",
     "YFiles/Pasted image 20240425193235.png",
