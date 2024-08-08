@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Moduls.md",
+                "file": "AdditionalTasks/Kafka.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Moduls.md",
+                "file": "AdditionalTasks/Kafka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Moduls.md",
+                "file": "AdditionalTasks/Kafka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Moduls.md"
+                "file": "AdditionalTasks/Kafka.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "1389d748a2ad1ae2",
   "lastOpenFiles": [
-    "Git/🟡Configuration.md",
+    "AdditionalTasks/Metriks.md",
+    "AdditionalTasks/Kafka.md",
     "Git/Moduls.md",
+    "Git/🟡Configuration.md",
     "Git/🟡Base.md",
     "ApiAndProtocols/SOAP.md",
     "ApiAndProtocols/JsonRpc.md",
@@ -180,8 +182,6 @@
     "AspNetCore/🟡DependencyInjection.md",
     "AdditionalTasks/🟡Uuid.md",
     "AdditionalTasks/RabbitMQ.md",
-    "AdditionalTasks/🟢CascadingStyleSheets.md",
-    "AdditionalTasks/CI-CD.md",
     "YFiles/Pasted image 20240430123112.png",
     "YFiles/Pasted image 20240425193522.png",
     "YFiles/Pasted image 20240425193235.png",
