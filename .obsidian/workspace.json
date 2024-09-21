@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ccc4860666b2e26f",
+        "id": "144b8e46e2bd5cca",
         "type": "tabs",
         "children": [
           {
-            "id": "86db7fc7f97f6ecb",
+            "id": "1d2dc1fe901ceb23",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ApiAndProtocols/🟡WebSockets.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ApiAndProtocols/🟡WebSockets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ApiAndProtocols/🟡WebSockets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ApiAndProtocols/🟡WebSockets.md"
+              }
             }
           }
         ],
@@ -139,8 +147,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86db7fc7f97f6ecb",
+  "active": "1d2dc1fe901ceb23",
   "lastOpenFiles": [
+    "ApiAndProtocols/🟡SMTP.md",
+    "ApiAndProtocols/🟡WebSockets.md",
+    "ApiAndProtocols/🟡HTTP.md",
+    "ApiAndProtocols/🟡REST.md",
+    "ApiAndProtocols/🟡Swagger.md",
+    "ApiAndProtocols/🟡AJAX.md",
+    "ApiAndProtocols/🟡SSH.md",
+    "AdditionalTasks/Kafka.md",
+    "AdditionalTasks/RabbitMQ.md",
+    "AdditionalTasks/🟢Xml.md",
+    "AdditionalTasks/🟢DataStructures.md",
+    "AdditionalTasks/🟢CascadingStyleSheets.md",
+    "AdditionalTasks/🟡Licensing.md",
+    "AdditionalTasks/🟡BrowserIndexing.md",
+    "AdditionalTasks/🟡Redis.md",
+    "AdditionalTasks/🟡Uuid.md",
+    "AspNetCoreMVС/🟡Routing.md",
     "СSharp/🟡Unsafe.md",
     "Docker/Containers.md",
     "Docker/Volumes.md",
@@ -150,22 +175,6 @@
     "Docker/EnviromentValues.md",
     "Docker/DockerFile.md",
     "DataBase/🟡DataDefinitionLanguage.md",
-    "СSharp/🟢PatternMatching.md",
-    "Git/🟡Stashing.md",
-    "Git/Moduls.md",
-    "Authentication/🟢JWT.md",
-    "Git/🟡Branching.md",
-    "Git/🟡Base.md",
-    "AdditionalTasks/Kafka.md",
-    "AdditionalTasks/Metriks.md",
-    "Git/🟡Configuration.md",
-    "ApiAndProtocols/SOAP.md",
-    "ApiAndProtocols/JsonRpc.md",
-    "ApiAndProtocols/SSE.md",
-    "ApiAndProtocols/WebSockets.md",
-    "ApiAndProtocols/🟡HTTP.md",
-    "ApiAndProtocols/🟡REST.md",
-    "ApiAndProtocols/🟡Swagger.md",
     "YFiles/Pasted image 20231106011619.png",
     "YFiles/Pasted image 20240302142052.png",
     "YFiles/Pasted image 20240406235454.png",
@@ -173,7 +182,6 @@
     "YFiles/Pasted image 20240522140913.png",
     "YFiles/Pasted image 20240511161046.png",
     "YFiles/Pasted image 20240425193509.png",
-    "ApiAndProtocols/🟡SSH.md",
     "YFiles/Pasted image 20240430123112.png",
     "YFiles/Pasted image 20240425193522.png",
     "YFiles/Pasted image 20240425193235.png",
