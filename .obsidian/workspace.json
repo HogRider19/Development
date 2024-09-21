@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7cc1cf0f1df35447",
+        "id": "ccc4860666b2e26f",
         "type": "tabs",
         "children": [
           {
-            "id": "1389d748a2ad1ae2",
+            "id": "86db7fc7f97f6ecb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AdditionalTasks/Kafka.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AdditionalTasks/Kafka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AdditionalTasks/Kafka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "AdditionalTasks/Kafka.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,13 +139,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1389d748a2ad1ae2",
+  "active": "86db7fc7f97f6ecb",
   "lastOpenFiles": [
-    "AdditionalTasks/Metriks.md",
-    "AdditionalTasks/Kafka.md",
+    "СSharp/🟡Unsafe.md",
+    "Docker/Containers.md",
+    "Docker/Volumes.md",
+    "Docker/Compose.md",
+    "Docker/Base.md",
+    "Docker/Images.md",
+    "Docker/EnviromentValues.md",
+    "Docker/DockerFile.md",
+    "DataBase/🟡DataDefinitionLanguage.md",
+    "СSharp/🟢PatternMatching.md",
+    "Git/🟡Stashing.md",
     "Git/Moduls.md",
-    "Git/🟡Configuration.md",
+    "Authentication/🟢JWT.md",
+    "Git/🟡Branching.md",
     "Git/🟡Base.md",
+    "AdditionalTasks/Kafka.md",
+    "AdditionalTasks/Metriks.md",
+    "Git/🟡Configuration.md",
     "ApiAndProtocols/SOAP.md",
     "ApiAndProtocols/JsonRpc.md",
     "ApiAndProtocols/SSE.md",
@@ -169,19 +174,6 @@
     "YFiles/Pasted image 20240511161046.png",
     "YFiles/Pasted image 20240425193509.png",
     "ApiAndProtocols/🟡SSH.md",
-    "ApiAndProtocols/🟡SMTP.md",
-    "ApiAndProtocols/🟡AJAX.md",
-    "AdditionalTasks/🟡Redis.md",
-    "AdditionalTasks/🟡BrowserIndexing.md",
-    "AdditionalTasks/🟡Licensing.md",
-    "AdditionalTasks/🟢Xml.md",
-    "AdditionalTasks/🟢DataStructures.md",
-    "OpenGL/🟡Theory.md",
-    "Math/🟡Spline.md",
-    "JavaScript/🟡FetchAPI.md",
-    "AspNetCore/🟡DependencyInjection.md",
-    "AdditionalTasks/🟡Uuid.md",
-    "AdditionalTasks/RabbitMQ.md",
     "YFiles/Pasted image 20240430123112.png",
     "YFiles/Pasted image 20240425193522.png",
     "YFiles/Pasted image 20240425193235.png",
