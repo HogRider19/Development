@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ApiAndProtocols/🟡SSE.md",
+                "file": "ApiAndProtocols/🟡RPC.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ApiAndProtocols/🟡SSE.md",
+                "file": "ApiAndProtocols/🟡RPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ApiAndProtocols/🟡SSE.md",
+                "file": "ApiAndProtocols/🟡RPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ApiAndProtocols/🟡SSE.md"
+                "file": "ApiAndProtocols/🟡RPC.md"
               }
             }
           }
@@ -149,11 +149,13 @@
   },
   "active": "1d2dc1fe901ceb23",
   "lastOpenFiles": [
-    "ApiAndProtocols/🟡AJAX.md",
-    "ApiAndProtocols/🟡SSE.md",
-    "ApiAndProtocols/SOAP.md",
-    "ApiAndProtocols/🟡HTTP.md",
     "ApiAndProtocols/🟡WebSockets.md",
+    "ApiAndProtocols/🟡RPC.md",
+    "ApiAndProtocols/Protobuf.md",
+    "ApiAndProtocols/SOAP.md",
+    "ApiAndProtocols/🟡SSE.md",
+    "ApiAndProtocols/🟡AJAX.md",
+    "ApiAndProtocols/🟡HTTP.md",
     "ApiAndProtocols/🟡SMTP.md",
     "ApiAndProtocols/🟡REST.md",
     "ApiAndProtocols/🟡Swagger.md",
@@ -173,8 +175,6 @@
     "Docker/Volumes.md",
     "Docker/Compose.md",
     "Docker/Base.md",
-    "Docker/Images.md",
-    "Docker/EnviromentValues.md",
     "YFiles/Pasted image 20231106011619.png",
     "YFiles/Pasted image 20240302142052.png",
     "YFiles/Pasted image 20240406235454.png",
