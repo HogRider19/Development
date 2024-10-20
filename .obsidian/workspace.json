@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "144b8e46e2bd5cca",
+        "id": "751f49e528d9173f",
         "type": "tabs",
         "children": [
           {
-            "id": "1d2dc1fe901ceb23",
+            "id": "322f59d20798d9b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ApiAndProtocols/🟡SOAP.md",
+                "file": "ApiAndProtocols/🟡SSH.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ApiAndProtocols/🟡SOAP.md",
+                "file": "ApiAndProtocols/🟡SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ApiAndProtocols/🟡SOAP.md",
+                "file": "ApiAndProtocols/🟡SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ApiAndProtocols/🟡SOAP.md"
+                "file": "ApiAndProtocols/🟡SSH.md"
               }
             }
           }
@@ -147,34 +147,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d2dc1fe901ceb23",
+  "active": "322f59d20798d9b2",
   "lastOpenFiles": [
-    "ApiAndProtocols/Protobuf.md",
+    "ApiAndProtocols/🟡SSE.md",
+    "AdditionalTasks/Encryption.md",
+    "ApiAndProtocols/🟡SSH.md",
+    "YFiles/{A80B2D69-0833-4F1A-933E-91F759A74A00}.png",
+    "ApiAndProtocols/🟡WebSockets.md",
     "ApiAndProtocols/🟡RPC.md",
     "ApiAndProtocols/🟡SOAP.md",
-    "AspNetCore/🟡DependencyInjection.md",
-    "ApiAndProtocols/🟡WebSockets.md",
-    "ApiAndProtocols/🟡SSE.md",
-    "ApiAndProtocols/🟡AJAX.md",
-    "ApiAndProtocols/🟡HTTP.md",
-    "ApiAndProtocols/🟡SMTP.md",
-    "ApiAndProtocols/🟡REST.md",
-    "ApiAndProtocols/🟡Swagger.md",
-    "ApiAndProtocols/🟡SSH.md",
-    "AdditionalTasks/Kafka.md",
-    "AdditionalTasks/RabbitMQ.md",
     "AdditionalTasks/🟢Xml.md",
     "AdditionalTasks/🟢DataStructures.md",
-    "AdditionalTasks/🟢CascadingStyleSheets.md",
+    "AdditionalTasks/🟡Сss.md",
     "AdditionalTasks/🟡Licensing.md",
+    "AdditionalTasks/Kafka.md",
+    "AdditionalTasks/RabbitMQ.md",
     "AdditionalTasks/🟡BrowserIndexing.md",
     "AdditionalTasks/🟡Redis.md",
     "AdditionalTasks/🟡Uuid.md",
-    "AspNetCoreMVС/🟡Routing.md",
-    "СSharp/🟡Unsafe.md",
-    "Docker/Containers.md",
-    "Docker/Volumes.md",
-    "Docker/Compose.md",
+    "ApiAndProtocols/🟡AJAX.md",
+    "ApiAndProtocols/🟡Swagger.md",
+    "OpenGL/🟡SharpGl.md",
+    "Blazor/🟡Формы.md",
+    "Blazor/🟡Маршрутизация.md",
+    "AspNetCoreMVС/ViewCompontents.md",
+    "AspNetCoreMVС/Validation.md",
+    "AspNetCoreMVС/Filters.md",
+    "AspNetCoreMVС/Base.md",
+    "AspNetCoreMVС/Controllers.md",
+    "AspNetCoreMVС/Views.md",
     "YFiles/Pasted image 20231106011619.png",
     "YFiles/Pasted image 20240302142052.png",
     "YFiles/Pasted image 20240406235454.png",
@@ -184,7 +185,6 @@
     "YFiles/Pasted image 20240425193509.png",
     "YFiles/Pasted image 20240430123112.png",
     "YFiles/Pasted image 20240425193522.png",
-    "YFiles/Pasted image 20240425193235.png",
     "Math",
     "OpenGL",
     "WPF",
