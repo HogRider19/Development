@@ -165,8 +165,9 @@
   },
   "active": "c1185b82eaadd26d",
   "lastOpenFiles": [
-    "Linux/🟡Processes.md",
+    "Linux/🟢Users.md",
     "CICD/Base.md",
+    "Linux/🟡Processes.md",
     "CICD",
     "AdditionalTasks/🟡Сss.md",
     "Architecture/Onion.md",
@@ -192,7 +193,6 @@
     "AdditionalTasks/RabbitMQ.md",
     "AdditionalTasks/🟡BrowserIndexing.md",
     "AdditionalTasks/🟡Redis.md",
-    "AdditionalTasks/🟡Uuid.md",
     "YFiles/Pasted image 20231106011619.png",
     "YFiles/Pasted image 20240302142052.png",
     "YFiles/Pasted image 20240406235454.png",
