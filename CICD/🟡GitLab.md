@@ -142,3 +142,5 @@ build:
     - echo "This build can be canceled."
   interruptible: true
 ```
+
+[[CICD/🟡Base|🟡Base]]

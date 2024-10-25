@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8468a2dc4c3deb51",
+        "id": "2bf52380e6bcfdbd",
         "type": "tabs",
         "children": [
           {
-            "id": "b689a1d4c3183a17",
+            "id": "f1861b538a563d55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CICD/🟡Base.md",
+                "file": "Docker/Base.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🟡Base"
+              "title": "Base"
             }
           }
         ]
@@ -163,15 +163,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b689a1d4c3183a17",
+  "active": "f1861b538a563d55",
   "lastOpenFiles": [
-    "CICD/🟡GitLab.md",
-    "Blazor/🟡Маршрутизация.md",
-    "CICD/🟡Base.md",
-    "Docker/Containers.md",
-    "Docker/EnviromentValues.md",
-    "Docker/Images.md",
+    "Docker/Containers1.md",
     "Docker/Base.md",
+    "Docker/Volumes1.md",
+    "Docker/Compose1.md",
+    "Docker/DockerFile1.md",
+    "Docker/EnviromentValues1.md",
+    "Docker/Images1.md",
+    "Docker/Base1.md",
+    "OpenGL/🟡Theory.md",
+    "CICD/🟡GitLab.md",
+    "СSharp/🟡Unsafe.md",
+    "ApiAndProtocols/🟡SMTP.md",
+    "ApiAndProtocols/🟡HTTP.md",
+    "CICD/🟡Base.md",
+    "Blazor/🟡Маршрутизация.md",
     "AdditionalTasks/🟡Redis.md",
     "AdditionalTasks/GithubActions.md",
     "CICD/github actions.md",
@@ -185,14 +193,6 @@
     "Architecture/Onion.md",
     "Architecture/3d-layered.md",
     "Authentication/🟢JWT.md",
-    "ApiAndProtocols/🟡HTTP.md",
-    "ApiAndProtocols/🟡SMTP.md",
-    "ApiAndProtocols/🟡REST.md",
-    "ApiAndProtocols/🟡Swagger.md",
-    "ApiAndProtocols/🟡AJAX.md",
-    "ApiAndProtocols/🟡WebSockets.md",
-    "ApiAndProtocols/🟡SSE.md",
-    "ApiAndProtocols/🟡RPC.md",
     "YFiles/{A80B2D69-0833-4F1A-933E-91F759A74A00}.png",
     "YFiles/Pasted image 20231106011619.png",
     "YFiles/Pasted image 20240302142052.png",
