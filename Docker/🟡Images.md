@@ -46,3 +46,5 @@ docker inspect --type [image, volume...] <name_id>
 docker rmi <name>:<tag>
 docker rmi --force <name>:<tag>
 ```
+
+[[Docker/🟡Base|🟡Base]]
