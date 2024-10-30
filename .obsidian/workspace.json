@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "89fc747e0bf19262",
+        "id": "fde058ad735d1358",
         "type": "tabs",
         "children": [
           {
-            "id": "e6a6435f9989778d",
+            "id": "8ffb96bf0ee4910c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -163,15 +163,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6a6435f9989778d",
+  "active": "8ffb96bf0ee4910c",
   "lastOpenFiles": [
     "Docker/DockerFile.md",
+    "Docker/🟡Containers.md",
+    "AdditionalTasks/🟡Redis.md",
     "Docker/Volumes1.md",
     "Docker/Compose1.md",
     "Docker/DockerFile1.md",
     "Docker/EnviromentValues1.md",
     "Docker/🟡Images.md",
-    "Docker/🟡Containers.md",
     "Docker/🟡Base.md",
     "Docker/Base1.md",
     "Docker/Containers1.md",
@@ -189,7 +190,6 @@
     "ApiAndProtocols/🟡HTTP.md",
     "CICD/🟡Base.md",
     "Blazor/🟡Маршрутизация.md",
-    "AdditionalTasks/🟡Redis.md",
     "AdditionalTasks/GithubActions.md",
     "CICD/github actions.md",
     "Git/🟡Configuration.md",
