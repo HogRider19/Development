@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Mounts.md",
+                "file": "Docker/🟡Mounts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mounts"
+              "title": "🟡Mounts"
             }
           }
         ]
@@ -165,9 +165,10 @@
   },
   "active": "8ffb96bf0ee4910c",
   "lastOpenFiles": [
+    "Docker/🟡DockerFile.md",
+    "Docker/🟡Mounts.md",
     "YFiles/{1273B6DF-E023-4505-A910-0A83CA41279A}.png",
     "Docker/Base1.md",
-    "Docker/Mounts.md",
     "Docker/Images1.md",
     "Docker/EnviromentValues1.md",
     "Docker/DockerFile1.md",
@@ -176,7 +177,6 @@
     "Docker/Containers1.md",
     "YFiles/{AA1D72BC-A4EF-465E-8BE8-8465B236B8E4}.png",
     "YFiles/{9B268937-9C48-4014-886C-262754E1790D}.png",
-    "Docker/🟡DockerFile.md",
     "Docker/🟡Containers.md",
     "Docker/🟡Images.md",
     "AdditionalTasks/🟡Redis.md",
@@ -201,7 +201,6 @@
     "YFiles/{1442A9BB-AF98-4C69-8BAD-CAA15A1689B9}.png",
     "CICD",
     "YFiles/{A80B2D69-0833-4F1A-933E-91F759A74A00}.png",
-    "YFiles/Pasted image 20231106011619.png",
     "Math",
     "OpenGL",
     "WPF",
