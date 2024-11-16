@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiCodereview",
       "FabDownLeftAndUpRightToCenter",
       "IbGraphLineUp",
       "IbGrid",
-      "SiOpengl",
-      "FabWindowRestore"
+      "SiOpengl"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,5 +47,6 @@
   "WPF": "SiWindows",
   "OpenGL": "IbGrid",
   "Math": "IbGraphLineUp",
-  "CICD": "FabDownLeftAndUpRightToCenter"
+  "CICD": "FabDownLeftAndUpRightToCenter",
+  "СleanСode": "SiCodereview"
 }
