@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture/Onion.md",
+                "file": "DataBase/🟡TransactionControlLanguage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Onion"
+              "title": "🟡TransactionControlLanguage"
+            }
+          },
+          {
+            "id": "6e6a574c605b507a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "СSharp/String.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "String"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -163,13 +179,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a71c0402bfb8727",
+  "active": "6e6a574c605b507a",
   "lastOpenFiles": [
+    "AdditionalTasks/Capcha.md",
+    "СSharp/String.md",
+    "DataBase/🟡Triggers.md",
+    "DataBase/🟡Projection.md",
+    "DataBase/🟡DataControlLanguage.md",
+    "DataBase/🟡TransactionControlLanguage.md",
+    "DataBase/🟡Organization.md",
+    "DataBase/🟡QueryProfiling.md",
+    "DataBase/🟡DataDefinitionLanguage.md",
+    "ApiAndProtocols/🟡AJAX.md",
+    "ApiAndProtocols/🟡REST.md",
+    "ApiAndProtocols/🟡SMTP.md",
+    "СleanСode/🟡Relations.md",
+    "СleanСode/🟡SOLID.md",
+    "Docker/🟡DockerFile.md",
+    "Architecture/Onion.md",
     "Architecture/EventDriven.md",
     "СSharp/🟢AccessModifiers.md",
     "СSharp/Q.md",
     "OpenGL/🟡Theory.md",
-    "СleanСode/🟡SOLID.md",
     "Patterns/Examples/🟡AbstractFactory.md",
     "Git/Moduls.md",
     "Git/🟡Stashing.md",
@@ -182,22 +213,7 @@
     "YFiles/{3916BD0C-1D70-4515-9679-C9577CA5CFC4}.png",
     "СSharp/🟡ExecutionModel.md",
     "СSharp/🟡Interfaces.md",
-    "СSharp/🟡Objects.md",
-    "СSharp/🟡Collections.md",
-    "СSharp/🟡Exceptions.md",
-    "СSharp/🟡Unsafe.md",
-    "СleanСode/🟡Relations.md",
     "YFiles/{ECCBDCFC-D82C-4A48-ADA7-3DCDF275E23E}.png",
-    "AspNetCoreMVС/HtmlHelpers.md",
-    "Linux/🟢BaseCommands.md",
-    "Linux/🟢Users.md",
-    "Linux/🟢SpecialSymbols.md",
-    "Linux/🟢Bash.md",
-    "Linux/🟡Cron.md",
-    "Linux/🟢Base.md",
-    "Linux/🟢FolderWorks.md",
-    "Linux/🟢RemoteServer.md",
-    "СSharp/🟡MemoryManagement.md",
     "YFiles/{A8E7FD9D-8C62-49C8-A4F1-449A28860C80}.png",
     "YFiles/{B9E7754A-2EF9-4169-A924-6C94F750C0D0}.png",
     "YFiles/{ACC8FA3D-C50F-48C6-878B-882351FA04CA}.png",
