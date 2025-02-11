@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "СSharp/Сборки.md",
+                "file": "СSharp/Async.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сборки"
+              "title": "Async"
             }
           }
         ],
@@ -181,8 +181,9 @@
   },
   "active": "6e6a574c605b507a",
   "lastOpenFiles": [
-    "СSharp/String.md",
     "СSharp/Сборки.md",
+    "СSharp/Async.md",
+    "СSharp/String.md",
     "AdditionalTasks/Capcha.md",
     "DataBase/🟡Triggers.md",
     "DataBase/🟡Projection.md",
@@ -212,7 +213,6 @@
     "YFiles/{654E36A8-ABDD-4A0E-B0A9-8FB1930D2795}.png",
     "YFiles/{76975A56-E1D0-4882-B1BB-368FC78BB4CC}.png",
     "YFiles/{3916BD0C-1D70-4515-9679-C9577CA5CFC4}.png",
-    "СSharp/🟡ExecutionModel.md",
     "YFiles/{ECCBDCFC-D82C-4A48-ADA7-3DCDF275E23E}.png",
     "YFiles/{A8E7FD9D-8C62-49C8-A4F1-449A28860C80}.png",
     "YFiles/{B9E7754A-2EF9-4169-A924-6C94F750C0D0}.png",
