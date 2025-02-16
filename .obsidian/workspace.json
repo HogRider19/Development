@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataBase/🟡TransactionControlLanguage.md",
+                "file": "СSharp/Сборки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🟡TransactionControlLanguage"
+              "title": "Сборки"
             }
           }
         ]
@@ -166,6 +166,11 @@
   },
   "active": "5a71c0402bfb8727",
   "lastOpenFiles": [
+    "СSharp/Type.md",
+    "СSharp/GarbageCollector.md",
+    "СSharp/String.md",
+    "СSharp/Q.md",
+    "DataBase/🟡TransactionControlLanguage.md",
     "СSharp/PInvoke.md",
     "Docker/🟡Base.md",
     "Docker/🟡Images.md",
@@ -180,17 +185,13 @@
     "YFiles/{E242D612-55EF-433B-B5C0-F115862646F0}.png",
     "YFiles/{ECCBDCFC-D82C-4A48-ADA7-3DCDF275E23E}.png",
     "YFiles/{B9E7754A-2EF9-4169-A924-6C94F750C0D0}.png",
-    "СSharp/GarbageCollector.md",
-    "СSharp/Q.md",
     "СSharp/🟡Unsafe.md",
     "СSharp/Async.md",
     "СSharp/Сборки.md",
-    "СSharp/String.md",
     "AdditionalTasks/Capcha.md",
     "DataBase/🟡Triggers.md",
     "DataBase/🟡Projection.md",
     "DataBase/🟡DataControlLanguage.md",
-    "DataBase/🟡TransactionControlLanguage.md",
     "DataBase/🟡Organization.md",
     "DataBase/🟡QueryProfiling.md",
     "DataBase/🟡DataDefinitionLanguage.md",
@@ -202,7 +203,6 @@
     "Docker/🟡DockerFile.md",
     "Architecture/Onion.md",
     "Architecture/EventDriven.md",
-    "СSharp/🟢AccessModifiers.md",
     "СleanСode",
     "CICD",
     "Math",
