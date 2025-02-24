@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "75728ecb0af6c32d",
+        "id": "57f2d8923c6aa9ef",
         "type": "tabs",
         "children": [
           {
-            "id": "5a71c0402bfb8727",
+            "id": "de7d12840e891006",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "СSharp/String.md",
+                "file": "СSharp/Микросервисы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "String"
-            }
-          },
-          {
-            "id": "fb7bec8d03a3446e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "title": "Микросервисы"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,12 +164,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb7bec8d03a3446e",
+  "active": "de7d12840e891006",
   "lastOpenFiles": [
+    "СSharp/String.md",
+    "СSharp/Микросервисы.md",
+    "AdditionalTasks/🟡Redis.md",
+    "AdditionalTasks/🟡Uuid.md",
+    "СleanСode/🟡SOLID.md",
+    "Blazor/🟡HttpClient.md",
     "СSharp/Сборки.md",
     "СSharp/Type.md",
     "СSharp/GarbageCollector.md",
-    "СSharp/String.md",
     "СSharp/Q.md",
     "DataBase/🟡TransactionControlLanguage.md",
     "СSharp/PInvoke.md",
@@ -211,11 +203,6 @@
     "ApiAndProtocols/🟡AJAX.md",
     "ApiAndProtocols/🟡REST.md",
     "ApiAndProtocols/🟡SMTP.md",
-    "СleanСode/🟡Relations.md",
-    "СleanСode/🟡SOLID.md",
-    "Docker/🟡DockerFile.md",
-    "Architecture/Onion.md",
-    "Architecture/EventDriven.md",
     "СleanСode",
     "CICD",
     "Math",
