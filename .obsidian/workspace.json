@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "СSharp/Микросервисы.md",
+                "file": "СSharp/Com.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Микросервисы"
+              "title": "Com"
             }
           }
         ]
@@ -166,8 +166,9 @@
   },
   "active": "de7d12840e891006",
   "lastOpenFiles": [
-    "СSharp/String.md",
     "СSharp/Микросервисы.md",
+    "СSharp/Com.md",
+    "СSharp/String.md",
     "AdditionalTasks/🟡Redis.md",
     "AdditionalTasks/🟡Uuid.md",
     "СleanСode/🟡SOLID.md",
@@ -202,7 +203,6 @@
     "DataBase/🟡DataDefinitionLanguage.md",
     "ApiAndProtocols/🟡AJAX.md",
     "ApiAndProtocols/🟡REST.md",
-    "ApiAndProtocols/🟡SMTP.md",
     "СleanСode",
     "CICD",
     "Math",
