@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "СSharp/GarbageCollector.md",
+                "file": "СSharp/🟢DotNetCLI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GarbageCollector"
+              "title": "🟢DotNetCLI"
             }
           }
         ]
@@ -166,12 +166,12 @@
   },
   "active": "de7d12840e891006",
   "lastOpenFiles": [
+    "СSharp/GarbageCollector.md",
     "СSharp/Q.md",
     "СSharp/Type.md",
     "СSharp/String.md",
     "СSharp/Sdk fullfram.md",
     "СSharp/Сборки.md",
-    "СSharp/GarbageCollector.md",
     "YFiles/{2E71FB78-4BE7-4A29-A64E-99E4B26C4390}.png",
     "СleanСode/🟡Relations.md",
     "СleanСode/🟡SOLID.md",
