@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "СSharp/🟢DotNetCLI.md",
+                "file": "СSharp/🟡GarbageCollector.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🟢DotNetCLI"
+              "title": "🟡GarbageCollector"
             }
           }
         ]
@@ -166,7 +166,18 @@
   },
   "active": "de7d12840e891006",
   "lastOpenFiles": [
-    "СSharp/GarbageCollector.md",
+    "СSharp/🟡Exceptions.md",
+    "СSharp/🟡GarbageCollector.md",
+    "Linux/Base.md",
+    "Linux/Processes.md",
+    "Linux/RemoteServer.md",
+    "Linux/FolderWorks.md",
+    "Linux/BaseCommands.md",
+    "Linux/Users.md",
+    "Linux/Cron.md",
+    "Linux/Bash.md",
+    "Linux/SpecialSymbols.md",
+    "СSharp/🟢DotNetCLI.md",
     "СSharp/Q.md",
     "СSharp/Type.md",
     "СSharp/String.md",
@@ -182,11 +193,6 @@
     "Docker/🟡Base.md",
     "СSharp/Com.md",
     "СSharp/Микросервисы.md",
-    "AdditionalTasks/🟡Redis.md",
-    "AdditionalTasks/🟡Uuid.md",
-    "Blazor/🟡HttpClient.md",
-    "DataBase/🟡TransactionControlLanguage.md",
-    "СSharp/PInvoke.md",
     "YFiles/Docker.pdf",
     "YFiles/3DLayered.png",
     "YFiles/Onion.png",
@@ -197,11 +203,6 @@
     "YFiles/{E242D612-55EF-433B-B5C0-F115862646F0}.png",
     "YFiles/{ECCBDCFC-D82C-4A48-ADA7-3DCDF275E23E}.png",
     "YFiles/{B9E7754A-2EF9-4169-A924-6C94F750C0D0}.png",
-    "СSharp/🟡Unsafe.md",
-    "СSharp/Async.md",
-    "AdditionalTasks/Capcha.md",
-    "DataBase/🟡Triggers.md",
-    "DataBase/🟡Projection.md",
     "СleanСode",
     "CICD",
     "Math",
