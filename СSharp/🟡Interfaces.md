@@ -89,4 +89,4 @@ class SimpleMessenger : IMessenger<Message>
 **IConvertible** - интерфейс для преобразования типа объекта.
 **ICloneable** - интерфейс для копирования объекта.
 
-[[🟡ExecutionModel]]
+[[СSharp/🟡Base|🟡Base]]

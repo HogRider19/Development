@@ -27,4 +27,4 @@ value is ClassType { field1: val1, field2: val2 }
 listObject is [1, 2, 3, 4, 5]
 ```
 
-[[🟡ExecutionModel]]
+[[СSharp/🟡Base|🟡Base]]

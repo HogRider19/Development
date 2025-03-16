@@ -49,4 +49,4 @@
 7. **GetTotalMemory** - возвращает объем памяти в байтах, которое занято в куче.
 
 
-[[🟡ExecutionModel]]
+[[СSharp/🟡Base|🟡Base]]

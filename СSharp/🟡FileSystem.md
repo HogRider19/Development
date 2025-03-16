@@ -74,4 +74,4 @@ using (StreamReader reader = new StreamReader(path))
 6. **Read(byte[] array, int offset, int count)** - считывает данные в массив.
 7. **Write(byte[] array, int offset, int count)** - записывает в файл массив.
 
-[[🟡ExecutionModel]]
+[[СSharp/🟡Base|🟡Base]]

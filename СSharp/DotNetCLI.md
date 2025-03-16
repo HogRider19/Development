@@ -16,4 +16,4 @@
 **dotnet new** - Инициализирует проект для заданного шаблона.
 **dotnet new list** - список всех доступных шаблонов
 
-[[🟡ExecutionModel]]
+[[СSharp/🟡Base|🟡Base]]
