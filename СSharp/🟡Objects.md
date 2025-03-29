@@ -195,6 +195,4 @@ public record struct Person
 }
 ```
 
-
-
 [[СSharp/🟡Base|🟡Base]]
