@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "СSharp/MemoryManagement.md",
+                "file": "СSharp/LINQ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MemoryManagement"
+              "title": "LINQ"
             }
           }
         ]
@@ -166,6 +166,7 @@
   },
   "active": "8f3ea0fcbf6fc49b",
   "lastOpenFiles": [
+    "СSharp/MemoryManagement.md",
     "СSharp/LINQ.md",
     "СSharp/🟡Delegates.md",
     "СSharp/🟡Interfaces.md",
@@ -175,7 +176,6 @@
     "СSharp/🟢DotNetCLI.md",
     "СSharp/Reflection.md",
     "СSharp/FileSystem.md",
-    "СSharp/MemoryManagement.md",
     "СSharp/Multithreading.md",
     "СSharp/Parallelism.md",
     "СSharp/Asynchrony.md",
