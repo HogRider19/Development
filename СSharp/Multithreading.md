@@ -57,6 +57,40 @@ ThreadPool.RegisterWaitForSingleObject(
 
 ---
 
+Класс `SynchronizationContext` в представляет абстракцию для управления контекстом синхронизации, который используется для выполнения операций в определенном потоке. Этот класс предоставляет механизм для выполнения кода в нужном потоке, например, для взаимодействия с пользовательским интерфейсом в многозадачных приложениях.
+
+Контекст используется для управления синхронизацией потоков. Позволяет перенаправлять выполнение кода в контексте нужного потока например, для потока интерфейса. А также управляет асинхронными операциями при работе с  асинхронными методами.
+
+
+```c#
+SynchronizationContext context = new SynchronizationContext();
+
+context.Post(_ => {}, null); // Async
+context.Send(_ => {}, null); // Sync
+```
+
+
+
+```c#
+// Абстракция группировки потоков
+// Устанавливается для потока
+public class SynchronizationContext
+{
+    public static SynchronizationContext Current { get; } // Контекст текущего потока
+    public virtual SynchronizationContext CreateCopy { get; } // Создание копии
+    
+    public static void SetSynchronizationContext(SynchronizationContext); // Установка контекста текущему потоку
+    
+    void Post(SendDelegate action, object state); // Асинхронный вызов
+    void Send(SendDelegate action, object state); // Синхронный вызов
+
+    void OperationStarted();
+    void OperationCompleted();
+}
+```
+
+---
+
 При конкурентом выполнении потоков с доступом к общим ресурсам, могут возникнуть некоторые аномалии при выполнении программы. Вот несколько основных из них:
 
 **==Deadlock==**. Представляет ситуацию при которой потоки взаимно блокируют друг друга.
