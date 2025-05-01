@@ -57,37 +57,26 @@ ThreadPool.RegisterWaitForSingleObject(
 
 ---
 
-Класс `SynchronizationContext` в представляет абстракцию для управления контекстом синхронизации, который используется для выполнения операций в определенном потоке. Этот класс предоставляет механизм для выполнения кода в нужном потоке, например, для взаимодействия с пользовательским интерфейсом в многозадачных приложениях.
+Контекст синхронизации `SynchronizationContext` представляет собой абстракцию 
+над механизмом управляемого выполнения делегатов. То есть контекст синхронизации позволяет пользовательскому коду не заботиться о том, как  будет выполняться делегат.
+Базовая реализация контекста для асинхронного выполнения использует `ThreadPool`.
+Но также можно реализовать контекст синхронизации и любым другим способом.
+К примеру `Winforms` и `Wpf` создаю свои контексты для выполнения в `UI` потоке.
 
-Контекст используется для управления синхронизацией потоков. Позволяет перенаправлять выполнение кода в контексте нужного потока например, для потока интерфейса. А также управляет асинхронными операциями при работе с  асинхронными методами.
-
-
-```c#
-SynchronizationContext context = new SynchronizationContext();
-
-context.Post(_ => {}, null); // Async
-context.Send(_ => {}, null); // Sync
-```
-
-
+Метод `Post` у позволяет выполнить код асинхронна, а метод `Send` асинхронно.
+Текущий контекст потока доступен через свойство `SynchronizationContext.Current`.
+Установить контекст для потока можно через свойство `SetSynchronizationContext`.
 
 ```c#
-// Абстракция группировки потоков
-// Устанавливается для потока
-public class SynchronizationContext
-{
-    public static SynchronizationContext Current { get; } // Контекст текущего потока
-    public virtual SynchronizationContext CreateCopy { get; } // Создание копии
-    
-    public static void SetSynchronizationContext(SynchronizationContext); // Установка контекста текущему потоку
-    
-    void Post(SendDelegate action, object state); // Асинхронный вызов
-    void Send(SendDelegate action, object state); // Синхронный вызов
 
-    void OperationStarted();
-    void OperationCompleted();
-}
+var context = new SingleThreadSynchronizationContext();
+SynchronizationContext.SetSynchronizationContext(context);
+
+SynchronizationContext.Current.Post(_ => {}, null); // Async
+SynchronizationContext.Current.Send(_ => {}, null); // Sync
 ```
+
+Например контекст синхронизации может быть использован так: есть группа математических алгоритмов, которые принимают контекст синхронизации и использует его для выполнения вычислений. Таким образом, мы абстрагируем алгоритмы от конкурентных вычислений.
 
 ---
 
