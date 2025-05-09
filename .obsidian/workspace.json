@@ -11,10 +11,14 @@
             "id": "1296062fbe503779",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "СSharp/🟡Multithreading.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "🟡Multithreading"
             }
           }
         ]
@@ -162,6 +166,15 @@
   },
   "active": "1296062fbe503779",
   "lastOpenFiles": [
+    "DataBase/🟡Base.md",
+    "DataBase/🟡DataDefinitionLanguage.md",
+    "AdditionalTasks/ComObjects.md",
+    "AdditionalTasks/Microservices.md",
+    "AdditionalTasks/Capcha.md",
+    "AdditionalTasks/GraphQL.md",
+    "AdditionalTasks/GithubActions.md",
+    "AdditionalTasks/Encryption.md",
+    "AdditionalTasks/🟡Uuid.md",
     "СSharp/🟡FileSystem.md",
     "СSharp/🟡Matching.md",
     "СSharp/🟡Unsafe.md",
@@ -179,15 +192,6 @@
     "СSharp/🟡Reflection.md",
     "СSharp/🟡Parallelism.md",
     "СSharp/🟡Multithreading.md",
-    "СSharp/🟡Exceptions.md",
-    "СSharp/🟡Memory.md",
-    "СSharp/🟡Collections.md",
-    "СSharp/🟡Access.md",
-    "СSharp/MemoryManagement.md",
-    "СSharp/🟡ExecutionModel.md",
-    "СSharp/🟡PInvoke.md",
-    "СSharp/🟡Objects.md",
-    "СSharp/🟢DotNetCLI.md",
     "YFiles/{2E71FB78-4BE7-4A29-A64E-99E4B26C4390}.png",
     "YFiles/Docker.pdf",
     "YFiles/3DLayered.png",
