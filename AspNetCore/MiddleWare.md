@@ -126,4 +126,4 @@ public class NameMiddleware
 }
 ```
 
-[[AspNetCore/🟡Base|🟡Base]]
+[[AspNetCore/Base|Base]]

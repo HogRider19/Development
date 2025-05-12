@@ -112,4 +112,4 @@ builder.Services.Configure<Person>(opt => opt.Age = 22);
 **Env.IsStaging()** - возвращает true, если имя среды - Staging 
 **Env.IsProduction()** - возвращает true, если имя среды - Production
 
-[[AspNetCore/🟡Base|🟡Base]]
+[[AspNetCore/Base|Base]]

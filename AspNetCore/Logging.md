@@ -61,5 +61,5 @@ var app = builder.Build();
 **ClearProviders():** удаляет все провайдеры логирования.
 **SetMinimumLevel():** устанавливает минимальный уровень.
 
-[[AspNetCore/🟡Base|🟡Base]]
+[[AspNetCore/Base|Base]]
 
