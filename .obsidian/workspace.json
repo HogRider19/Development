@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AspNetCore/Configuration.md",
+                "file": "AspNetCore/Base.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Configuration"
+              "title": "Base"
             }
           }
         ]
@@ -166,6 +166,10 @@
   },
   "active": "63daa5502a9a9128",
   "lastOpenFiles": [
+    "AspNetCore/WebApplication.md",
+    "AspNetCore/Base.md",
+    "AspNetCore/WebApplicationBuilder.md",
+    "AspNetCore/Configuration.md",
     "AspNetCore/DependencyInjection.md",
     "AspNetCore/HttpContext.md",
     "AspNetCore/Logging.md",
@@ -175,8 +179,6 @@
     "AspNetCore/StateManagment.md",
     "AspNetCore/UrlRewriting.md",
     "AspNetCore/Сaching.md",
-    "AspNetCore/Base.md",
-    "AspNetCore/Configuration.md",
     "AspNetCore/Authentification.md",
     "AdditionalTasks/🟡Сss.md",
     "ApiAndProtocols/Protobuf.md",
@@ -190,8 +192,6 @@
     "AdditionalTasks/Capcha.md",
     "AdditionalTasks/GraphQL.md",
     "AdditionalTasks/GithubActions.md",
-    "AdditionalTasks/Encryption.md",
-    "AdditionalTasks/🟡Uuid.md",
     "YFiles/{2E71FB78-4BE7-4A29-A64E-99E4B26C4390}.png",
     "YFiles/Docker.pdf",
     "YFiles/3DLayered.png",
