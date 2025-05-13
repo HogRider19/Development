@@ -60,4 +60,4 @@ app.Map("/", () => Results.Extensions.Html("<h1>Hello</h1>"));
 **SignIn():** выполняет SignInAsync() (IAuthenticationService).
 **SignOut():** выполняет SignOutAsync( (IAuthenticationService).
 
-[[AspNetCore/Base|Base]]
+[[AspNetCore/🟡Base|🟡Base]]

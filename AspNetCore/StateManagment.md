@@ -104,4 +104,4 @@ app.Run(async (context) =>
 app.Run();
 ```
 
-[[AspNetCore/Base|Base]]
+[[AspNetCore/🟡Base|🟡Base]]

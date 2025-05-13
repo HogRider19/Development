@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AspNetCore/Base.md",
+                "file": "AspNetCore/Configuration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Base"
+              "title": "Configuration"
             }
           }
         ]
@@ -166,23 +166,23 @@
   },
   "active": "63daa5502a9a9128",
   "lastOpenFiles": [
-    "AspNetCore/WebApplication.md",
-    "AspNetCore/Base.md",
+    "AspNetCore/Authentification.md",
+    "AspNetCore/🟡Base.md",
+    "ApiAndProtocols/🟡SSH.md",
     "AspNetCore/WebApplicationBuilder.md",
+    "AspNetCore/Routing.md",
+    "AspNetCore/StateManagment.md",
+    "AspNetCore/WebApplication.md",
     "AspNetCore/Configuration.md",
     "AspNetCore/DependencyInjection.md",
     "AspNetCore/HttpContext.md",
     "AspNetCore/Logging.md",
     "AspNetCore/MiddleWare.md",
     "AspNetCore/ResultsApi.md",
-    "AspNetCore/Routing.md",
-    "AspNetCore/StateManagment.md",
     "AspNetCore/UrlRewriting.md",
     "AspNetCore/Сaching.md",
-    "AspNetCore/Authentification.md",
     "AdditionalTasks/🟡Сss.md",
     "ApiAndProtocols/Protobuf.md",
-    "ApiAndProtocols/🟡SSH.md",
     "СSharp/🟡Base.md",
     "СSharp/🟡Multithreading.md",
     "DataBase/🟡Base.md",
