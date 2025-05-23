@@ -20,8 +20,6 @@ var isPost = context.Request.Method.Equals("POST",
 var isSecure = context.Request.Scheme == "https";
 ```
 
----
-
 **==Host==**. Содержит `HostString` запроса, где хранится доменное имя и опцио­нально порт, 
 к примеру `example.com:5001`. Данное свойство полезно при построении ссылок.
 
@@ -31,55 +29,37 @@ var hostString = context.Request.Host;
 var host = host.Host; var port = host.Port;
 ```
 
-**==PathBase, Path==**
+**==PathBase, Path==**. `PathBase` представляет префиксный сегмент, на котором смонтировано приложение. В `Path` записывается остальная часть пути после базового пути `PathBase`.
 
-- `PathBase` — «префиксный» сегмент, на котором смонтировано приложение (например, при использовании виртуального каталога).
-    
-- `Path` — остальная часть пути после `PathBase`.
-    
+```c#
+// при запросе GET https://localhost:5001/app/api/values 
+// и если приложение смонтировано на "/app" 
+var basePath = context.Request.PathBase;    // "/app" 
+var path = context.Request.Path;            // "/api/values"
+```
 
-csharp
+**==QueryString, Query==**. `QueryString` представляет объект типа `QueryString` который является оболочкой над целой строкой запроса. `Query` в свою очередь представляет разобранную коллекцию параметров `IQueryCollection`, где можно получить значения по ключу.
 
-КопироватьРедактировать
+```c#
+var rawQs = context.Request.QueryString;    // QueryString
+var id = context.Request.Query["id"];       // StringValues
+```
 
-`// при запросе GET https://localhost:5001/app/api/values // и если приложение смонтировано на "/app" var basePath = context.Request.PathBase;    // "/app" // а вот дальше var path = context.Request.Path;            // "/api/values"`
+**==Headers==**. Представляет коллекцию `IHeaderDictionary` всех заголовков запроса. Позволяет читать и записывать заголовки, например для `CORS`, логирования или аутентификации.
 
----
+```c#
+var userAgent = context.Request.Headers["User-Agent"].ToString();
+if (context.Request.Headers.ContainsKey("X-My-Header")) 
+	var val = context.Request.Headers["X-My-Header"];
+```
 
-**==QueryString, Query==**
+**==Cookies==**. Свойство возвращает коллекцию типа `IRequestCookieCollection`,
+которая содержит все куки, отправленные клиентом в заголовке `Cookie`.
 
-- `QueryString` — строка запроса целиком (например, `"?id=5&page=2"`).
-    
-- `Query` — разобранная коллекция параметров `IQueryCollection`, где можно получить значения по ключу.
-    
-
-csharp
-
-КопироватьРедактировать
-
-`var rawQs = context.Request.QueryString;    // QueryString var id = context.Request.Query["id"];       // StringValues`
-
----
-
-**==Headers==**  
-Коллекция `IHeaderDictionary` всех заголовков запроса. Позволяет читать (и даже модифицировать) заголовки, например для CORS, логирования или аутентификации.
-
-csharp
-
-КопироватьРедактировать
-
-`var userAgent = context.Request.Headers["User-Agent"].ToString(); if (context.Request.Headers.ContainsKey("X-My-Header")) {     var val = context.Request.Headers["X-My-Header"]; }`
-
----
-
-**==Cookies==**  
-Предоставляет доступ к кукам клиента: `IRequestCookieCollection`. Для чтения значений используйте индексирование.
-
-csharp
-
-КопироватьРедактировать
-
-`if (context.Request.Cookies.TryGetValue("SessionId", out var sessionId)) {     // работаем с sessionId }`
+```c#
+if (context.Request.Cookies.TryGetValue("SessionId", out var sessionId))
+	Console.WriteLine(sessionId);
+```
 
 ---
 
