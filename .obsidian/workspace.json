@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AspNetCore/🟡AppBuilder.md",
+                "file": "AspNetCore/DependencyInjection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🟡AppBuilder"
+              "title": "DependencyInjection"
             }
           }
         ]
@@ -166,8 +166,13 @@
   },
   "active": "19fff44d5051bcd1",
   "lastOpenFiles": [
-    "AspNetCore/Old/Configuration.md",
+    "СleanСode/🟡InversionOfControl.md",
+    "AspNetCore/DependencyInjection.md",
+    "СleanСode/🟡Relations.md",
+    "СleanСode/🟡SOLID.md",
     "AspNetCore/🟡AppBuilder.md",
+    "EntityFramework/🟡Inheritance.md",
+    "AspNetCore/Old/Configuration.md",
     "AspNetCore/🟡Application.md",
     "AspNetCore/🟡MiddleWare.md",
     "AspNetCore/🟡HttpContext.md",
@@ -188,11 +193,6 @@
     "Authentication/JWT.md",
     "AspNetCoreMVС/Filters.md",
     "AspNetCoreMVС/Validation.md",
-    "AspNetCoreMVС/HtmlHelpers.md",
-    "AspNetCoreMVС/TagHelpers.md",
-    "AspNetCore/Old/DependencyInjection.md",
-    "СSharp/🟡Base.md",
-    "СSharp/🟡Exceptions.md",
     "YFiles/{2E71FB78-4BE7-4A29-A64E-99E4B26C4390}.png",
     "YFiles/Docker.pdf",
     "YFiles/3DLayered.png",
