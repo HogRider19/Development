@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AspNetCore/🟡DependencyInjection.md",
+                "file": "AspNetCore/🟡Base.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🟡DependencyInjection"
+              "title": "🟡Base"
             }
           }
         ]
@@ -164,13 +164,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "19fff44d5051bcd1",
+  "active": "0293b9eb6abbb099",
   "lastOpenFiles": [
-    "AspNetCore/🟡AppBuilder.md",
-    "AspNetCore/🟡DependencyInjection.md",
-    "СleanСode/🟡InversionOfControl.md",
-    "AspNetCore/Verisons.md",
     "AspNetCore/🟡Base.md",
+    "AspNetCore/Verisons.md",
+    "AspNetCore/🟡DependencyInjection.md",
+    "AspNetCore/🟡AppBuilder.md",
+    "СleanСode/🟡InversionOfControl.md",
     "AspNetCore/Old/Routing.md",
     "СleanСode/🟡Relations.md",
     "СleanСode/🟡SOLID.md",
