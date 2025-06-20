@@ -21,9 +21,9 @@ app.UseEndpoints(endpoints =>
 ```c#
 app.UseEndpoints(endpoints =>
 {
-    endpoints.MapGet("/admin", () => "Admin Panel")
-        .RequireAuthorization(); // Добавляет проверку авторизации перед выполнением endpoint
-
+	// Добавляет проверку авторизации перед выполнением endpoint
+    endpoints.MapGet("/admin", () => "Admin Panel").RequireAuthorization();
+    
     endpoints.MapPost("/upload", async (HttpRequest req) => 
     {
         var file = req.Form.Files.GetFile("file");
@@ -122,6 +122,10 @@ app.Map(
 // users/Bob/41 -> info = Bob/41
 app.Map("users/{**info}", (string info) => $"User Info: {info}");
 ```
+
+---
+
+
 
 ---
 ---

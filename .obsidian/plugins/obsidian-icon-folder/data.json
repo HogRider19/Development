@@ -43,8 +43,6 @@
   "IdentityServer": "FabUserSecret",
   "YFiles": "FabImage",
   "JavaScript": "FabJs",
-  "WinForms": "FabWindowRestore",
-  "WPF": "SiWindows",
   "OpenGL": "IbGrid",
   "Math": "IbGraphLineUp",
   "CICD": "FabDownLeftAndUpRightToCenter",
