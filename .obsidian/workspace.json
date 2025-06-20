@@ -166,8 +166,9 @@
   },
   "active": "19fff44d5051bcd1",
   "lastOpenFiles": [
-    "AspNetCore/🟡MiddleWare.md",
     "AspNetCore/Routing.md",
+    "AspNetCore/ResultsApi.md",
+    "AspNetCore/🟡MiddleWare.md",
     "AspNetCore/🟡DependencyInjection.md",
     "AspNetCore/🟡Base.md",
     "AspNetCore/Verisons.md",
@@ -192,7 +193,6 @@
     "Authentication/SessionsCookies.md",
     "Authentication/OpenId.md",
     "Authentication/JWT.md",
-    "AspNetCoreMVС/Filters.md",
     "YFiles/{2E71FB78-4BE7-4A29-A64E-99E4B26C4390}.png",
     "YFiles/Docker.pdf",
     "YFiles/3DLayered.png",
