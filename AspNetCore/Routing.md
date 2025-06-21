@@ -125,7 +125,96 @@ app.Map("users/{**info}", (string info) => $"User Info: {info}");
 
 ---
 
+При обработке запроса система маршрутизации на основании шаблон маршрута автоматически извлекает из строки запроса значения для параметров вне зависимости
+от содержимого этих значений. Однако это не всегда бывает удобно. Например, мы хотим, чтобы какой-то параметр представлял только числа, а другой параметр начинался строго
+с определенного символа. И для этого необходимо задать ограничения маршрута.
 
+Ограничения маршрутов выполняются при парсинге пути запроса, сопоставлении его 
+с шаблоном и выделении из него значений для параметров маршрута. Прежде всего они решают, допустимо ли для параметра маршрута значение, которое выделено из запроса. Также ограничения маршрута могут решать, можно ли вообще сопоставить путь запроса
+с определенным маршрутом. Кроме того они могут применяться при генерации ссылок.
+
+Если в параметр запроса будет передано значение, которое невозможно привести к принимаемому типу, то в приложении возникнет `Exception` и вернется ответ `500`.
+А если не пройдено ограничение маршрута, то ошибки не будет и вернутся `404`.
+
+Каждое подобное ограничения представляет определенный класс. Все классы ограничений находятся в пространстве имен `Routing.Constraints`. Ограничения можно комбинировать. При применении нескольких ограничений одновременно, они отделяются двоеточием.
+
+```c#
+app.Map("/users/{id:int}", (int id) => $"User Id: {id}");
+
+app.Map(
+    "/users/{name:alpha:minlength(2)}/{age:int:range(1, 110)}",
+    (string name, int age) => $"User Age: {age} \nUser Name:{name}"
+);
+```
+
+| Ограничение       | Класс ограничения        | Пример                 |
+| ----------------- | ------------------------ | ---------------------- |
+| int               | IntRouteConstraint       | `{id:int}`             |
+| bool              | BoolRouteConstraint      | `{active:bool}`        |
+| datetime          | DateTimeRouteConstraint  | `{date:datetime}`      |
+| decimal           | DecimalRouteConstraint   | `{price:decimal}`      |
+| double            | DoubleRouteConstraint    | `{weight:double}`      |
+| float             | FloatRouteConstraint     | `{height:float}`       |
+| guid              | GuidRouteConstraint      | `{id:guid}`            |
+| long              | LongRouteConstraint      | `{id:long}`            |
+| minlength(value)  | MinLengthRouteConstraint | `{name:minlength(3)}`  |
+| maxlength(value)  | MaxLengthRouteConstraint | `{name:maxlength(20)}` |
+| length(value)     | LengthRouteConstraint    | `{name:length(10)}`    |
+| length(min, max)  | LengthRouteConstraint    | `{name:length(3,20)}`  |
+| min(value)        | MinRouteConstraint       | `{age:min(3)}`         |
+| max(value)        | MaxRouteConstraint       | `{age:max(20)}`        |
+| range(min, max)   | RangeRouteConstraint     | `{age:range(18,99)}`   |
+| regex(expression) | RegexRouteConstraint     | `{phone:regex(^\d)}`   |
+| required          | RequiredRouteConstraint  | `{name:required}`      |
+| alpha             | AlphaRouteConstraint     | `{name:alpha}`         |
+Хотя `AspNetCore` по умолчанию предоставляет большой набор ограничений, их может 
+быть недостаточно. И в этом случае мы можем определить свои ограничения маршрутов. Для создания собственного ограничения нужно реализовать интерфейс `IRouteConstraint` 
+с одним единственным методом `Match`, который имеет следующую сигнатуру аргументов.
+
+```c#
+public interface IRouteConstraint
+{
+    bool Match(HttpContext? httpContext,
+            IRouter? route,
+            string routeKey,
+            RouteValueDictionary values,
+            RouteDirection routeDirection);
+}
+```
+
+```c#
+var builder = WebApplication.CreateBuilder();
+
+// Регистрация Constraint
+builder.Services.Configure<RouteOptions>(
+		options => options.ConstraintMap.Add("secretcode", 
+			typeof(SecretCodeConstraint)));
+ 
+var app = builder.Build();
+ 
+app.Map(
+    "/users/{name}/{token:secretcode(123466)}/",
+    (string name, int token) => $"Name: {name} \nToken: {token}"
+);
+app.Run();
+ 
+public class SecretCodeConstraint : IRouteConstraint
+{
+    string secretCode;    // допустимый код
+    public SecretCodeConstraint(string secretCode)
+    {
+        this.secretCode = secretCode;
+    }
+ 
+    public bool Match(HttpContext? httpContext,
+	    IRouter? route,string routeKey,
+	    RouteValueDictionary values,
+	    RouteDirection routeDirection)
+    {
+        return values[routeKey]?.ToString() == secretCode;
+    }
+}
+```
 
 ---
 ---
