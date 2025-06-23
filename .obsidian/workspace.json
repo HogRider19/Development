@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AspNetCore/Configuration.md",
+                "file": "AspNetCore/Logging.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Configuration"
+              "title": "Logging"
             }
           }
         ]
@@ -166,10 +166,10 @@
   },
   "active": "cf92ae869b0f0690",
   "lastOpenFiles": [
+    "AspNetCore/🟡Configuration.md",
+    "AspNetCore/🟡AppBuilder.md",
     "AspNetCore/🟡Routing.md",
     "AspNetCore/🟡Base.md",
-    "AspNetCore/Configuration.md",
-    "AspNetCore/🟡AppBuilder.md",
     "AspNetCore/🟡Application.md",
     "AspNetCore/🟡StaticFiles.md",
     "AspNetCore/🟡DependencyInjection.md",
