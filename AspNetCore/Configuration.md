@@ -1,4 +1,66 @@
-Важную роль в приложении играет конфигурация, которая определяет базовые настройки приложения. Приложение может получать конфигурационные настройки из следующих источников: Аргументы командной строки, Переменные среды окружения, Объекты .NET в памяти, Файлы JSON, Azure, или также из пользовательских источников.
+Важную роль в приложении играет конфигурация, которая определяет базовые настройки приложения. Приложение может получать конфигурационные настройки из следующих источников: Аргументы командной строки, Переменные среды окружения, Объекты в памяти, Файлы `JSON`, Сервера `Azure`, или также из пользовательских источников.
+Конфигурация приложения представляет объект интерфейса `IConfiguration`.
+
+```c#
+public interface IConfiguration
+{
+    string this[string key] { get; set; }
+    IEnumerable<IConfigurationSection> GetChildren();
+    IConfigurationSection GetSection(string key);
+    IChangeToken GetReloadToken();
+}
+```
+
+Данный интерфейс во-первых предоставляет индексатор `this[string key]`, который позволяет получить значение параметра конфигурации по указанному ключу. При этом и ключ, и значение представлены объектами типа `string`. Во-вторых, метод `GetChildren()` возвращает набор подсекций текущей секции конфигурации в виде коллекции. Кроме того, метод `GetReloadToken()` позволяет получить объект `IChangeToken`, предназначенный для отслеживания изменений конфигурации. Наконец, с помощью метода `GetSection(key)` можно получить конкретную секцию конфигурации, соответствующую заданному ключу.
+
+Также конфигурация может быть представлена интерфейсом `IConfigurationRoot`, который наследуется от IConfiguration и представляет агрегирующую точку получения конфигураций.
+
+```C#
+public interface IConfigurationRoot : IConfiguration
+{
+    IEnumerable<IConfigurationProvider> Providers { get; }
+    void Reload();
+}
+```
+
+В приложении настройки конфигурации хранятся в свойстве `Configuration` объекта `WebApplication`. Через это свойство мы можем установить или получить все настройки.
+У приложение это свойство представлено `IConfiguration`, а у билдера `IConfigurationRoot`.
+
+```c#
+app.Configuration["name"] = "Tom";
+app.Configuration["age"] = "100";
+ 
+app.Run(async (context) =>
+{
+    var config = app.Services.GetRequiredService<IConfiguration>();
+    await context.Response.WriteAsync($"{config["name"]} - {config["age"]}");
+});
+```
+
+В примере выше настройки конфигурации устанавливались обычным словарем. Однако если настроек много или если они имеют сложную структуру, гораздо проще установить их одним скопом, особенно в случае, когда настройки хранятся в файле` json` или берутся из другого источника конфигурации. Для добавления источника конфигурации в приложении можно применять свойство `Configuration` билдера. Оно представляет `ConfigurationManager`,
+наследника `IConfigurationRoot` для него определены методы добавления источников.
+
+```c#
+builder.Configuration.AddInMemoryCollection(
+	new Dictionary<string, string>
+{
+    {"name", "Tom"},
+    {"age", "37"}
+});
+ 
+var app = builder.Build();
+
+app.Run(async (context) =>
+{
+    var config = app.Services.GetRequiredService<IConfiguration>();
+    await context.Response.WriteAsync($"{config["name"]} - {config["age"]}");
+});
+```
+
+---
+---
+---
+
 
 **IConfiguration** - интерфейс определяющий конфигурацию приложения.
 **IConfigurationRoot** - интерфейс для агрегатора конфигураций.
