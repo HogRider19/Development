@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AspNetCore/🟡Logging.md",
+                "file": "AspNetCore/StateManagment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🟡Logging"
+              "title": "StateManagment"
             }
           }
         ]
@@ -166,8 +166,8 @@
   },
   "active": "6f34d617548dcf83",
   "lastOpenFiles": [
-    "AspNetCore/🟡MiddleWare.md",
     "AspNetCore/🟡Logging.md",
+    "AspNetCore/🟡MiddleWare.md",
     "AspNetCore/🟡DependencyInjection.md",
     "AspNetCore/🟡Base.md",
     "AspNetCore/🟡Routing.md",
