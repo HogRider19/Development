@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AspNetCore/StateManagment.md",
+                "file": "AspNetCore/🟡StateManagment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "StateManagment"
+              "title": "🟡StateManagment"
             }
           }
         ]
@@ -166,6 +166,18 @@
   },
   "active": "6f34d617548dcf83",
   "lastOpenFiles": [
+    "AspNetCore/🟡AppBuilder.md",
+    "AspNetCore/🟡StateManagment.md",
+    "ApiAndProtocols/HTTP.md",
+    "ApiAndProtocols/REST.md",
+    "ApiAndProtocols/Swagger.md",
+    "ApiAndProtocols/WebSockets.md",
+    "ApiAndProtocols/RPC.md",
+    "ApiAndProtocols/SOAP.md",
+    "ApiAndProtocols/SSH.md",
+    "ApiAndProtocols/SSE.md",
+    "ApiAndProtocols/AJAX.md",
+    "ApiAndProtocols/SMTP.md",
     "AspNetCore/🟡Logging.md",
     "AspNetCore/🟡MiddleWare.md",
     "AspNetCore/🟡DependencyInjection.md",
@@ -180,18 +192,6 @@
     "СSharp/🟢DotNetCLI.md",
     "AdditionalTasks/ComObjects.md",
     "AdditionalTasks/Microservices.md",
-    "AdditionalTasks/🟡Uuid.md",
-    "СSharp/🟡Parallelism.md",
-    "AspNetCore/🟡AppBuilder.md",
-    "AspNetCore/🟡Configuration.md",
-    "AspNetCore/🟡Application.md",
-    "AspNetCore/🟡StaticFiles.md",
-    "Blazor/🟡Формы.md",
-    "Blazor/🟡HttpClient.md",
-    "Blazor/🟡Маршрутизация.md",
-    "Blazor/🟡Razor.md",
-    "Blazor/🟡Компоненты.md",
-    "Blazor/🟡Base.md",
     "AspNetCore/Old",
     "YFiles/{2E71FB78-4BE7-4A29-A64E-99E4B26C4390}.png",
     "YFiles/Docker.pdf",
