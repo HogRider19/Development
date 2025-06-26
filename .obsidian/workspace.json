@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AspNetCore/🟡Errors.md",
+                "file": "AspNetCore/Cors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🟡Errors"
+              "title": "Cors"
             }
           }
         ]
@@ -166,8 +166,11 @@
   },
   "active": "6f34d617548dcf83",
   "lastOpenFiles": [
-    "AspNetCore/🟡StateManagment.md",
+    "AspNetCore/Authentification.md",
+    "AspNetCore/Cors.md",
+    "AspNetCore/🟡ResultsApi.md",
     "AspNetCore/🟡Errors.md",
+    "AspNetCore/🟡StateManagment.md",
     "Pasted image 20250625221450.png",
     "AspNetCore/🟡AppBuilder.md",
     "ApiAndProtocols/HTTP.md",
@@ -190,8 +193,6 @@
     "Math/🟡Interpolation.md",
     "Math/🟡Spline.md",
     "OpenGL/🟡Display.md",
-    "OpenGL/🟡SharpGl.md",
-    "СSharp/🟢DotNetCLI.md",
     "AspNetCore/Old",
     "YFiles/{2E71FB78-4BE7-4A29-A64E-99E4B26C4390}.png",
     "YFiles/Docker.pdf",
