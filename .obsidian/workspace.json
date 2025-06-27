@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AspNetCore/🟡Cors.md",
+                "file": "AspNetCore/Сaching.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🟡Cors"
+              "title": "Сaching"
             }
           }
         ]
@@ -166,7 +166,10 @@
   },
   "active": "6f34d617548dcf83",
   "lastOpenFiles": [
+    "AspNetCore/🟡UrlRewriting.md",
     "AspNetCore/🟡DependencyInjection.md",
+    "AspNetCore/Сaching.md",
+    "AspNetCore/🟡Configuration.md",
     "AspNetCore/🟡Cors.md",
     "AspNetCore/Настройка Scopt.md",
     "AspNetCore/🟡Routing.md",
@@ -190,9 +193,6 @@
     "AspNetCore/🟡MiddleWare.md",
     "AspNetCore/🟡Base.md",
     "Git/🟡Stashing.md",
-    "Math/🟡Approximation.md",
-    "Math/🟡Interpolation.md",
-    "Math/🟡Spline.md",
     "AspNetCore/Old",
     "YFiles/{2E71FB78-4BE7-4A29-A64E-99E4B26C4390}.png",
     "YFiles/Docker.pdf",
