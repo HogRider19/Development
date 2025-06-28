@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AspNetCore/Сaching.md",
+                "file": "AspNetCore/🟡Сaching.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сaching"
+              "title": "🟡Сaching"
             }
           }
         ]
@@ -167,8 +167,8 @@
   "active": "6f34d617548dcf83",
   "lastOpenFiles": [
     "AspNetCore/🟡UrlRewriting.md",
+    "AspNetCore/🟡Сaching.md",
     "AspNetCore/🟡DependencyInjection.md",
-    "AspNetCore/Сaching.md",
     "AspNetCore/🟡Configuration.md",
     "AspNetCore/🟡Cors.md",
     "AspNetCore/Настройка Scopt.md",
