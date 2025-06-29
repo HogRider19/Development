@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AspNetCore/🟡Сaching.md",
+                "file": "AspNetCore/Authentification.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🟡Сaching"
+              "title": "Authentification"
             }
           }
         ]
@@ -166,14 +166,16 @@
   },
   "active": "6f34d617548dcf83",
   "lastOpenFiles": [
-    "AspNetCore/🟡UrlRewriting.md",
+    "AspNetCore/🟡HealthCheck.md",
+    "AspNetCore/Authentification.md",
     "AspNetCore/🟡Сaching.md",
+    "AspNetCoreMVС/Models.md",
+    "AspNetCore/🟡UrlRewriting.md",
     "AspNetCore/🟡DependencyInjection.md",
     "AspNetCore/🟡Configuration.md",
     "AspNetCore/🟡Cors.md",
     "AspNetCore/Настройка Scopt.md",
     "AspNetCore/🟡Routing.md",
-    "AspNetCore/Authentification.md",
     "AspNetCore/🟡ResultsApi.md",
     "AspNetCore/🟡Errors.md",
     "AspNetCore/🟡StateManagment.md",
@@ -191,8 +193,6 @@
     "ApiAndProtocols/SMTP.md",
     "AspNetCore/🟡Logging.md",
     "AspNetCore/🟡MiddleWare.md",
-    "AspNetCore/🟡Base.md",
-    "Git/🟡Stashing.md",
     "AspNetCore/Old",
     "YFiles/{2E71FB78-4BE7-4A29-A64E-99E4B26C4390}.png",
     "YFiles/Docker.pdf",
