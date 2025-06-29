@@ -45,11 +45,99 @@ builder.Services.AddAuthentication("Cookies").AddCookie();
 
 ---
 
-Авторизация представляет процесс определения прав пользователя в системе, к каким ресурсам приложения он имеет право доступа и при каких условиях.
+Авторизация представляет процесс определения прав пользователя в системе,
+к каким ресурсам приложения он имеет право доступа и при каких условиях.
 
-Хотя авторизация представляет отдельный независимый процесс, тем не менее для нее также необходимо, чтобы приложение также применяло аутентификацию.
+Хотя авторизация представляет отдельный независимый процесс, тем не менее 
+для нее также необходимо, чтобы приложение также применяло аутентификацию.
 
-Для подключения авторизации необходимо встроить компонент Microsoft.AspNetCore.Authorization.AuthorizationMiddleware. Для этого применяется встроенный метод расширения UseAuthorization()
+Для подключения авторизации необходимо встроить компонент `AuthorizationMiddleware`. Для этого применяется встроенный метод расширения приложения `UseAuthorization()`.
+Также нужно зарегистрировать сервисы авторизации с помощью `AddAuthorization()`.
+
+Вторая версия метода принимает делегат, который с помощью специального
+объекта `AuthorizationOptions` позволяет сконфигурировать авторизацию. 
+
+Ключевым элементом механизма авторизации в `AspNetCore` является атрибут `AuthorizeAttribute` , который позволяет ограничить доступ к ресурсам.
+
+```c#
+var builder = WebApplication.CreateBuilder();
+ 
+builder.Services.AddAuthentication("Bearer").AddJwtBearer();    
+builder.Services.AddAuthorization();           
+ 
+var app = builder.Build();
+ 
+app.UseAuthentication();
+app.UseAuthorization();
+ 
+app.Map("/hello", [Authorize]() => "Hello World!");
+app.Map("/", () => "Home Page");
+ 
+app.Run();
+```
+
+---
+
+Одним из подходов к авторизации и аутентификации в `AspNetCore` представляет механизм аутентификации и авторизации с помощью `JWT` токенов. Токен `JWT` представляет собой веб стандарт, который определяет способ передачи зашифрованных данных в формате `JSON`.
+
+```c#
+builder.Services.AddAuthorization();
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+.AddJwtBearer(options =>
+{
+	options.TokenValidationParameters = new TokenValidationParameters
+	{
+		// указывает, будет ли валидироваться издатель при валидации токена
+		ValidateIssuer = true,
+		// строка, представляющая издателя
+		ValidIssuer = AuthOptions.ISSUER,
+		// будет ли валидироваться потребитель токена
+		ValidateAudience = true,
+		// установка потребителя токена
+		ValidAudience = AuthOptions.AUDIENCE,
+		// будет ли валидироваться время существования
+		ValidateLifetime = true,
+		// установка ключа безопасности
+		IssuerSigningKey = AuthOptions.GetSymmetricSecurityKey(),
+		// валидация ключа безопасности
+		ValidateIssuerSigningKey = true,
+	 };
+});
+```
+
+```c#
+app.UseAuthentication();
+app.UseAuthorization();
+ 
+app.Map("/login/{username}", (string username) => 
+{
+    var claims = new List<Claim> {new Claim(ClaimTypes.Name, username) };
+    var jwt = new JwtSecurityToken(
+            issuer: AuthOptions.ISSUER,
+            audience: AuthOptions.AUDIENCE,
+            claims: claims,
+            expires: DateTime.UtcNow.Add(TimeSpan.FromMinutes(2)),
+            signingCredentials: 
+	            new SigningCredentials(
+		            AuthOptions.GetSymmetricSecurityKey(), 
+		            SecurityAlgorithms.HmacSha256));
+            
+    return new JwtSecurityTokenHandler().WriteToken(jwt);
+});
+ 
+app.Map("/data", [Authorize] () => new { message= "Hello World!" });
+```
+
+```c#
+public class AuthOptions
+{
+    public const string ISSUER = "MyAuthServer"; // издатель токена
+    public const string AUDIENCE = "MyAuthClient"; // потребитель токена
+    const string KEY = "mysupersecret_secretsecretsecretkey!123";   // ключ
+    public static SymmetricSecurityKey GetSymmetricSecurityKey() => 
+        new SymmetricSecurityKey(Encoding.UTF8.GetBytes(KEY));
+}
+```
 
 ---
 ---
