@@ -77,7 +77,130 @@ app.Run();
 ```
 
 ---
+Одной из задач аутентификации в приложении `AspNetCore` является установка пользователя, который представлен в виде свойства `User` класса `HttpContext`.
 
+```c#
+public abstract System.Security.Claims.ClaimsPrincipal User { get; set; }
+```
+
+Данное свойство предоставляет класс `ClaimsPrincipal`. Непосредственно данные, которые идентифицируют пользователя хранятся в свойстве `Identity` класса `ClaimPrincipal`.
+
+```c#
+public virtual System.Security.Principal.IIdentity? Identity { get; }
+```
+
+Это свойство представляет основную идентичность. Но так как с  пользователем может
+быть связан набор идентичностей, то также в классе определено свойство `Identities`.
+
+```c#
+public virtual IEnumerable<ClaimsIdentity> Identities { get; }
+```
+
+Свойство `Identity` представляет интерфейс `IIdentity`, и, как правило, в качестве такой реализации применяется класс `ClaimsIdentity`. Объект `IIdentity`, в свою очередь, предоставляет информацию о текущем пользователе через следующие свойства:
+
+```c#
+public interface IIdentity
+{
+	// Возвращает имя пользователя. Обычно в качестве подобного имени
+	// используется логин, по которому пользователь входит в приложение
+	string? Name { get; }
+	
+	// Тип аутентификации в строковом виде
+	string? AuthenticationType { get; }
+	
+	// Возвращает `true`, если пользователь аутентифицирован
+	bool IsAuthenticated { get; }
+}
+```
+
+Для создания объекта `ClaimsIdentity` можно применять ряд конструкторов, но, для того, чтобы пользователь был аутентифицирован, необходимо, как минимум, предоставить тип аутентификации, которая передается через конструктор. Тип аутентификации представляет произвольную строку, которая описывает некоторым образом способ аутентификации.
+
+```c#
+var identity = new ClaimsIdentity("Cookies");
+var principal = new ClaimsPrincipal(identity);
+
+await context.SignInAsync(claimsPrincipal);
+await context.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
+```
+
+Аутентификацию пользователя можно произвести с помощью метода `context.SignInAsync`.
+А разаутентифицировать пользователя можно через `context.SignOutAsync` у контекста.
+
+```c#
+builder.Services.AddAuthentication(
+	CookieAuthenticationDefaults.AuthenticationScheme).AddCookie();
+ 
+var app = builder.Build();
+ 
+app.UseAuthentication();
+ 
+app.MapGet("/login", async (HttpContext context) =>
+{
+    var claimsIdentity = new ClaimsIdentity("Undefined");
+    var claimsPrincipal = new ClaimsPrincipal(claimsIdentity);
+    
+    // установка аутентификационных куки
+    await context.SignInAsync(claimsPrincipal);
+    return Results.Redirect("/");
+});
+ 
+app.MapGet("/logout", async (HttpContext context) =>
+{
+    await context.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
+    return "Данные удалены";
+});
+
+app.Map("/", (HttpContext context) =>
+{
+    var user = context.User.Identity;
+    if (user is not null && user.IsAuthenticated)
+    {
+        return $"Пользователь аутентифицирован";
+    }
+    else
+    {
+        return "Пользователь НЕ аутентифицирован";
+    }
+});
+```
+
+Текущего пользователя мы можем получить через свойство `context.User`. Фактически это тот самый объект `ClaimsPrincipal`, который мы записываем через `context.SignInAsync()`. И когда приходит запрос, инфраструктура `AspNetCore` дешифрует и десериализует данные запроса и создает по ним объект `ClaimsPrincipal`, который хранится в `context.User`.
+
+Если используется аутентификация на основе `Cookies`, то данные о пользователе будут извлекаться из аутентификационных кук. Если применяются `jwt` токены, то данные берутся из полученного токена. Причем даже если аутентификационных куки или токена в запросе нет, то объект `ClaimsPrincipal` все равно будет создаваться инфраструктурой `AspNetCore`.
+
+Поскольку объект `HttpContext` доступен через механизм внедрения зависимостей в любой точке приложения, то мы можем через этот объект получить пользователя, как в примере выше. Однако, если нам нужно только свойство `User`, а не весь объект `HttpContext`, то мы можем также через механизм внедрения зависимостей получить сервис `ClaimsPrincipal`.
+
+```c#
+app.Map("/", (ClaimsPrincipal claimsPrincipal) =>
+{
+    var user = claimsPrincipal.Identity;
+    if (user is not null && user.IsAuthenticated) 
+        return "Пользователь аутентифицирован";
+    else return "Пользователь не аутентифицирован";
+});
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
 Одним из подходов к авторизации и аутентификации в `AspNetCore` представляет механизм аутентификации и авторизации с помощью `JWT` токенов. Токен `JWT` представляет собой веб стандарт, который определяет способ передачи зашифрованных данных в формате `JSON`.
 
 ```c#
@@ -138,6 +261,39 @@ public class AuthOptions
         new SymmetricSecurityKey(Encoding.UTF8.GetBytes(KEY));
 }
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 ---
