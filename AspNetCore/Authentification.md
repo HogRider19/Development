@@ -216,15 +216,122 @@ public class Claim
 }
 ```
 
+Для создания объекта `Claim` определено множество конструкторов, но чаще
+всего применяется следующая версия конструктора принимающая два параметра:
 
+```c#
+public Claim(string type, string value)
+```
 
+В качестве первого параметра в конструктор передается тип `Claim` это некоторая строка, которая, описывает назначение `Claim`. В качестве второго параметра передается значение.
+В качестве типов можно использовать встроенные константы, к примеру `ClaimTypes.Name`, которая имеет значение `http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name` и которая обычно применяется для установки имени пользователя то, что потом мы сможем получить через свойство `HttpContext.User.Identity.Name`. Но при этом в качестве ключа типа мы можем использовать простые строки, но использование `ClaimTypes` позволяет получить внутреннюю поддержку записи свойств со стороны фреймворка `AspNetCore`.
 
+```c#
+var usernameClaim = new Claim(ClaimTypes.Name, "Tom");
+```
 
+Все объекты `Claim`, которые мы создали для описания пользователя, затем 
+можно передать в виде коллекции в конструктор класса `ClaimsIdentity`:
 
+```c#
+var usernameClaim = new Claim(ClaimTypes.Name, "Tom");
+var claimsIdentity = new ClaimsIdentity(
+	new List<Claim> { usernameClaim }, "Cookies");
+```
 
+Объект `ClaimsIdentity` определяет ряд вспомогательных методов, которые
+позволяют удобно манипулировать внутренней коллекцией с утверждениями.
 
+```c#
+// 1. Создаем ClaimsIdentity и добавляем claims
+var identity = new ClaimsIdentity();
 
+// Добавляем одиночный claim
+identity.AddClaim(new Claim(ClaimTypes.Name, "Иван Иванов"));
 
+// Добавляем несколько claims
+identity.AddClaims(new List<Claim>
+{
+	new Claim(ClaimTypes.Email, "ivan@example.com"),
+	new Claim(ClaimTypes.Role, "Admin"),
+	new Claim(ClaimTypes.Role, "Developer"),
+	new Claim("CustomClaim", "CustomValue"),
+	new Claim(ClaimTypes.DateOfBirth, "1985-05-15", ClaimValueTypes.Date)
+};);
+
+// 2. Создаем ClaimsPrincipal
+var principal = new ClaimsPrincipal(identity);
+
+// 3. Работа с Claims через ClaimsPrincipal
+Console.WriteLine("Все claims через Principal:");
+foreach (var claim in principal.Claims)
+	Console.WriteLine($"{claim.Type}: {claim.Value}");
+
+// 4. Поиск claims
+var roleClaims = principal.FindAll(ClaimTypes.Role);
+foreach (var claim in roleClaims)
+	Console.WriteLine(claim.Value);
+
+var firstEmail = principal.FindFirst(ClaimTypes.Email);
+Console.WriteLine($"\nПервый email: {firstEmail?.Value}");
+
+// 5. Проверка наличия claim
+bool hasAdminRole = principal.HasClaim(ClaimTypes.Role, "Admin");
+Console.WriteLine($"\nЕсть ли роль Admin: {hasAdminRole}");
+
+bool hasCustomClaim = principal.HasClaim(c => 
+	c.Type == "CustomClaim" && c.Value == "CustomValue");
+
+// 6. Проверка роли
+bool isInAdminRole = principal.IsInRole("Admin");
+Console.WriteLine($"Принадлежит ли к роли Admin: {isInAdminRole}");
+
+// 7. Работа непосредственно с ClaimsIdentity
+Console.WriteLine("\nРабота с ClaimsIdentity:");
+
+// Поиск claims в identity
+var dobClaim = identity.FindFirst(ClaimTypes.DateOfBirth);
+Console.WriteLine($"Дата рождения: {dobClaim?.Value}");
+
+// Проверка наличия claim
+bool hasDobClaim = identity.HasClaim(c => c.Type == ClaimTypes.DateOfBirth);
+Console.WriteLine($"Есть ли claim с датой рождения: {hasDobClaim}");
+
+// Удаление claim
+var claimToRemove = identity.FindFirst("CustomClaim");
+if (claimToRemove != null)
+{
+	identity.RemoveClaim(claimToRemove);
+	Console.WriteLine("CustomClaim был удален");
+}
+
+// Попытка удаления с TryRemoveClaim (в .NET Core 3.0+)
+var emailClaim = new Claim(ClaimTypes.Email, "ivan@example.com");
+bool removed = identity.TryRemoveClaim(emailClaim);
+Console.WriteLine($"Email claim был удален: {removed}");
+
+// Вывод оставшихся claims
+Console.WriteLine("\nОставшиеся claims:");
+foreach (var claim in identity.Claims)
+	Console.WriteLine($"{claim.Type}: {claim.Value}");
+```
+
+Если мы динамически решим добавить новый `claim` или удалить существующий, то
+после изменения `claim` необходимо заново пересоздавать объект `ClaimsPrincipal`
+и перезаписывать аутентификационные куки или `jwt` токен, где эти данные храниться.
+
+```c#
+app.MapGet("/addage", async (HttpContext context) =>
+{
+    if(context.User.Identity is ClaimsIdentity claimsIdentity)
+    {
+        claimsIdentity.AddClaim(new Claim("age", "37"));
+        var claimsPrincipal = new ClaimsPrincipal(claimsIdentity);
+        await context.SignInAsync(claimsPrincipal);
+    }
+    return Results.Redirect("/");
+});
+```
 
 
 
