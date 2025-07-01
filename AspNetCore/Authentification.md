@@ -333,11 +333,26 @@ app.MapGet("/addage", async (HttpContext context) =>
 });
 ```
 
+---
 
+Авторизация по ролям позволяет разграничить доступ к ресурсам приложения в зависимости от роли, к которой принадлежит пользователь данного приложения. 
 
+Для указания роли здесь применяется тип `Claim` `ClaimsIdentity.DefaultRoleClaimType`, 
+а в качестве значения для этого типа используется имя роли. По сути больше для установки роли в приложении для пользователя никаких других утверждений больше не нужно.
 
+Чтобы на уровне отдельных ресурсов приложения разграничить доступ в зависимости
+от роли, свойству `Roles` атрибута `Authorize` передается набор допустимых ролей:
 
+```c#
+app.Map("/admin", [Authorize(Roles = "admin")]() => "Admin Panel");
 
+app.Map("/", [Authorize(Roles = "admin, user")](HttpContext context) =>
+{
+    var login = context.User.FindFirst(ClaimsIdentity.DefaultNameClaimType);
+    var role = context.User.FindFirst(ClaimsIdentity.DefaultRoleClaimType);  
+    return $"Name: {login?.Value}\nRole: {role?.Value}";
+});
+```
 
 
 ---
@@ -417,7 +432,56 @@ public class AuthOptions
 
 
 
-
+```c#
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+    .AddCookie(options =>
+    {
+        // Путь перенаправления для не аутентифицированного пользователя
+        options.LoginPath = "/login"; 
+        
+        // Путь перенаправления для аутентифицированного пользователя,
+        // который не имеет прав для доступа к ресурсу
+        options.AccessDeniedPath = "/accessdenied"; 
+        
+        // Время жизни cookie (по умолчанию — до закрытия браузера)
+        options.ExpireTimeSpan = TimeSpan.FromDays(30); 
+        
+        // Позволяет обновлять время жизни cookie при каждом запросе
+        options.SlidingExpiration = true; 
+        
+        // Имя cookie (по умолчанию ".AspNetCore.Cookies")
+        options.Cookie.Name = "auth_cookie"; 
+        
+        // Домен, для которого будет действовать cookie (если нужен кросс-доменный доступ)
+        // options.Cookie.Domain = "example.com"; 
+        
+        // Путь, для которого cookie будет действителен (по умолчанию "/")
+        options.Cookie.Path = "/"; 
+        
+        // Флаг, указывающий, что cookie доступен только через HTTP (без JS)
+        options.Cookie.HttpOnly = true; 
+        
+        // Политика безопасности cookie (SameSiteMode.Strict/Lax/None)
+        options.Cookie.SameSite = SameSiteMode.Strict; 
+        
+        // Требует HTTPS для передачи cookie (в Production рекомендуется true)
+        options.Cookie.SecurePolicy = CookieSecurePolicy.Always; 
+        
+        // Позволяет обрабатывать событие перенаправления на логин
+        options.Events.OnRedirectToLogin = context =>
+        {
+            // Кастомная обработка (например, для API возвращать 401 вместо редиректа)
+            return Task.CompletedTask;
+        };
+        
+        // Позволяет обрабатывать событие отказа в доступе
+        options.Events.OnRedirectToAccessDenied = context =>
+        {
+            // Кастомная обработка (например, для API возвращать 403 вместо редиректа)
+            return Task.CompletedTask;
+        };
+    });
+```
 
 
 
