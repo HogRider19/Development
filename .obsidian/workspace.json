@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AspNetCore/🟡Authentification.md",
+                "file": "AspNetCoreMVС/Base.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🟡Authentification"
+              "title": "Base"
             }
           }
         ]
@@ -166,11 +166,25 @@
   },
   "active": "6f34d617548dcf83",
   "lastOpenFiles": [
-    "AspNetCore/🟡HealthCheck.md",
+    "YFiles/Pasted image 20250705190901.png",
     "AspNetCore/🟡Authentification.md",
-    "Pasted image 20250702220444.png",
+    "YFiles/Pasted image 20240522140913.png",
+    "YFiles/Pasted image 20240620011855.png",
+    "YFiles/{A80B2D69-0833-4F1A-933E-91F759A74A00}.png",
+    "YFiles/{1442A9BB-AF98-4C69-8BAD-CAA15A1689B9}.png",
+    "YFiles/{1968019F-C74C-4327-BDC8-B750F72280A1}.png",
+    "YFiles/{5BA58C59-3021-444B-B0D0-2241F8E77622}.png",
+    "YFiles/{DC1D4C57-0B73-44A3-B412-120BF81361B4}.png",
+    "YFiles/{B3670DAB-2B06-4217-AA01-7CD069E32BB4}.png",
+    "YFiles/{99844973-4A01-48DA-B668-E6A92A2EEF77}.png",
+    "YFiles/{9B268937-9C48-4014-886C-262754E1790D}.png",
+    "YFiles/Alignment.md",
+    "YFiles/Docker.pdf",
+    "AspNetCoreMVС/Base.md",
+    "AspNetCoreMVС/Old",
+    "AspNetCore/🟡HealthCheck.md",
     "AspNetCore/🟡Сaching.md",
-    "AspNetCoreMVС/Models.md",
+    "AspNetCoreMVС/Old/Models.md",
     "AspNetCore/🟡UrlRewriting.md",
     "AspNetCore/🟡DependencyInjection.md",
     "AspNetCore/🟡Configuration.md",
@@ -180,7 +194,6 @@
     "AspNetCore/🟡ResultsApi.md",
     "AspNetCore/🟡Errors.md",
     "AspNetCore/🟡StateManagment.md",
-    "Pasted image 20250625221450.png",
     "AspNetCore/🟡AppBuilder.md",
     "ApiAndProtocols/HTTP.md",
     "ApiAndProtocols/REST.md",
@@ -191,18 +204,7 @@
     "ApiAndProtocols/SSH.md",
     "ApiAndProtocols/SSE.md",
     "ApiAndProtocols/AJAX.md",
-    "ApiAndProtocols/SMTP.md",
-    "AspNetCore/🟡Logging.md",
     "AspNetCore/Old",
-    "YFiles/{2E71FB78-4BE7-4A29-A64E-99E4B26C4390}.png",
-    "YFiles/Docker.pdf",
-    "YFiles/3DLayered.png",
-    "YFiles/Onion.png",
-    "YFiles/IdentityServer.png",
-    "YFiles/Pasted image 20231011212242.png",
-    "YFiles/Pasted image 20231021163522.png",
-    "YFiles/Pasted image 20240406232922.png",
-    "YFiles/{E242D612-55EF-433B-B5C0-F115862646F0}.png",
     "СleanСode",
     "CICD",
     "Math",
@@ -210,7 +212,6 @@
     "WPF",
     "WinForms",
     "WPF",
-    "JavaScript",
     "Testing/Untitled.canvas",
     "Untitled.canvas",
     "Patterns/Examples/Untitled.canvas"
