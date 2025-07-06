@@ -84,7 +84,40 @@ public class HomeController : Controller
 
 ---
 
-Контекст контроллера 
+При обращении к контроллеру среда `AspNetCore` создает для этого контроллера контекст, который содержит различные связанные с контроллером данные. Для получения контекста
+в классе контроллера нам доступно свойство `ControllerContext`, которое представляет одноименный класс `ControllerContext`. Этот класс определяет ряд важный свойств:
+
+```c#
+public IActionResult Index()
+{
+	// Содержит информацию о контексте запроса
+	var httpContext = ControllerContext.HttpContext;
+	
+	// Возвращает дескриптор действия - объект ActionDescriptor,
+	// который описывает вызываемое действие контроллера
+	var actionDescriptor = ControllerContext.ActionDescriptor;
+	
+	// Возвращает словарь ModelStateDictionary, который
+	// используется для валидации данных, отправленных пользователем
+	var modelState = ControllerContext.ModelState;
+	
+	// Возвращает данные маршрута
+	var routeData = ControllerContext.RouteData;
+	
+	return View();
+}
+
+public abstract class ControllerBase  
+{
+	public HttpContext HttpContext => ControllerContext.HttpContext;
+    public HttpRequest Request => HttpContext?.Request!;
+    public HttpResponse Response => HttpContext?.Response!;
+    public RouteData RouteData => ControllerContext.RouteData;
+    public ModelStateDictionary ModelState => ControllerContext.ModelState;
+}
+```
+
+Действие контроллера по факту представляет собой конечную точку. Из-за этого действие контроллера позволяет записывать результат с использованием подхода через `Responce`.
 
 ---
 ---
@@ -169,7 +202,7 @@ public class HomeController : Controller
 
 ### Переопределение контроллеров
 
-Как правило, для создания контроллера достаточно унаследовать свой класс от базового класса Controller. Однако если нам необходимо, чтобы наши контроллеры реализовали некоторую общую логику, мы можем определить свой базовый класс контроллера и уже от него наследовать остальные контроллеры. Либо мы также можем переопределить некоторые методы базового класса Controller
+Как правило, для создания контроллера достаточно унаследовать свой класс от базового класса Controller. Однако если нам необходимо, чтобы наши контроллеры реализовали некоторую общую логику, мы можем определить свой базовый класс контроллера и уже от него наследовать остальные контроллеры. Либо мы также можем переопределить некоторые методы базового класса Contro ller
 
 **OnActionExecuting()** - метод выполняется при вызове метода контроллера до его непосредственного выполнения. В качестве параметра принимает объект типа ActionExecutingContext
 
