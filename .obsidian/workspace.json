@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dd50b6c805b02055",
+        "id": "b7b8824bcc740f75",
         "type": "tabs",
         "children": [
           {
-            "id": "6f34d617548dcf83",
+            "id": "4d595fb9733514f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,10 +164,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "6f34d617548dcf83",
+  "active": "4d595fb9733514f5",
   "lastOpenFiles": [
-    "AspNetCoreMVС/🟡Base.md",
+    "AspNetCore/🟡Routing.md",
     "AspNetCoreMVС/Controllers.md",
+    "AspNetCoreMVС/🟡Base.md",
     "AspNetCore/🟡Authentification.md",
     "YFiles/Pasted image 20250705190901.png",
     "YFiles/Pasted image 20240522140913.png",
@@ -190,7 +191,6 @@
     "AspNetCore/🟡Configuration.md",
     "AspNetCore/🟡Cors.md",
     "AspNetCore/Настройка Scopt.md",
-    "AspNetCore/🟡Routing.md",
     "AspNetCore/🟡ResultsApi.md",
     "AspNetCore/🟡Errors.md",
     "AspNetCore/🟡StateManagment.md",
