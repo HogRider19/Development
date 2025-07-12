@@ -198,6 +198,9 @@ public abstract class ControllerBase
 **ViewComponentResult:** возвращает в ответ сущность ViewComponent
 **ViewResult:** производит рендеринг представления и отправляет результаты рендеринга в виде html-страницы клиенту
 
+
+
+
 ---
 
 ### Переопределение контроллеров
