@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b7b8824bcc740f75",
+        "id": "2fda230eb1ff5d1d",
         "type": "tabs",
         "children": [
           {
-            "id": "4d595fb9733514f5",
+            "id": "03ababa2f64e0ca8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AspNetCoreMVС/Controllers.md",
+                "file": "AspNetCoreMVС/🟡Controllers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Controllers"
+              "title": "🟡Controllers"
             }
           }
         ]
@@ -164,12 +164,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "4d595fb9733514f5",
+  "active": "03ababa2f64e0ca8",
   "lastOpenFiles": [
-    "AspNetCore/🟡Routing.md",
-    "AspNetCoreMVС/Controllers.md",
     "AspNetCoreMVС/🟡Base.md",
+    "AspNetCoreMVС/🟡Controllers.md",
+    "AspNetCore/🟡Base.md",
+    "AspNetCore/🟡ResultsApi.md",
+    "AspNetCore/🟡Cors.md",
     "AspNetCore/🟡Authentification.md",
+    "AspNetCore/🟡Routing.md",
     "YFiles/Pasted image 20250705190901.png",
     "YFiles/Pasted image 20240522140913.png",
     "YFiles/Pasted image 20240620011855.png",
@@ -189,9 +192,7 @@
     "AspNetCore/🟡UrlRewriting.md",
     "AspNetCore/🟡DependencyInjection.md",
     "AspNetCore/🟡Configuration.md",
-    "AspNetCore/🟡Cors.md",
     "AspNetCore/Настройка Scopt.md",
-    "AspNetCore/🟡ResultsApi.md",
     "AspNetCore/🟡Errors.md",
     "AspNetCore/🟡StateManagment.md",
     "AspNetCore/🟡AppBuilder.md",
@@ -203,7 +204,6 @@
     "ApiAndProtocols/SOAP.md",
     "ApiAndProtocols/SSH.md",
     "ApiAndProtocols/SSE.md",
-    "ApiAndProtocols/AJAX.md",
     "AspNetCore/Old",
     "СleanСode",
     "CICD",
