@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AspNetCoreMVС/Views.md",
+                "file": "AspNetCoreMVС/Razor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Views"
+              "title": "Razor"
             }
           }
         ]
@@ -166,7 +166,9 @@
   },
   "active": "03ababa2f64e0ca8",
   "lastOpenFiles": [
+    "AspNetCoreMVС/Views.md",
     "AspNetCoreMVС/🟡Controllers.md",
+    "AspNetCoreMVС/Razor.md",
     "AspNetCoreMVС/🟡Base.md",
     "AspNetCore/🟡Base.md",
     "AspNetCore/🟡ResultsApi.md",
@@ -202,8 +204,6 @@
     "ApiAndProtocols/WebSockets.md",
     "ApiAndProtocols/RPC.md",
     "ApiAndProtocols/SOAP.md",
-    "ApiAndProtocols/SSH.md",
-    "ApiAndProtocols/SSE.md",
     "AspNetCore/Old",
     "СleanСode",
     "CICD",
