@@ -64,6 +64,61 @@ public IActionResult Index()
 <h3>@ViewData["Message"]</h3>
 ```
 
+**==ViewBag==**. Класс во многом подобен `ViewData`. Так как он является `dynemic` он
+позволяет определить различные свойства и присвоить им любое значения:
+
+```c#
+public IActionResult Index()
+{
+    ViewBag.Message = "Hello METANIT.COM";
+    ViewBag.Title = "ASP.NET Core MVC";
+    return View();
+}
+```
+
+```c#
+<h2>@ViewBag.Title</h2>
+<h3>@ViewBag.Message</h3>
+```
+
+**==Model==**. Модель представления является во многих случаях более предпочтительным способом для передачи данных в представление. Для передачи данных в представление используется версия метода `View`, при этом в качестве модели используется любой объект:
+
+```c#
+public IActionResult Index()
+{
+    var people = new List<string> { "Tom", "Sam", "Bob" };
+    return View(people);
+}
+```
+
+```c#
+@model List<string>
+ 
+<h2>Count: @Model.Count</h2>
+<ul>
+@foreach(string person in Model)
+{
+    <li>@person</li>
+}
+</ul>
+```
+
+В самом начале представления с помощью директивы `@model` устанавливается тип модели представления. Тип модели должен совпадать с типом объекта, который передается `View()`.
+Представления у которых есть модель, называются строго типизированными `StronglyTyped`.
+
+```c#
+@model <ModelType>
+@Model // Переданная модель
+```
+
+
+
+
+
+
+
+
+
 ---
 ---
 ---

@@ -122,3 +122,31 @@ finally
 <p>Sum of 5 and 4: <b> @Sum(5, 4)</b></p>
 <p>Square of 4: <b>@Square(4)</b></p>
 ```
+
+---
+Установка типа модели, требуемой для представления, производится через `@model`. После передачи модели, она будет доступна через `@Model`. Сама модель передается в контроллере.
+
+```c#
+@model <ModelType>
+@Model // Переданная модель
+```
+
+```c#
+public IActionResult Index()
+{
+    var people = new List<string> { "Tom", "Sam", "Bob" };
+    return View(people);
+}
+```
+
+```c#
+@model List<string>
+ 
+<h2>Count: @Model.Count</h2>
+<ul>
+@foreach(string person in Model)
+{
+    <li>@person</li>
+}
+</ul>
+```
