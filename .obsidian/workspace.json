@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AspNetCoreMVС/Razor.md",
+                "file": "AspNetCoreMVС/Views.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Razor"
+              "title": "Views"
             }
           }
         ]
@@ -166,8 +166,8 @@
   },
   "active": "03ababa2f64e0ca8",
   "lastOpenFiles": [
-    "AspNetCoreMVС/Views.md",
     "AspNetCoreMVС/Razor.md",
+    "AspNetCoreMVС/Views.md",
     "AspNetCoreMVС/🟡Controllers.md",
     "AspNetCoreMVС/🟡Base.md",
     "AspNetCore/🟡Base.md",
