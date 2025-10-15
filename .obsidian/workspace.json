@@ -156,6 +156,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -164,8 +165,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "03ababa2f64e0ca8",
+  "active": "0293b9eb6abbb099",
   "lastOpenFiles": [
+    "Миграции",
+    "AutoMapper",
+    "СSharp/Attributes.md",
     "AspNetCoreMVС/🟡Razor.md",
     "AspNetCoreMVС/🟡Controllers.md",
     "AspNetCoreMVС/Views.md",
@@ -202,8 +206,6 @@
     "ApiAndProtocols/REST.md",
     "ApiAndProtocols/Swagger.md",
     "ApiAndProtocols/WebSockets.md",
-    "ApiAndProtocols/RPC.md",
-    "ApiAndProtocols/SOAP.md",
     "AspNetCore/Old",
     "СleanСode",
     "CICD",
@@ -211,7 +213,6 @@
     "OpenGL",
     "WPF",
     "WinForms",
-    "WPF",
     "Testing/Untitled.canvas",
     "Untitled.canvas",
     "Patterns/Examples/Untitled.canvas"
