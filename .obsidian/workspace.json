@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AspNetCoreMVС/Views.md",
+                "file": "СSharp/🟡Attributes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Views"
+              "title": "🟡Attributes"
             }
           }
         ]
@@ -165,14 +165,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0293b9eb6abbb099",
+  "active": "03ababa2f64e0ca8",
   "lastOpenFiles": [
+    "СSharp/🟡Base.md",
+    "СSharp/🟡Attributes.md",
+    "AspNetCoreMVС/🟡Razor.md",
+    "AspNetCoreMVС/Views.md",
     "Миграции",
     "AutoMapper",
-    "СSharp/Attributes.md",
-    "AspNetCoreMVС/🟡Razor.md",
     "AspNetCoreMVС/🟡Controllers.md",
-    "AspNetCoreMVС/Views.md",
     "AspNetCoreMVС/🟡Base.md",
     "AspNetCore/🟡Base.md",
     "AspNetCore/🟡ResultsApi.md",
@@ -212,7 +213,6 @@
     "Math",
     "OpenGL",
     "WPF",
-    "WinForms",
     "Testing/Untitled.canvas",
     "Untitled.canvas",
     "Patterns/Examples/Untitled.canvas"
