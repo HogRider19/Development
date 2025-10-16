@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "СSharp/🟡Attributes.md",
+                "file": "СSharp/🟡Asynchrony.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🟡Attributes"
+              "title": "🟡Asynchrony"
             }
           }
         ]
@@ -167,11 +167,11 @@
   },
   "active": "03ababa2f64e0ca8",
   "lastOpenFiles": [
-    "СSharp/🟡Base.md",
     "СSharp/🟡Attributes.md",
+    "СSharp/🟡Base.md",
     "AspNetCoreMVС/🟡Razor.md",
     "AspNetCoreMVС/Views.md",
-    "Миграции",
+    "DataBase/Миграции",
     "AutoMapper",
     "AspNetCoreMVС/🟡Controllers.md",
     "AspNetCoreMVС/🟡Base.md",
