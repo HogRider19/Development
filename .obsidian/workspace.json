@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Base.md",
+                "file": "Math/🟡Base.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Base"
+              "title": "🟡Base"
             }
           }
         ]
@@ -167,14 +167,15 @@
   },
   "active": "9a8ff59f404af67c",
   "lastOpenFiles": [
+    "YFiles/Pasted image 20260118205114.png",
     "Math/🟡Spline.md",
+    "Math/🟡Base.md",
     "СSharp/🟡FileSystem.md",
     "СSharp/🟡Exceptions.md",
     "AdditionalTasks/🟡Uuid.md",
     "YFiles/Alignment.md",
     "YFiles/Onion.png",
     "AdditionalTasks/Capcha.md",
-    "Math/Base.md",
     "Math/🟡Interpolation.md",
     "Без названия.base",
     "Без названия 1.base",
@@ -199,7 +200,6 @@
     "Architecture/Domain Driven Design.md",
     "Architecture/UnitOfWork.md",
     "Architecture/Onion.md",
-    "Architecture/3d-layered.md",
     "DataBase/Миграции",
     "AutoMapper",
     "YFiles/Pasted image 20250705190901.png",
