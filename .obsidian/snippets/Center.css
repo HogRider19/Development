@@ -1,0 +1,21 @@
+/* Выравнивание по ширине для редактора */
+.cm-s-obsidian .cm-line {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+/* Выравнивание для режима чтения */
+.markdown-preview-view p {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+/* Для заголовков (опционально) */
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6 {
+    text-align: justify;
+}

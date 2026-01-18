@@ -1,3 +1,7 @@
 {
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "Justify",
+    "Center"
+  ]
 }

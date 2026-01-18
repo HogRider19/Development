@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2fda230eb1ff5d1d",
+        "id": "1db6b10a10999d18",
         "type": "tabs",
         "children": [
           {
-            "id": "03ababa2f64e0ca8",
+            "id": "9a8ff59f404af67c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "СSharp/🟡Asynchrony.md",
+                "file": "Math/Base.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🟡Asynchrony"
+              "title": "Base"
             }
           }
         ]
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Поиск"
             }
           },
           {
@@ -71,7 +71,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Закладки"
             }
           }
         ]
@@ -165,54 +165,54 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "03ababa2f64e0ca8",
+  "active": "9a8ff59f404af67c",
   "lastOpenFiles": [
+    "Math/🟡Spline.md",
+    "СSharp/🟡FileSystem.md",
+    "СSharp/🟡Exceptions.md",
+    "AdditionalTasks/🟡Uuid.md",
+    "YFiles/Alignment.md",
+    "YFiles/Onion.png",
+    "AdditionalTasks/Capcha.md",
+    "Math/Base.md",
+    "Math/🟡Interpolation.md",
+    "Без названия.base",
+    "Без названия 1.base",
+    "Без названия 2.base",
+    "Math/🟡Approximation.md",
+    "Patterns/🟡Base.md",
+    "SignalR/Filters.md",
+    "YFiles/Pasted image 20240430123112.png",
+    "YFiles/{ACC8FA3D-C50F-48C6-878B-882351FA04CA}.png",
+    "AspNetCore/🟡Application.md",
     "СSharp/🟡Attributes.md",
     "СSharp/🟡Base.md",
-    "AspNetCoreMVС/🟡Razor.md",
-    "AspNetCoreMVС/Views.md",
+    "СSharp/🟡ExecutionModel.md",
+    "СSharp/🟢DotNetCLI.md",
+    "СSharp/🟡Objects.md",
+    "СSharp/🟡Access.md",
+    "СSharp/🟡Parallelism.md",
+    "AdditionalTasks/🟡Redis.md",
+    "СleanСode/🟡Relations.md",
+    "YFiles/{3916BD0C-1D70-4515-9679-C9577CA5CFC4}.png",
+    "AspNetCore/🟡Base.md",
+    "Architecture/Domain Driven Design.md",
+    "Architecture/UnitOfWork.md",
+    "Architecture/Onion.md",
+    "Architecture/3d-layered.md",
     "DataBase/Миграции",
     "AutoMapper",
-    "AspNetCoreMVС/🟡Controllers.md",
-    "AspNetCoreMVС/🟡Base.md",
-    "AspNetCore/🟡Base.md",
-    "AspNetCore/🟡ResultsApi.md",
-    "AspNetCore/🟡Cors.md",
-    "AspNetCore/🟡Authentification.md",
-    "AspNetCore/🟡Routing.md",
     "YFiles/Pasted image 20250705190901.png",
     "YFiles/Pasted image 20240522140913.png",
     "YFiles/Pasted image 20240620011855.png",
     "YFiles/{A80B2D69-0833-4F1A-933E-91F759A74A00}.png",
     "YFiles/{1442A9BB-AF98-4C69-8BAD-CAA15A1689B9}.png",
     "YFiles/{1968019F-C74C-4327-BDC8-B750F72280A1}.png",
-    "YFiles/{5BA58C59-3021-444B-B0D0-2241F8E77622}.png",
-    "YFiles/{DC1D4C57-0B73-44A3-B412-120BF81361B4}.png",
-    "YFiles/{B3670DAB-2B06-4217-AA01-7CD069E32BB4}.png",
-    "YFiles/{99844973-4A01-48DA-B668-E6A92A2EEF77}.png",
-    "YFiles/Alignment.md",
     "YFiles/Docker.pdf",
     "AspNetCoreMVС/Old",
-    "AspNetCore/🟡HealthCheck.md",
-    "AspNetCore/🟡Сaching.md",
-    "AspNetCoreMVС/Old/Models.md",
-    "AspNetCore/🟡UrlRewriting.md",
-    "AspNetCore/🟡DependencyInjection.md",
-    "AspNetCore/🟡Configuration.md",
-    "AspNetCore/Настройка Scopt.md",
-    "AspNetCore/🟡Errors.md",
-    "AspNetCore/🟡StateManagment.md",
-    "AspNetCore/🟡AppBuilder.md",
-    "ApiAndProtocols/HTTP.md",
-    "ApiAndProtocols/REST.md",
-    "ApiAndProtocols/Swagger.md",
-    "ApiAndProtocols/WebSockets.md",
     "AspNetCore/Old",
     "СleanСode",
     "CICD",
-    "Math",
-    "OpenGL",
-    "WPF",
     "Testing/Untitled.canvas",
     "Untitled.canvas",
     "Patterns/Examples/Untitled.canvas"
