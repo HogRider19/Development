@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Matrix.md",
+                "file": "Math/Solve.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matrix"
+              "title": "Solve"
             }
           }
         ]
@@ -167,11 +167,11 @@
   },
   "active": "be1f0543aca7f175",
   "lastOpenFiles": [
+    "Math/🟡Matrix.md",
     "Math/Solve.md",
-    "Math/Matrix.md",
+    "Math/🟡Base.md",
     "AspNetCore/🟡Routing.md",
     "AspNetCoreMVС/Views.md",
-    "Math/🟡Base.md",
     "DataBase/🟡DataDefinitionLanguage.md",
     "YFiles/Pasted image 20260119170130.png",
     "YFiles/Pasted image 20260118205114.png",
