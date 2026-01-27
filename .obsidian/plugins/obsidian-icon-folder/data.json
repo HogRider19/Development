@@ -29,7 +29,6 @@
   "AspNetCore": "FabServer",
   "AspNetCoreMVС": "IbTreeMapDown1",
   "Authentication": "FabUsers",
-  "Blazor": "SiBlazor",
   "DataBase": "FabDatabase",
   "Docker": "SiDocker",
   "EntityFramework": "FabMap",
